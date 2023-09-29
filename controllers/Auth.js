@@ -1,14 +1,14 @@
 const User = require("../models/User");
 const bycrypt = require("bcryptjs");
-const sendToken  = require("../utils/sendToken");
-const  sendVerificationMail  = require("../utils/sendVerificationMail");
+const sendToken = require("../utils/sendToken");
+const sendVerificationMail = require("../utils/sendVerificationMail");
 const uuid = require("uuid").v4();
 const { redirect } = require("express/lib/response");
 
 const verificationFlow = async () => {
   // {TODO: send email}
-  await sendVerificationMail(uuid);
-  return uuid;
+  const link = await sendVerificationMail(uuid)
+  return [link, uuid];
 };
 
 exports.verifyUser = async (req, res, next) => {
@@ -21,7 +21,7 @@ exports.verifyUser = async (req, res, next) => {
       verified: true,
       verifyToken: "*",
     }
-  )
+  );
   if (!user) {
     return res.status(400).json({
       success: false,
@@ -50,14 +50,14 @@ exports.registerUser = async (req, res, next) => {
     }
     const salt = await bycrypt.genSalt(10);
     const hashedPassword = await bycrypt.hash(password, salt);
-    const verifyToken = await verificationFlow();
+    const [verlink,verifyToken] = await verificationFlow();
     const newUser = await User.create({
       email,
       password: hashedPassword,
       name,
       verifyToken,
     });
-    sendToken(newUser, 201, res);
+    sendToken(newUser, 201, res, verlink);
   } catch (error) {
     next(error);
   }
