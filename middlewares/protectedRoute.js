@@ -1,5 +1,5 @@
 const jwt = require("jsonwebtoken");
-const Users = require("../modals/User");
+const Users = require("../models/User");
 exports.protectedRoute = async (req, res, next) => {
   let token;
   if (
@@ -18,18 +18,14 @@ exports.protectedRoute = async (req, res, next) => {
     const verifiedUser = jwt.verify(token, process.env.JWT_SECRET);
     if (verifiedUser) {
     }
-    const userFound = await Users.find({ email: verifiedUser.email });
+    const user = await Users.findOne({ email: verifiedUser.email });
     if (!userFound) {
       return res.status(401).json({
         success: false,
         message: "Not authorize to access this route",
       });
     }
-    req.user = {
-      _id: userFound[0]._id,
-      name: userFound[0].name,
-      email: userFound[0].email,
-    };
+    req.user = user;
     console.log(req.user);
     next();
   } catch (err) {

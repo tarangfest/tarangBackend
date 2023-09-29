@@ -1,6 +1,6 @@
 const jsonwebtoken = require("jsonwebtoken");
 
-module.exports = (user, statusCode, res) => {
+module.exports = (user, statusCode, res,verifyLink) => {
   const token = jsonwebtoken.sign(
     { email: user.email },
     process.env.JWT_SECRET,
@@ -11,5 +11,6 @@ module.exports = (user, statusCode, res) => {
   res.status(statusCode).json({
     success: true,
     token,
+    verifyLink
   });
 };
