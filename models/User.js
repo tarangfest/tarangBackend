@@ -22,6 +22,11 @@ const UserSchema = new mongoose.Schema(
       minlength: 6,
       select: false,
     },
+    verified: {
+      type: Boolean,
+      default: false,
+    },
+    verifyToken: String,
   },
   { collection: "users", timestamps: true }
 );
