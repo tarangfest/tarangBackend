@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 const EventSchema = new mongoose.Schema({
-  event_name: {
+  name: {
     type: String,
     required: [true, "Please add a name"],
     trim: true,
@@ -38,21 +38,19 @@ const EventSchema = new mongoose.Schema({
     trim: true,
   },
   reg_fees: {
-    type: Number,
+    type: String,
     required: [true, "Please add registration fees"],
   },
   max_participants: {
-    type: Number,
+    type: String,
     required: [true, "Please add maximum number of participants"],
-    min: 1,
   },
   min_participants: {
-    type: Number,
+    type: String,
     required: [true, "Please add minimum number of participants"],
-    min: 1,
   },
   event_date: {
-    type: Date,
+    type: String,
     required: [true, "Please add event date"],
   },
   event_time: {
