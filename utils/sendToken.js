@@ -9,15 +9,9 @@ module.exports = (user, statusCode, res, verifyLink) => {
       expiresIn: process.env.JWT_EXPIRE,
     }
   );
-  res
-    .cookie("jwt", token, {
-      httpOnly: true,
-      maxAge: 1000 * 60 * 60 * 24 * 30,
-    })
-    .status(statusCode)
-    .json({
-      success: true,
-      token,
-      verifyLink,
-    });
+  res.status(statusCode).send({
+    success: true,
+    token,
+    verifyLink,
+  });
 };
