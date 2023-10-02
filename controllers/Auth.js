@@ -50,7 +50,7 @@ exports.registerUser = async (req, res, next) => {
     }
     const salt = await bycrypt.genSalt(10);
     const hashedPassword = await bycrypt.hash(password, salt);
-    const [verlink, verifyToken] = await verificationFlow();
+    const [verlink,verifyToken] = await verificationFlow();
     const newUser = await User.create({
       ...req.body,
       password: hashedPassword,
