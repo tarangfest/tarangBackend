@@ -7,7 +7,7 @@ const { redirect } = require("express/lib/response");
 
 const verificationFlow = async () => {
   // {TODO: send email}
-  const link = await sendVerificationMail(uuid)
+  const link = await sendVerificationMail(uuid);
   return [link, uuid];
 };
 
@@ -38,7 +38,7 @@ exports.verifyUser = async (req, res, next) => {
 };
 
 exports.registerUser = async (req, res, next) => {
-  const { email, password, name } = req.body;
+  const { email, password } = req.body;
   try {
     const user = await User.findOne({ email });
     if (user) {
@@ -52,9 +52,8 @@ exports.registerUser = async (req, res, next) => {
     const hashedPassword = await bycrypt.hash(password, salt);
     const [verlink,verifyToken] = await verificationFlow();
     const newUser = await User.create({
-      email,
+      ...req.body,
       password: hashedPassword,
-      name,
       verifyToken,
     });
     sendToken(newUser, 201, res, verlink);
@@ -104,16 +103,10 @@ exports.forgotPassword = async (req, res, next) => {
 };
 
 exports.getLoggedInUser = async (req, res, next) => {
-  const user = await User.findById(req.user._id);
+  const { email } = req.user;
+  const user = await User.findOne({ email });
   res.status(200).json({
     success: true,
-    data: {
-      _id: user._id,
-      name: user.name,
-      email: user.email,
-      noOFFollowers: user.followers.length,
-      noOFFollowing: user.following.length,
-      joinedAt: user.createdAt,
-    },
+    user,
   });
 };

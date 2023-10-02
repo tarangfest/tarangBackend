@@ -1,15 +1,24 @@
 const express = require("express");
 require("dotenv").config();
 const cors = require("cors");
+var cookieParser = require("cookie-parser");
 const connectDb = require("./config/connectDB");
 const app = express();
 const errorHandler = require("./middlewares/errorHandler");
 const PORT = process.env.PORT || 5000;
 
 // cors
-app.use(cors());
+app.use(
+  cors({
+    origin: ["http://localhost:3000", "https://tarang-staging.vercel.app"],
+    credentials: true,
+  })
+);
 // body parser
 app.use(express.json());
+
+// cookie parser
+app.use(cookieParser());
 
 //connection to mongodb
 connectDb();
