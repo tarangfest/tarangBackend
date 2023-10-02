@@ -7,7 +7,7 @@ const { redirect } = require("express/lib/response");
 
 const verificationFlow = async () => {
   // {TODO: send email}
-  const link = await sendVerificationMail(uuid)
+  const link = await sendVerificationMail(uuid);
   return [link, uuid];
 };
 
@@ -38,7 +38,7 @@ exports.verifyUser = async (req, res, next) => {
 };
 
 exports.registerUser = async (req, res, next) => {
-  const { email, password, name } = req.body;
+  const { email, password } = req.body;
   try {
     const user = await User.findOne({ email });
     if (user) {
@@ -50,11 +50,10 @@ exports.registerUser = async (req, res, next) => {
     }
     const salt = await bycrypt.genSalt(10);
     const hashedPassword = await bycrypt.hash(password, salt);
-    const [verlink,verifyToken] = await verificationFlow();
+    const [verlink, verifyToken] = await verificationFlow();
     const newUser = await User.create({
-      email,
+      ...req.body,
       password: hashedPassword,
-      name,
       verifyToken,
     });
     sendToken(newUser, 201, res, verlink);
