@@ -103,16 +103,10 @@ exports.forgotPassword = async (req, res, next) => {
 };
 
 exports.getLoggedInUser = async (req, res, next) => {
-  const user = await User.findById(req.user._id);
+  const { email } = req.user;
+  const user = await User.findOne({ email });
   res.status(200).json({
     success: true,
-    data: {
-      _id: user._id,
-      name: user.name,
-      email: user.email,
-      noOFFollowers: user.followers.length,
-      noOFFollowing: user.following.length,
-      joinedAt: user.createdAt,
-    },
+    user,
   });
 };
