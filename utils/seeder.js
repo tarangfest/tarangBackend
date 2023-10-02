@@ -2,8 +2,6 @@
 // we run it from the terminal using the following command:
 // node utils/seeder.js -i
 // node utils/seeder.js -d
-
-
 const Event = require("../models/Event");
 const mongoose = require("mongoose");
 const dotenv = require("dotenv").config();
