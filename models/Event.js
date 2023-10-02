@@ -84,5 +84,9 @@ const EventSchema = new mongoose.Schema({
     required: [true, "Please add some coordinators for the event"],
   },
 });
+EventSchema.pre("save", function (next) {
+  this.slug = slugify(this.name, { lower: true });
+  next();
+});
 
 module.exports = mongoose.model("Event", EventSchema);
