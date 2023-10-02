@@ -1,4 +1,5 @@
 const mongoose = require("mongoose");
+const slugify = require("slugify");
 
 const EventSchema = new mongoose.Schema({
   name: {
@@ -6,6 +7,7 @@ const EventSchema = new mongoose.Schema({
     required: [true, "Please add a name"],
     trim: true,
   },
+  slug: String,
   tagline: {
     type: String,
     required: [true, "Please add a tagline"],
@@ -83,6 +85,11 @@ const EventSchema = new mongoose.Schema({
     type: String,
     required: [true, "Please add some coordinators for the event"],
   },
+});
+
+EventSchema.pre("save", function (next) {
+  this.slug = slugify(this.name, { lower: true });
+  next();
 });
 
 module.exports = mongoose.model("Event", EventSchema);

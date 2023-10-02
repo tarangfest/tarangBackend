@@ -25,10 +25,11 @@ connectDb();
 
 //route files
 const auth = require("./routes/Auth");
+const events = require("./routes/Event");
 
 //mount routers
-
 app.use("/api", auth);
+app.use("/api/events", events);
 
 app.get("/", (req, res, next) => {
   res.send({ success: true, message: "this is the landing of the server" });
