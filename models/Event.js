@@ -35,7 +35,7 @@ const EventSchema = new mongoose.Schema(
       ],
     },
     description: {
-      type: [String],
+      type: String,
       required: [true, "Please add a description"],
     },
     reg_fees: {
@@ -79,6 +79,10 @@ const EventSchema = new mongoose.Schema(
     instructions: {
       type: [String],
       required: [true, "Please add some instructions for the event"],
+    },
+    prize_pool: {
+      type: String,
+      required: [true, "Please add prize pool for the event"],
     },
     coordinators: [
       {
