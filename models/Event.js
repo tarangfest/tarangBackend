@@ -35,9 +35,8 @@ const EventSchema = new mongoose.Schema(
       ],
     },
     description: {
-      type: String,
+      type: [String],
       required: [true, "Please add a description"],
-      trim: true,
     },
     reg_fees: {
       type: String,
