@@ -96,6 +96,7 @@ const EventSchema = new mongoose.Schema(
       type: [String],
       required: [true, "Please add some images for the event"],
     },
+    slug: String,
   },
   {
     collection: "events",

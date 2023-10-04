@@ -1,5 +1,6 @@
 const mongoose = require("mongoose");
 const crypto = require("crypto");
+const ShortUniqueId = require("short-unique-id");
 const UserSchema = new mongoose.Schema(
   {
     fname: {
@@ -67,6 +68,11 @@ const UserSchema = new mongoose.Schema(
       required: [true, "Please add a year of study"],
       enum: ["First", "Second", "Third", "Fourth", "Fifth"],
     },
+    tarang_id: {
+      type: String,
+      required: [true, "Please add a tarang id"],
+      unique: true,
+    },
     verified: {
       type: Boolean,
       default: false,
@@ -75,6 +81,15 @@ const UserSchema = new mongoose.Schema(
   },
   { collection: "users", timestamps: true }
 );
+
+UserSchema.pre("save", function (next) {
+  this.event_id =
+    "TRNG23#" +
+    new ShortUniqueId({
+      dictionary: ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"],
+    }).randomUUID(6);
+  next();
+});
 // methods
 UserSchema.methods.getResetPasswordToken = function () {
   // Generate token
