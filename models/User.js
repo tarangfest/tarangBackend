@@ -70,7 +70,6 @@ const UserSchema = new mongoose.Schema(
     },
     tarang_id: {
       type: String,
-      required: [true, "Please add a tarang id"],
       unique: true,
     },
     verified: {
