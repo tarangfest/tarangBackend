@@ -1,5 +1,6 @@
 const mongoose = require("mongoose");
 const slugify = require("slugify");
+const ShortUniqueId = require("short-unique-id");
 const EventSchema = new mongoose.Schema(
   {
     name: {
