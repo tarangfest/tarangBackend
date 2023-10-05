@@ -101,6 +101,7 @@ const EventSchema = new mongoose.Schema(
       required: [true, "Please add some images for the event"],
     },
     slug: String,
+    etype: String,
   },
   {
     collection: "events",
@@ -109,10 +110,7 @@ const EventSchema = new mongoose.Schema(
 );
 EventSchema.pre("save", function (next) {
   this.slug = slugify(this.name, { lower: true });
-  next();
-});
-EventSchema.pre("save", function (next) {
-  this.slug = slugify(this.name, { lower: true });
+  this.etype = slugify(this.event_category, { lower: true });
   next();
 });
 
