@@ -1,4 +1,3 @@
-
 // we run it from the terminal using the following command:
 // node utils/seeder.js -i
 // node utils/seeder.js -d
@@ -40,5 +39,3 @@ if (process.argv[2] === "-i") {
   console.log("Please enter the correct flag");
   process.exit();
 }
-
-

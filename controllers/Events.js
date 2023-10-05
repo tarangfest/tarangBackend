@@ -4,6 +4,7 @@ const Event = require("../models/Event");
 exports.getEvents = async (req, res, next) => {
   try {
     const events = await Event.find();
+    console.log(events);
     res.status(200).json({
       success: true,
       events,
