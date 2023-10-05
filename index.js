@@ -10,7 +10,12 @@ const PORT = process.env.PORT || 5000;
 // cors
 app.use(
   cors({
-    origin: ["http://localhost:3000", "https://tarang-staging.vercel.app"],
+    origin: [
+      "http://localhost:3000",
+      "https://tarang-staging.vercel.app",
+      "https://tarangfest.com",
+      "https://www.tarangfest.com",
+    ],
     credentials: true,
     exposedHeaders: ["set-cookie"],
   })
