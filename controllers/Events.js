@@ -3,7 +3,8 @@ const Event = require("../models/Event");
 // GET /api/v1/events
 exports.getEvents = async (req, res, next) => {
   try {
-    const events = await Event.find();
+    const { type } = req.query;
+    const events = await Event.find(type ? { etype : { $in: type } } : {});
     console.log(events);
     res.status(200).json({
       success: true,
