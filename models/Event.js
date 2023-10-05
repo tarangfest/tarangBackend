@@ -97,8 +97,21 @@ const EventSchema = new mongoose.Schema(
       },
     ],
     images: {
-      type: [String],
-      required: [true, "Please add some images for the event"],
+      type: {
+        headerDesktop: {
+          type: String,
+        },
+        headerPhone: {
+          type: String,
+        },
+        mainDesktop: {
+          type: String,
+        },
+        mainPhone: {
+          type: String,
+        },
+      },
+      required: [true, "Please add Image"],
     },
     slug: String,
     etype: String,
