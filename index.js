@@ -12,6 +12,7 @@ app.use(
   cors({
     origin: ["http://localhost:3000", "https://tarang-staging.vercel.app"],
     credentials: true,
+    exposedHeaders: ["set-cookie"],
   })
 );
 // body parser
