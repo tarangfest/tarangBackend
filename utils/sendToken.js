@@ -11,15 +11,16 @@ module.exports = (user, statusCode, res, verifyLink) => {
   );
   res
     .cookie("token", token, {
-      expires: new Date(Date.now() + 604800000),
+      expires: new Date(Date.now() + 30 * 24 * 60 * 60 * 1000),
       secure: true, // set to true if your using https
       httpOnly: true,
-      sameSite: 'none',
+      sameSite: "none",
     })
     .status(statusCode)
     .send({
       success: true,
       token,
+      user,
       verifyLink,
     });
 };
