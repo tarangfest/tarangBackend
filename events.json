@@ -26,8 +26,7 @@
     ],
     "images": [
       "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ],
-    "prize_pool": "7000"
+    ]
   },
   {
     "name": "Breakin Battles",
@@ -51,8 +50,7 @@
     ],
     "images": [
       "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ],
-    "prize_pool": "8000"
+    ]
   },
   {
     "name": "Ciniverse",
@@ -75,8 +73,7 @@
     "coordinators": [{ "name": "Darsi Manjith", "pno": "9346485364" }],
     "images": [
       "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ],
-    "prize_pool": "8000"
+    ]
   },
   {
     "name": "Pixcellence",
@@ -103,8 +100,7 @@
     "coordinators": [{ "name": "K L Praseeda Keerthi", "pno": "9866246733" }],
     "images": [
       "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ],
-    "prize_pool": "3000"
+    ]
   },
   {
     "name": "Odyssey",
@@ -132,10 +128,10 @@
       { "name": "Vansh Vyas", "pno": "7987529916" },
       { "name": "Samarth Yadav", "pno": "7017565239" }
     ],
+    "coordinators": [{ "name": "Joshi Kiran", "pno": "9550773752" }],
     "images": [
       "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ],
-    "prize_pool": "7000"
+    ]
   },
   {
     "name": "Jhankaar",
@@ -163,10 +159,10 @@
       { "name": "Rakshit Goel", "pno": "8941842574" },
       { "name": "Priyank Bhaskar", "pno": "6232997288" }
     ],
+    "coordinators": [{ "name": "M Hemanth", "pno": "7995232738" }],
     "images": [
       "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ],
-    "prize_pool": "40000"
+    ]
   },
   {
     "name": "Rangmanch",
@@ -192,10 +188,10 @@
       { "name": "Reishabh Rathore", "pno": "9315137833" },
       { "name": "Uttara Kamat", "pno": "9869261132" }
     ],
+    "coordinators": [{ "name": "Prithvi", "pno": "8919715889" }],
     "images": [
       "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ],
-    "prize_pool": "14000"
+    ]
   },
   {
     "name": "Nukkad: Ek Goonj",
@@ -228,8 +224,35 @@
     ],
     "images": [
       "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
+    ]
+  },
+  {
+    "name": "Rangmanch",
+    "tagline": "Solo Acts, Infinite Expressions: Rangmanch Chronicles!",
+    "event_category": "Drama",
+    "event_type": "Solo",
+    "description": "Colour the stage with the shades of your expressions!\n\n Rangmanch, the Mono Act competition, is THE canvas to paint your emotions on, THE rock to carve your name into and the PERFECT opportunity to flaunt your creativity, unveiling your self-written pieces for the world to see!",
+    "reg_fees": "50",
+    "org_club": "Jazbaat",
+    "event_date": "11/4/2023",
+    "event_time": "11:30:00 AM",
+    "min_participants": "1",
+    "max_participants": "1",
+    "duration": "2-3 min",
+    "instructions": [
+      "1st Round- Participants are required to choose any one emotion and prepare their act based on it.",
+      "2nd Round- Participants are required to choose two contrasting emotions and create their performance (with a focus on smooth transitioning between them and ensuring an equal expression of both emotions throughout the act).",
+      "Duration:- 2-3 minutes.",
+      "Rules:-\n a) No use of abusive language or words.\nb) Nuditiy/Vulgarity is strictly proihibited.\nc) No use of direct comments on any religion/community/ company/institution.\nd) No other person's involvement is allowed in the whole act.",
+      "Round-1: 50 and Round-2:100"
     ],
-    "prize_pool": "40000"
+    "coordinators": [
+      { "name": "Reishabh Rathore", "pno": "9315137833" },
+      { "name": "Uttara Kamat", "pno": "9869261132" }
+    ],
+    "images": [
+      "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
+    ]
   },
   {
     "name": "Theatre Wars",
@@ -271,8 +294,7 @@
     ],
     "images": [
       "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ],
-    "prize_pool": "45000"
+    ]
   },
   {
     "name": "Frame-by-Frame Fockery",
@@ -305,8 +327,7 @@
     "coordinators": [{ "name": "Madhavjith", "pno": "7994922406" }],
     "images": [
       "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ],
-    "prize_pool": "TBD"
+    ]
   },
   {
     "name": "ArtLabs",
@@ -331,8 +352,7 @@
     "coordinators": [{ "name": "Aditya Raj", "pno": "9472016042" }],
     "images": [
       "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ],
-    "prize_pool": "TBD"
+    ]
   },
   {
     "name": "Cassiopeia",
@@ -358,8 +378,7 @@
     "coordinators": [{ "name": "Swamini Gawad", "pno": "7758095513" }],
     "images": [
       "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ],
-    "prize_pool": "TBD"
+    ]
   },
   {
     "name": "Artful Alteration",
@@ -385,8 +404,7 @@
     "coordinators": [{ "name": "Paridhi Bisht", "pno": "9910054931" }],
     "images": [
       "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ],
-    "prize_pool": "TBD"
+    ]
   },
   {
     "name": "Off The Wall",
@@ -412,60 +430,6 @@
     "coordinators": [{ "name": "Ananya Aggrawal", "pno": "8429337823" }],
     "images": [
       "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ],
-    "prize_pool": "8500"
-  },
-  {
-    "name": "Shutter Stories",
-    "tagline": "Journey Through Pixels at the Shutter Stories Exhibition!",
-    "event_type": "Solo",
-    "event_category": "Photography",
-    "description": "Get ready to be captivated by the creativity of our college community!\n\n Our upcoming photo exhibition will showcase a diverse range of visually stunning and thought-provoking images captured by students, faculty, and staff. From breathtaking landscapes to candid moments, this exhibit promises to be a celebration of talent and artistic expression. \n\nJoin us for an immersive visual experience that reflects the spirit and creativity of our college community.",
-    "reg_fees": "0",
-    "max_participants": "0",
-    "min_participants": "0",
-    "event_date": "Nov 3, 2023",
-    "event_time": "12:00:00 AM",
-    "org_club": "Shutter Box",
-    "duration": "full day",
-    "instructions": ["no guidelines"],
-    "coordinators": [{ "name": "Pulivarthi Mahesh", "pno": "9392816922" }],
-    "images": [
-      "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ],
-    "prize_pool": "TBD"
-  },
-  {
-    "name": "Canon Workshop",
-    "tagline": "Shutter Speed to Creative Vision with Canon",
-    "event_type": "Solo",
-    "event_category": "Photography",
-    "description": "Join us for a captivating Canon Workshop at our cultural festival!\n\n Discover the art of photography as we explore Canon's cutting-edge technology and techniques.\n\n Unlock your creative potential, from capturing stunning moments to unleashing your inner artist.\n\n Don't miss this opportunity to sharpen your photography skills and ignite your passion for visual storytelling with Canon.",
-    "reg_fees": "0",
-    "max_participants": "200",
-    "min_participants": "50",
-    "event_date": "Nov 4, 2023",
-    "event_time": "4:00 PM",
-    "org_club": "Shutter Box",
-    "duration": "2 and half hours",
-    "instructions": [
-      "Be open to new learning experiences and follow the instructions given during the workshop.",
-      "Don't hesitate to ask questions and engage in discussions with other participants.",
-      "Be mindful of other participants' space and experience. If you wish to photograph other attendees, always ask for their permission first.",
-      "Take the opportunity to connect with other photography enthusiasts and professionals. You can learn from their experiences and even collaborate on future projects.",
-      "After the workshop, reflect on your learning experience. Think about how you can apply the skills and techniques learned during the workshop in your future photography projects.",
-      "Before attending the workshop, prepare a list of questions you'd like answered. If there are specific topics you're interested in, make sure to note them down. The more prepared you are, the more you'll get out of the workshop.",
-      "If you're bringing your own camera or other equipment, make sure you know how to operate them. This way, you can focus on learning new skills and techniques during the workshop, rather than figuring out how to use your equipment.",
-      "The instructors at the workshop are experts in their field. Make sure to follow their advice and practice the techniques they demonstrate. This will help you get the most out of the workshop.",
-      "If there are feedback sessions during the workshop, make sure to participate. This is a great opportunity to receive constructive criticism on your work and learn from others' perspective.",
-      "Identify specific techniques or skills you want to improve during the workshop. Having clear goals will help you stay focused and motivated throughout the event.",
-      "The workshop will likely follow a planned schedule. Be punctual and respect the timing of each session to ensure a smooth and productive workshop experience.",
-      "If there's something you don't understand, don't hesitate to ask questions. The instructors are there to help you learn and grow."
-    ],
-    "coordinators": [{ "name": "M Hemanth", "pno": "7995232738" }],
-    "images": [
-      "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ],
-    "prize_pool": "TBD"
+    ]
   }
 ]
