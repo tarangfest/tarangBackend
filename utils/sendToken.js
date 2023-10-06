@@ -1,6 +1,9 @@
 const jsonwebtoken = require("jsonwebtoken");
 
 module.exports = (user, statusCode, res, verifyLink) => {
+  user = user.toObject();
+  delete user.password;
+
   // TODO: remove verifyLink
   const token = jsonwebtoken.sign(
     { email: user.email },
