@@ -46,6 +46,7 @@ exports.registerUser = async (req, res, next) => {
     const newUser = await User.create({
       ...req.body,
       password: hashedPassword,
+      verifyToken: uuid,
     });
     await sendVerificationMail(uuid, email, fname);
     sendToken(newUser, 201, res);
