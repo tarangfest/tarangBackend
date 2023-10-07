@@ -24,9 +24,13 @@
       { "name": "Ashish Chaudhary", "pno": "9991689805" },
       { "name": "Bhavika Sehgal", "pno": "8726788999" }
     ],
-    "images": [
-      "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ]
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536457/eventPage/header/malang_q3vfxk.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536453/eventPage/header/malang_1_qyekxg.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540930/eventPage/main/IMG_7046_1_2_xx2tra.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540936/eventPage/main/IMG_7046_1_1_1_heejsp.webp"
+    },
+    "prize_pool": "7000"
   },
   {
     "name": "Breakin Battles",
@@ -48,9 +52,13 @@
       { "name": "Nithin Adepu", "pno": "7729054812" },
       { "name": "Sriram Gone", "pno": "7075669396" }
     ],
-    "images": [
-      "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ]
+    "images": {
+      "headerDesktop": "",
+      "headerPhone": "",
+      "mainDesktop": "",
+      "mainPhone": ""
+    },
+    "prize_pool": "8000"
   },
   {
     "name": "Ciniverse",
@@ -71,9 +79,13 @@
       "Judgment prioritization is based on technical features of film:\na. Cinematography\nb. Editing\nc. Lighting\nd. Color grading"
     ],
     "coordinators": [{ "name": "Darsi Manjith", "pno": "9346485364" }],
-    "images": [
-      "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ]
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536432/eventPage/header/Ciniverse_vb4wf4.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536433/eventPage/header/ciniverse_1_vspfme.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540919/eventPage/main/ciniverse_1_df0tic.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540916/eventPage/main/ciniverse_1_1_d0tnej.webp"
+    },
+    "prize_pool": "8000"
   },
   {
     "name": "Pixcellence",
@@ -98,9 +110,13 @@
       "Original Work: All photos you submit must be your own original creations."
     ],
     "coordinators": [{ "name": "K L Praseeda Keerthi", "pno": "9866246733" }],
-    "images": [
-      "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ]
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536429/eventPage/header/pixl_nozsut.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536436/eventPage/header/pixl_1_jug3hj.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540915/eventPage/main/sunglasses_1_2_l7z8dk.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540913/eventPage/main/sunglasses_1_1_1_isleiw.webp"
+    },
+    "prize_pool": "3000"
   },
   {
     "name": "Odyssey",
@@ -128,10 +144,13 @@
       { "name": "Vansh Vyas", "pno": "7987529916" },
       { "name": "Samarth Yadav", "pno": "7017565239" }
     ],
-    "coordinators": [{ "name": "Joshi Kiran", "pno": "9550773752" }],
-    "images": [
-      "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ]
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536449/eventPage/header/oddesy_thci8t.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536455/eventPage/header/oddsy_1_ncky0x.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540931/eventPage/main/IMG_7087_2_tjgaae.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540933/eventPage/main/IMG_7087_1_1_glzxat.webp"
+    },
+    "prize_pool": "7000"
   },
   {
     "name": "Jhankaar",
@@ -159,10 +178,13 @@
       { "name": "Rakshit Goel", "pno": "8941842574" },
       { "name": "Priyank Bhaskar", "pno": "6232997288" }
     ],
-    "coordinators": [{ "name": "M Hemanth", "pno": "7995232738" }],
-    "images": [
-      "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ]
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536445/eventPage/header/jankaar_spfyl3.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536447/eventPage/header/jankaar_1_bqrg7m.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540927/eventPage/main/IMG_3469_2_kznr7s.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540934/eventPage/main/IMG_3469_1_1_e5ilrk.webp"
+    },
+    "prize_pool": "40000"
   },
   {
     "name": "Rangmanch",
@@ -188,10 +210,13 @@
       { "name": "Reishabh Rathore", "pno": "9315137833" },
       { "name": "Uttara Kamat", "pno": "9869261132" }
     ],
-    "coordinators": [{ "name": "Prithvi", "pno": "8919715889" }],
-    "images": [
-      "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ]
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536387/eventPage/header/rangmanch_bxkcnd.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536379/eventPage/header/rangmanch_1_kqandn.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540871/eventPage/main/rang_1_2_x4bpsv.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540874/eventPage/main/rang_1_1_1_u1lxql.webp"
+    },
+    "prize_pool": "14000"
   },
   {
     "name": "Nukkad: Ek Goonj",
@@ -222,37 +247,13 @@
       { "name": "Uday Shakya", "pno": "7017474241" },
       { "name": "Shivansh Shukla", "pno": "7895043346" }
     ],
-    "images": [
-      "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ]
-  },
-  {
-    "name": "Rangmanch",
-    "tagline": "Solo Acts, Infinite Expressions: Rangmanch Chronicles!",
-    "event_category": "Drama",
-    "event_type": "Solo",
-    "description": "Colour the stage with the shades of your expressions!\n\n Rangmanch, the Mono Act competition, is THE canvas to paint your emotions on, THE rock to carve your name into and the PERFECT opportunity to flaunt your creativity, unveiling your self-written pieces for the world to see!",
-    "reg_fees": "50",
-    "org_club": "Jazbaat",
-    "event_date": "11/4/2023",
-    "event_time": "11:30:00 AM",
-    "min_participants": "1",
-    "max_participants": "1",
-    "duration": "2-3 min",
-    "instructions": [
-      "1st Round- Participants are required to choose any one emotion and prepare their act based on it.",
-      "2nd Round- Participants are required to choose two contrasting emotions and create their performance (with a focus on smooth transitioning between them and ensuring an equal expression of both emotions throughout the act).",
-      "Duration:- 2-3 minutes.",
-      "Rules:-\n a) No use of abusive language or words.\nb) Nuditiy/Vulgarity is strictly proihibited.\nc) No use of direct comments on any religion/community/ company/institution.\nd) No other person's involvement is allowed in the whole act.",
-      "Round-1: 50 and Round-2:100"
-    ],
-    "coordinators": [
-      { "name": "Reishabh Rathore", "pno": "9315137833" },
-      { "name": "Uttara Kamat", "pno": "9869261132" }
-    ],
-    "images": [
-      "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ]
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536383/eventPage/header/nukkad_1_wt0wgi.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536385/eventPage/header/nukkad_1_1_po8jxh.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540867/eventPage/main/nukkad1_1_2_rmxlqo.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540869/eventPage/main/nukkad1_1_1_1_z4m6n8.webp"
+    },
+    "prize_pool": "40000"
   },
   {
     "name": "Theatre Wars",
@@ -292,9 +293,13 @@
       { "name": "Shanu Priya Garg", "pno": "8660761323" },
       { "name": "Priyanshu Bujethia", "pno": "9352816482" }
     ],
-    "images": [
-      "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ]
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536379/eventPage/header/tw_1_f9lvdf.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536380/eventPage/header/tw_2_j3j40r.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540867/eventPage/main/tw1_1_1_dvn7gw.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540868/eventPage/main/tw1_2_1_zy7znt.webp"
+    },
+    "prize_pool": "45000"
   },
   {
     "name": "Frame-by-Frame Fockery",
@@ -325,9 +330,13 @@
       "Explicit content is not allowed."
     ],
     "coordinators": [{ "name": "Madhavjith", "pno": "7994922406" }],
-    "images": [
-      "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ]
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536422/eventPage/header/fbf_aej23j.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536427/eventPage/header/fbf_1_o9syj2.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540907/eventPage/main/fbf_1_csfu3s.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540909/eventPage/main/fbf_1_1_qv9dg0.webp"
+    },
+    "prize_pool": "TBD"
   },
   {
     "name": "ArtLabs",
@@ -350,9 +359,13 @@
       "Ownership: Participants retain ownership of their bamboo furniture and pottery pieces. However, they grant permission for their work to be displayed during the event."
     ],
     "coordinators": [{ "name": "Aditya Raj", "pno": "9472016042" }],
-    "images": [
-      "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ]
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536419/eventPage/header/artlab_nu4kia.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536425/eventPage/header/artlab_1_z7uhbc.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540912/eventPage/main/artlab_1_lttd3i.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540910/eventPage/main/artlab_1_1_bvvwam.webp"
+    },
+    "prize_pool": "TBD"
   },
   {
     "name": "Cassiopeia",
@@ -376,9 +389,13 @@
       "Rules:\n1. This is a Face painting and Cosplay competition.\n2. Participants will work in Teams of 2: One person will be the model and the other will be the artist.\n3. The Theme of the event is Greek Gods and Goddesses.\n4. The competition is of 3 hours which includes the costume and face painting.\n5. Inappropriate costumes will be disqualified.\n6. Paints, materials and clothes will have to be brought by participants.\n7. The entire ensemble should be prepared on sight.\n8. A ramp walk of all the participants will be held.\n9. Participants will have to explain their concept to the judges."
     ],
     "coordinators": [{ "name": "Swamini Gawad", "pno": "7758095513" }],
-    "images": [
-      "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ]
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536417/eventPage/header/cassiopia_kffqr2.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536421/eventPage/header/cassiopia_1_k0ovny.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540899/eventPage/main/cassiopia_1_phsxxy.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540903/eventPage/main/cassiopia_1_1_pejwqi.webp"
+    },
+    "prize_pool": "TBD"
   },
   {
     "name": "Artful Alteration",
@@ -402,9 +419,13 @@
       "Rules:\n*Participants must work in a group of 5.\n*Participants will be given a famous painting and an art style. They must then recreate the painting in the art style on a 1 x 2 meter canvas sheet.\n* The painting and the art style will be given to each team through randomized card picking. Changing or re-selecting your prompts is not allowed\n* Duration of the competition is 3 hours.\n*A 1 x 2 metre canvas sheet, acrylic paint and paintbrushes will be provided to each team.\n* The Internet is allowed for the first 30 minutes only for getting inspiration. Your time will start after the first 30 minutes are up.\n* Plagiarism is strictly not allowed.\n*Political or offensive submissions will be disqualified.\n* All team members must participate actively.\n* The painting must be completed within the allotted time."
     ],
     "coordinators": [{ "name": "Paridhi Bisht", "pno": "9910054931" }],
-    "images": [
-      "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ]
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536414/eventPage/header/artfulalt_gfd0kk.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536416/eventPage/header/artfulalt_1_raz6h6.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540901/eventPage/main/artful_1_ygi8c2.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540898/eventPage/main/artful_1_1_ziijgi.webp"
+    },
+    "prize_pool": "TBD"
   },
   {
     "name": "Off The Wall",
@@ -428,8 +449,71 @@
       "Rules:\n* Participants must work individually.\n* The work must be submitted in High quality png/pdf format.\n* Theme: Fantasy\n* The dimension of the artwork should be 3000 x 2200 pixels\n* The work can be handmade or digitally done.\n* Plagiarism is strictly not allowed.\n* The last date of submission for the event is October 17th, 2023.\n*Submissions and registration will be done through a Google form."
     ],
     "coordinators": [{ "name": "Ananya Aggrawal", "pno": "8429337823" }],
-    "images": [
-      "https://fastly.picsum.photos/id/901/4016/4016.jpg?hmac=1rDqVF-p5zoRrKvKU1pHRho-8ervt8RaiXEccYvbRHg"
-    ]
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536413/eventPage/header/off_wall_cr04fq.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536424/eventPage/header/off_wall_1_r2wuiz.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540904/eventPage/main/otw_1_mew9hg.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540906/eventPage/main/otw_1_1_tyllni.webp"
+    },
+    "prize_pool": "8500"
+  },
+  {
+    "name": "Shutter Stories",
+    "tagline": "Journey Through Pixels at the Shutter Stories Exhibition!",
+    "event_type": "Solo",
+    "event_category": "Photography",
+    "description": "Get ready to be captivated by the creativity of our college community!\n\n Our upcoming photo exhibition will showcase a diverse range of visually stunning and thought-provoking images captured by students, faculty, and staff. From breathtaking landscapes to candid moments, this exhibit promises to be a celebration of talent and artistic expression. \n\nJoin us for an immersive visual experience that reflects the spirit and creativity of our college community.",
+    "reg_fees": "0",
+    "max_participants": "0",
+    "min_participants": "0",
+    "event_date": "Nov 3, 2023",
+    "event_time": "12:00:00 AM",
+    "org_club": "Shutter Box",
+    "duration": "full day",
+    "instructions": ["no guidelines"],
+    "coordinators": [{ "name": "Pulivarthi Mahesh", "pno": "9392816922" }],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536444/eventPage/header/peb_xmrn6j.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536440/eventPage/header/peb_1_f4o5zk.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540925/eventPage/main/photoexb_1_ylvcxg.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540928/eventPage/main/photoexb_1_1_nk57mi.webp"
+    },
+    "prize_pool": "TBD"
+  },
+  {
+    "name": "Canon Workshop",
+    "tagline": "Shutter Speed to Creative Vision with Canon",
+    "event_type": "Solo",
+    "event_category": "Photography",
+    "description": "Join us for a captivating Canon Workshop at our cultural festival!\n\n Discover the art of photography as we explore Canon's cutting-edge technology and techniques.\n\n Unlock your creative potential, from capturing stunning moments to unleashing your inner artist.\n\n Don't miss this opportunity to sharpen your photography skills and ignite your passion for visual storytelling with Canon.",
+    "reg_fees": "0",
+    "max_participants": "200",
+    "min_participants": "50",
+    "event_date": "Nov 4, 2023",
+    "event_time": "4:00 PM",
+    "org_club": "Shutter Box",
+    "duration": "2 and half hours",
+    "instructions": [
+      "Be open to new learning experiences and follow the instructions given during the workshop.",
+      "Don't hesitate to ask questions and engage in discussions with other participants.",
+      "Be mindful of other participants' space and experience. If you wish to photograph other attendees, always ask for their permission first.",
+      "Take the opportunity to connect with other photography enthusiasts and professionals. You can learn from their experiences and even collaborate on future projects.",
+      "After the workshop, reflect on your learning experience. Think about how you can apply the skills and techniques learned during the workshop in your future photography projects.",
+      "Before attending the workshop, prepare a list of questions you'd like answered. If there are specific topics you're interested in, make sure to note them down. The more prepared you are, the more you'll get out of the workshop.",
+      "If you're bringing your own camera or other equipment, make sure you know how to operate them. This way, you can focus on learning new skills and techniques during the workshop, rather than figuring out how to use your equipment.",
+      "The instructors at the workshop are experts in their field. Make sure to follow their advice and practice the techniques they demonstrate. This will help you get the most out of the workshop.",
+      "If there are feedback sessions during the workshop, make sure to participate. This is a great opportunity to receive constructive criticism on your work and learn from others' perspective.",
+      "Identify specific techniques or skills you want to improve during the workshop. Having clear goals will help you stay focused and motivated throughout the event.",
+      "The workshop will likely follow a planned schedule. Be punctual and respect the timing of each session to ensure a smooth and productive workshop experience.",
+      "If there's something you don't understand, don't hesitate to ask questions. The instructors are there to help you learn and grow."
+    ],
+    "coordinators": [{ "name": "M Hemanth", "pno": "7995232738" }],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536437/eventPage/header/cannon_b6snpt.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536442/eventPage/header/cannon_1_xutugc.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540924/eventPage/main/cw_1_xzbqpu.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540921/eventPage/main/cw__1_rp31o9.webp"
+    },
+    "prize_pool": "TBD"
   }
 ]
