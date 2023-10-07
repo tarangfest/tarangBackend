@@ -93,6 +93,24 @@ exports.removeEvent = async (req, res, next) => {
 };
 
 // GET
+// get myEvents
+exports.getMyEvents = async (req, res, next) => {
+  try {
+    const { user } = req;
+    const userDet = await User.findOne({ email: user.email }).populate(
+      "events"
+    );
+    res.status(200).json({
+      success: true,
+      events: userDet.events,
+    });
+  } catch (error) {
+    next(error);
+  }
+};
+
+// {{TODO}}
+// GET
 // append +1 to
 exports.reedemReferral = async (req, res, next) => {
   try {
