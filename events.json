@@ -788,5 +788,320 @@
       "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765454/saaz/mian/frame-308-652290f68a6cb_tegvdx.webp"
     },
     "prize_pool": "60,000"
+  },
+  {
+    "name": "Drop The Mic",
+    "tagline": "It's an open mic, come and drop it!",
+    "event_type": "Team",
+    "event_category": "Informal",
+    "description": "If you've got killer poems and stories to share, mad rap skills, stand-up, oor just a burning desire to rock the stage, this is your moment! Raps? Stand Ups ? Stories ? Think you got it? ",
+    "reg_fees": 0,
+    "max_participants": 70,
+    "min_participants": 5,
+    "event_date": "Nov 4, 2023",
+    "event_time": "5:00 PM",
+    "org_club": "Samvaad",
+    "duration": "3 hours approx.",
+    "instructions": [
+      "As long as you are not singing..there are NO RULES!!(no profanity of course!)"
+    ],
+    "coordinators": [
+      {
+        "name": "Mettu Varun Aditya",
+        "pno": 7013584990
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766031/samvad/header/Frame_205_p1k0fn.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766023/samvad/header/Frame_198_rrbair.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765290/samvad/main/frame-219-652292e3ac0d5_dijf0k.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765316/samvad/main/frame-219-1-652292e425a82_vrmoea.webp"
+    },
+    "prize_pool": 0
+  },
+  {
+    "name": "Quizzeria: General",
+    "tagline": "Quizzeria: General - Catch 'em All in the World of Words!",
+    "event_type": "Team",
+    "event_category": "Quizzing",
+    "description": "A fun event where we will ask the questions. Can you catch 'em all?",
+    "reg_fees": 200,
+    "max_participants": 70,
+    "min_participants": 5,
+    "event_date": "Nov 3, 2023",
+    "event_time": "10:30 AM",
+    "org_club": "Samvaad",
+    "duration": "1.5 hours approx.",
+    "instructions": [
+      "Teams of max 3 members will be allowed, based on prior registration and feepayment.",
+      "Multiple different phases of the quiz : Textual, Visual and maybe Auditory",
+      "Different phases can have different scoring system.",
+      "Quiz will follow standard rules of Direct, Pounce, Pass and will be explained at the start or whenever necessary"
+    ],
+    "coordinators": [
+      {
+        "name": "Advait Manke",
+        "pno": 9340614865
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766034/samvad/header/Frame_207_a7ijvb.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766050/samvad/header/Frame_199_tuetvs.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765291/samvad/main/frame-220-652292e5dd490_mkytfs.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765298/samvad/main/frame-231-652292ecf0117_oa9jum.webp"
+    },
+    "prize_pool": "11,500"
+  },
+  {
+    "name": "Quizzeria : SPENT",
+    "tagline": "Quizzeria: SPENT - Where Words Bridge the Gap Between Stadiums and Silver Screens!",
+    "event_type": "Team",
+    "event_category": "Quizzing",
+    "description": "Sports and entertainment quiz. Come and test your knowledge of best of worlds.",
+    "reg_fees": 200,
+    "max_participants": 50,
+    "min_participants": 5,
+    "event_date": "Nov 4, 2023",
+    "event_time": "11:00 AM",
+    "org_club": "Samvaad",
+    "duration": "2 hours approx.",
+    "instructions": [
+      "Teams of max 3 members will be allowed, based on prior registration and feepayment.",
+      " Multiple different phases of the quiz : Textual, Visual and maybe Auditory",
+      "Different phases can have different scoring system.",
+      "Quiz will follow standard rules of Direct, Pounce, Pass and will be explained at the start or whenever necessary"
+    ],
+    "coordinators": [
+      {
+        "name": "Advay Sagarkar",
+        "pno": 9152539747
+      }
+    ],
+    "images": {
+      "headerDesktop": "",
+      "headerPhone": "",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765291/samvad/main/frame-221-652292e6d3c3c_btoqal.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765291/samvad/main/frame-221-1-652292e7c545c_x5j95h.webp"
+    },
+    "prize_pool": "11,500"
+  },
+  {
+    "name": "Kavyanchal",
+    "tagline": "Shabdon ke iss shehar mein apna bhi ghar banao!",
+    "event_type": "Solo",
+    "event_category": "Informal",
+    "description": "Kavyanchal is a Hindi Poetry competition where you are given a stand to present your best shayris and nazms in front of people that want to listen. ",
+    "reg_fees": 75,
+    "max_participants": 60,
+    "min_participants": 5,
+    "event_date": "Nov 4, 2023",
+    "event_time": "9:00 AM",
+    "org_club": "Samvaad",
+    "duration": "4 hours approx.",
+    "instructions": [
+      "Present your own Hindi poetry.",
+      "It should not be copied from anywhere else.",
+      "It should have a duration of minimum 1 minute and maximum 4 minutes."
+    ],
+    "coordinators": [
+      {
+        "name": "Kushagra Yadav",
+        "pno": 7509855423
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766039/samvad/header/poetry_veinbu.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766037/samvad/header/Frame_251_uoltrz.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765304/samvad/main/frame-212-652292dd8f3d6_j7affa.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765293/samvad/main/frame-225-652292e9f0bd7_ohokwh.webp"
+    },
+    "prize_pool": 7000
+  },
+  {
+    "name": "Verses v/s Verses",
+    "tagline": "Verses v/s Verses: Weave the Fabric of Emotion Through Rhymes!",
+    "event_type": "Solo",
+    "event_category": "Informal",
+    "description": "Verses v/s Verses is an English Poetry competition where you can flex your rhymes and weave the fabric of your reality to tell tales that move the heart.",
+    "reg_fees": 75,
+    "max_participants": 60,
+    "min_participants": 5,
+    "event_date": "Nov 3, 2023",
+    "event_time": "02:00 PM",
+    "org_club": "Samvaad",
+    "duration": "4 hours approx.",
+    "instructions": [
+      "Present your own English poetry.",
+      "It should not be copied from anywhere else.",
+      "It should have a duration of minimum 1 minute and maximum 4 minutes."
+    ],
+    "coordinators": [
+      {
+        "name": "Kushagra Yadav",
+        "pno": 7509855423
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766020/samvad/header/Frame_191_vcvikg.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766049/samvad/header/Frame_192_co8wjf.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765303/samvad/main/frame-209-652292dd15a75_lra6vu.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765292/samvad/main/frame-222-652292e9f0bd8_sopqde.webp"
+    },
+    "prize_pool": 7000
+  },
+  {
+    "name": "Pen It Down",
+    "tagline": "Write From Anywhere with Pen It Down!",
+    "event_type": "Team",
+    "event_category": "Quizzing",
+    "description": "Pen It Down is an ONLINE-only creative writing based event where you can unleash wrting skills(storyline) based on the prompts from a variety of different fields.",
+    "reg_fees": 50,
+    "max_participants": 60,
+    "min_participants": 5,
+    "event_date": "Nov 4, 2023",
+    "event_time": "02:00 PM",
+    "org_club": "Samvaad",
+    "duration": "1 hour approx.",
+    "instructions": [
+      "ONLINE only event. Participants need to register before the commencement of the event on an online platform. When the event begins, the topics for writing will be released to the participants. They will have 4 hours to construct a storyline on the given topic/theme.",
+      " They will have to submit their story in the given time frame in a pdf format only. Plagiarism and AI checks will be kept in place, and any offenders will be disqualified from the competition. The winners will be announced later based on the judges’ decision."
+    ],
+    "coordinators": [
+      {
+        "name": "Areeb Siddiqui ",
+        "pno": 8425999003
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766043/samvad/header/Frame_204_u4xvuj.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766025/samvad/header/Frame_196_udly6h.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765301/samvad/main/pend-1-652292f251e4a_vh7v38.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765300/samvad/main/pend-1-1-652292f823541_rsgmvl.webp"
+    },
+    "prize_pool": 6000
+  },
+  {
+    "name": "Brain Rot Escape",
+    "tagline": "Get ready to exercise your brain and lose your sanity simultaneously with Brain Rot Escape – where literature meets lunacy!",
+    "event_type": "Solo",
+    "event_category": "Informal",
+    "description": "A series of 3 literary games.Each of them will follow an elimination method.Winners will be emerging in the third game.",
+    "reg_fees": 50,
+    "max_participants": 350,
+    "min_participants": 5,
+    "event_date": "Nov 5, 2023",
+    "event_time": "02:00 PM",
+    "org_club": "Samvaad",
+    "duration": "2 hours approx.",
+    "instructions": [
+      "Round 1-It will be an individual round.",
+      "Round 2-The group activity will take place.",
+      "Round 3-The remaining people will go for individual competition.        "
+    ],
+    "coordinators": [
+      {
+        "name": "Qassah",
+        "pno": 9971115820
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766022/samvad/header/Frame_202_yoc1y0.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766045/samvad/header/Frame_194_azw3fe.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765305/samvad/main/frame-215-652292dfd6262_jdp8aw.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765298/samvad/main/frame-252-652292eea4a0d_ihfmex.webp"
+    },
+    "prize_pool": 3000
+  },
+  {
+    "name": "X-Calibre",
+    "tagline": "If you can't convince them, confuse them.",
+    "event_type": "Team",
+    "event_category": "Quizzing",
+    "description": "English oratory showcase, consisting of Oxford-style as well as parliamentary style of debate.",
+    "reg_fees": 150,
+    "max_participants": 20,
+    "min_participants": 2,
+    "event_date": "Nov 5, 2023",
+    "event_time": "09:00 AM",
+    "org_club": "Samvaad",
+    "duration": "7 hours approx.",
+    "instructions": [
+      "Round 1 - Extempore round, wherein one member from each team will speak spontaneously on a topic for two and a half minutes. Top 10 teams advance to the next round.",
+      "Round 2 - Oxford-style debating round, in which 2 teams, selected randomly, will go head-to-head against each other, arguing in favour of and against a given motion respectively. Each side(proposition and opposition) will consist of two members, with each speaker getting 3 minutes to present their arguments, followed by cross-questioning and rebuttals. Top 5 teams advance to the final round.",
+      "Round 3 - The final round comprises a parliamentary style of debate, wherein all the final teams will compete against each other, arguing on an open-ended question presented to the house. All the 3 members of a team will participate in this round together as a unit."
+    ],
+    "coordinators": [
+      {
+        "name": "Manoj Panjwani",
+        "pno": 6391919140
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766029/samvad/header/Frame_203_oopnhv.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766020/samvad/header/Frame_195_r2b734.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765314/samvad/main/frame-216-652292e06c2f5_y0aonm.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765294/samvad/main/frame-226-652292eb2d76b_u3b3oc.webp"
+    },
+    "prize_pool": "11,000"
+  },
+  {
+    "name": "Likhawat",
+    "tagline": "Your favorite poet/writer awaits to guide you.",
+    "event_type": "Solo",
+    "event_category": "Literary",
+    "description": "A workshop to help you weave your haziest of thoughts into simpler and profound strings.",
+    "reg_fees": 0,
+    "max_participants": 50,
+    "min_participants": 5,
+    "event_date": "Nov 4, 2023",
+    "event_time": "03:00 PM",
+    "org_club": "Samvaad",
+    "duration": "7 hours approx.",
+    "instructions": ["No such rules, you just have to be the audience."],
+    "coordinators": [
+      {
+        "name": "Bhakti",
+        "pno": 7058811442
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766041/samvad/header/Frame_201_myadrk.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766047/samvad/header/Frame_193_lqpaqt.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765302/samvad/main/penit-2-65229300e2b7a_ykyo66.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765295/samvad/main/frame-228-652292eb5496f_ommpsu.webp"
+    },
+    "prize_pool": 0
+  },
+  {
+    "name": "Vaad-Vivaad",
+    "tagline": "शब्दों का जाल बनेगा बवाल! आइये शुरू करते हैं शब्दों का महायुद्ध!",
+    "event_type": "Team",
+    "event_category": "Debate",
+    "description": "Join us and experience the thrill of our Hindi Debate as we embark on a journey of words and wit. Let your ideas take flight and voices ignite.",
+    "reg_fees": 200,
+    "max_participants": 25,
+    "min_participants": 2,
+    "event_date": "Nov 3, 2023",
+    "event_time": "09:00 AM",
+    "org_club": "Samvaad",
+    "duration": "4.5 hours approx.",
+    "instructions": [
+      "1st round (10 min)- Yeh toh bas shurwat hai. Speaking time max 2min,Total time 10 min, 2 min conclusion",
+      "2nd round (15 min)- Jaldi karo nhi toh Der ho jayengi. Speaking time for each team - 1min",
+      "3rd round (20 min)- Jungle ka khel. Open debate, No restriction of time, Last 5 min - audience question "
+    ],
+    "coordinators": [
+      {
+        "name": "Swati Tiwari",
+        "pno": 7266074282
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766052/samvad/header/Frame_206_esgx3f.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766027/samvad/header/Frame_197_npu8df.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696836490/samvad/main/15th_Aug_Act_28_1_lmwqqn.png",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696836489/samvad/main/15th_Aug_Act_28_1_1_ammbbc.png"
+    },
+    "prize_pool": "11,000"
   }
 ]
