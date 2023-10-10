@@ -953,7 +953,7 @@
     "name": "Pen It Down",
     "tagline": "Write From Anywhere with Pen It Down!",
     "event_type": "Team",
-    "event_category": "Quizzing",
+    "event_category": "Literary",
     "description": "Pen It Down is an ONLINE-only creative writing based event where you can unleash wrting skills(storyline) based on the prompts from a variety of different fields.",
     "reg_fees": 50,
     "max_participants": 60,
@@ -1016,7 +1016,7 @@
     "name": "X-Calibre",
     "tagline": "If you can't convince them, confuse them.",
     "event_type": "Team",
-    "event_category": "Quizzing",
+    "event_category": "Debate",
     "description": "English oratory showcase, consisting of Oxford-style as well as parliamentary style of debate.",
     "reg_fees": 150,
     "max_participants": 20,
@@ -1086,9 +1086,16 @@
     "org_club": "Samvaad",
     "duration": "4.5 hours approx.",
     "instructions": [
-      "1st round (10 min)- Yeh toh bas shurwat hai. Speaking time max 2min,Total time 10 min, 2 min conclusion",
-      "2nd round (15 min)- Jaldi karo nhi toh Der ho jayengi. Speaking time for each team - 1min",
-      "3rd round (20 min)- Jungle ka khel. Open debate, No restriction of time, Last 5 min - audience question "
+      "Round 1 (10 minutes) - 'Yeh toh bas shurwat hai.'",
+      "1. Each team will have a total of 5 minutes to present their arguments.",
+      "2. Teams will speak for 2 minutes alternately, two times.",
+      "3. The last 1 minute is reserved for each team to provide their conclusion.",
+      "Round 2 (14 minutes) - 'Jaldi karo nhi toh der ho jayegi'",
+      "1. Each team will have a total of 7 minutes to present their arguments.",
+      "2. Teams will speak for 1 minute alternately.",
+      "Round 3 (20 minutes) - 'Jungle ka khel'",
+      "1. There is no time restriction for this round.",
+      "2. The last 5 minutes of this round will be dedicated to audience questions."
     ],
     "coordinators": [
       {
