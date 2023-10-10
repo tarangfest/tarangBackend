@@ -6,7 +6,7 @@ module.exports = (user, statusCode, res, verifyLink) => {
 
   // TODO: remove verifyLink
   const token = jsonwebtoken.sign(
-    { email: user.email },
+    { email: user.email, id: user._id },
     process.env.JWT_SECRET,
     {
       expiresIn: process.env.JWT_EXPIRE,
