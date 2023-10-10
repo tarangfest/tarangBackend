@@ -92,13 +92,29 @@ const UserSchema = new mongoose.Schema(
     },
     events: [
       {
-        type: mongoose.Schema.Types.ObjectId,
-        ref: "Event",
+        eventId: {
+          type: mongoose.Schema.Types.ObjectId,
+          ref: "Event",
+        },
+        teamleaderId: {
+          type: mongoose.Schema.Types.ObjectId,
+          ref: "User",
+        },
+        teamName: {
+          type: String,
+        },
       },
     ],
     referalCount: {
       type: Number,
       default: 0,
+    },
+    referredBy: {
+      type: String,
+    },
+    hasAccomodation: {
+      type: Boolean,
+      default: false,
     },
   },
   { collection: "users", timestamps: true }

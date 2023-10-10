@@ -1,6 +1,16 @@
 const Event = require("../models/Event");
 const User = require("../models/User");
 
+const removeEvent = (events, eventID) => {
+  return events.filter(
+    (event) => event.eventId.toString() != eventID.toString()
+  );
+};
+
+const checkEvent = (events, eventID) => {
+  return events.some((event) => event.eventId.toString() == eventID.toString());
+};
+
 // GET /api/v1/events
 exports.getEvents = async (req, res, next) => {
   try {
@@ -30,13 +40,32 @@ exports.getEvent = async (req, res, next) => {
   }
 };
 
+exports.clearevents = async (req, res, next) => {
+  try {
+    const { user } = req;
+    const userDet = await User.findById(user.id);
+    console.log(userDet.events);
+    userDet.events = [];
+    await userDet.save();
+    res.status(200).json({
+      success: true,
+      message: "Events cleared successfully",
+      events: userDet.events,
+    });
+  } catch (error) {
+    next(error);
+  }
+};
+
 // POST
 // add event to myEvents
+// if event is team then i want team name and userDetid
+
 exports.registerEvent = async (req, res, next) => {
   try {
     const { slug } = req.body;
     const { user } = req;
-    const userDet = await User.findOne({ email: user.email });
+    const userDet = await User.findById(user.id);
     const event = await Event.findOne({ slug });
     if (!event) {
       return next({
@@ -44,17 +73,33 @@ exports.registerEvent = async (req, res, next) => {
         statusCode: 404,
       });
     }
-    if (userDet.events.includes(event._id)) {
+    if (checkEvent(userDet.events, event._id)) {
       return next({
         message: "Event already registered",
         statusCode: 400,
       });
     }
-    userDet.events.push(event._id);
+    if (event.event_type == "Team") {
+      const { teamName } = req.body;
+      if (!teamName) {
+        return next({
+          message: "Team name required",
+          statusCode: 400,
+        });
+      }
+      userDet.events.push({
+        eventId: event._id,
+        teamleaderId: userDet._id,
+        teamName,
+      });
+    } else {
+      userDet.events.push({ eventId: event._id });
+    }
     await userDet.save();
     res.status(200).json({
       success: true,
       message: "Event registered successfully",
+      events: userDet.events,
     });
   } catch (error) {
     next(error);
@@ -67,7 +112,7 @@ exports.removeEvent = async (req, res, next) => {
   try {
     const { slug } = req.body;
     const { user } = req;
-    const userDet = await User.findOne({ email: user.email });
+    const userDet = await User.findById(user.id);
     const event = await Event.findOne({ slug });
     if (!event) {
       return next({
@@ -75,17 +120,19 @@ exports.removeEvent = async (req, res, next) => {
         statusCode: 404,
       });
     }
-    if (!userDet.events.includes(event._id)) {
+    if (!checkEvent(userDet.events, event._id)) {
       return next({
-        message: "Event not registered",
+        message: "Event not registered by user",
         statusCode: 400,
       });
     }
-    userDet.events.pull(event._id);
+    userDet.events = removeEvent(userDet.events, event._id);
+    console.log(userDet.events);
     await userDet.save();
     res.status(200).json({
       success: true,
       message: "Event removed successfully",
+      events: userDet.events,
     });
   } catch (error) {
     next(error);
