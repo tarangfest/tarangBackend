@@ -27,6 +27,8 @@ const EventSchema = new mongoose.Schema(
         "Literary",
         "Fine Arts",
         "Photography",
+        "Quizzing",
+        "Debate",
         "Informal",
       ],
       required: [
