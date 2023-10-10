@@ -78,3 +78,27 @@ exports.verifyUserPayment = async (req, res, next) => {
     next(error);
   }
 };
+
+// GET
+// callback for google form indicating payment form filled
+exports.formCallback = async (req, res, next) => {
+  try {
+    // prajwal refer
+    const { tarangID } = req.body;
+    const user = await User.findOne({ tarang_id: tarangID });
+    if (!user) {
+      return next({
+        message: "User not found",
+        statusCode: 404,
+      });
+    }
+    user.paymentFormFilled = true;
+    await user.save();
+    res.status(200).json({
+      success: true,
+      message: "User payment form filled",
+    });
+  } catch (error) {
+    next(error);
+  }
+};

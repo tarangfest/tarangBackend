@@ -91,7 +91,7 @@ const UserSchema = new mongoose.Schema(
     verifyToken: {
       type: String,
     },
-    hasPaid: {
+    paymentFormFilled: {
       type: Boolean,
       default: false,
     },
