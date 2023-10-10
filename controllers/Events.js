@@ -60,6 +60,8 @@ exports.clearevents = async (req, res, next) => {
 
 // POST
 // add event to myEvents
+// if event is team then i want team name and userDetid
+
 exports.registerEvent = async (req, res, next) => {
   try {
     const { slug } = req.body;
