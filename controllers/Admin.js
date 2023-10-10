@@ -82,6 +82,7 @@ exports.verifyUserPayment = async (req, res, next) => {
 // GET
 // callback for google form indicating payment form filled
 exports.formCallback = async (req, res, next) => {
+  console.log(req.body);
   try {
     // prajwal refer
     const { tarangID } = req.body;
