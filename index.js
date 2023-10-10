@@ -3,11 +3,13 @@ require("dotenv").config();
 const cors = require("cors");
 var cookieParser = require("cookie-parser");
 const connectDb = require("./config/connectDB");
+const { limiter } = require("./middlewares/rateLimiter");
 const app = express();
 const errorHandler = require("./middlewares/errorHandler");
 const PORT = process.env.PORT || 5000;
 
 // cors
+
 app.use(
   cors({
     origin: [
@@ -20,6 +22,10 @@ app.use(
     exposedHeaders: ["set-cookie"],
   })
 );
+
+// rate limit
+app.use(limiter);
+
 // body parser
 app.use(express.json());
 
@@ -32,10 +38,12 @@ connectDb();
 //route files
 const auth = require("./routes/Auth");
 const events = require("./routes/Events");
+const admin = require("./routes/Admin");
 
 //mount routers
 app.use("/api", auth);
 app.use("/api/events", events);
+app.use("/api/users", admin);
 
 app.get("/", (req, res, next) => {
   res.send({ success: true, message: "this is the landing of the server" });
