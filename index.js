@@ -3,11 +3,13 @@ require("dotenv").config();
 const cors = require("cors");
 var cookieParser = require("cookie-parser");
 const connectDb = require("./config/connectDB");
+const { limiter } = require("./middlewares/rateLimiter");
 const app = express();
 const errorHandler = require("./middlewares/errorHandler");
 const PORT = process.env.PORT || 5000;
 
 // cors
+
 app.use(
   cors({
     origin: [
@@ -20,6 +22,10 @@ app.use(
     exposedHeaders: ["set-cookie"],
   })
 );
+
+// rate limit
+app.use(limiter);
+
 // body parser
 app.use(express.json());
 
