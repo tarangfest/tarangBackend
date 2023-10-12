@@ -27,6 +27,8 @@ const EventSchema = new mongoose.Schema(
         "Literary",
         "Fine Arts",
         "Photography",
+        "Quizzing",
+        "Debate",
         "Informal",
       ],
       required: [
@@ -113,7 +115,11 @@ const EventSchema = new mongoose.Schema(
       },
       required: [true, "Please add Image"],
     },
-    slug: String,
+    slug: {
+      type: String,
+      unique: true,
+      index: true,
+    },
     etype: String,
   },
   {

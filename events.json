@@ -27,8 +27,8 @@
     "images": {
       "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536457/eventPage/header/malang_q3vfxk.webp",
       "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536453/eventPage/header/malang_1_qyekxg.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540930/eventPage/main/IMG_7046_1_2_xx2tra.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540936/eventPage/main/IMG_7046_1_1_1_heejsp.webp"
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701013/eventPage/main/IMG_7046_1_v75vsn.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701013/eventPage/main/IMG_7046_1_1_vstgq9.webp"
     },
     "prize_pool": "7000"
   },
@@ -53,10 +53,10 @@
       { "name": "Sriram Gone", "pno": "7075669396" }
     ],
     "images": {
-      "headerDesktop": "",
-      "headerPhone": "",
-      "mainDesktop": "",
-      "mainPhone": ""
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696761876/eventPage/header/bbh11-65228791b5a75_r8yck0.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696761876/eventPage/header/bbh1-65228791012b8_sqn5fi.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696761849/eventPage/main/breakingbattle-1-652286e05b7af_tagudh.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696761848/eventPage/main/breaking-battles-652286dede035_hx2uho.webp"
     },
     "prize_pool": "8000"
   },
@@ -82,8 +82,8 @@
     "images": {
       "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536432/eventPage/header/Ciniverse_vb4wf4.webp",
       "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536433/eventPage/header/ciniverse_1_vspfme.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540919/eventPage/main/ciniverse_1_df0tic.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540916/eventPage/main/ciniverse_1_1_d0tnej.webp"
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701006/eventPage/main/ciniverse_yx04ep.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701006/eventPage/main/ciniverse_1_wsds6u.webp"
     },
     "prize_pool": "8000"
   },
@@ -113,8 +113,8 @@
     "images": {
       "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536429/eventPage/header/pixl_nozsut.webp",
       "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536436/eventPage/header/pixl_1_jug3hj.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540915/eventPage/main/sunglasses_1_2_l7z8dk.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540913/eventPage/main/sunglasses_1_1_1_isleiw.webp"
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701004/eventPage/main/sunglasses_1_tiyseh.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701005/eventPage/main/sunglasses_1_1_rbf88y.webp"
     },
     "prize_pool": "3000"
   },
@@ -147,8 +147,8 @@
     "images": {
       "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536449/eventPage/header/oddesy_thci8t.webp",
       "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536455/eventPage/header/oddsy_1_ncky0x.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540931/eventPage/main/IMG_7087_2_tjgaae.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540933/eventPage/main/IMG_7087_1_1_glzxat.webp"
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701012/eventPage/main/IMG_7087_qrkl3y.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701012/eventPage/main/IMG_7087_1_lciso5.webp"
     },
     "prize_pool": "7000"
   },
@@ -181,8 +181,8 @@
     "images": {
       "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536445/eventPage/header/jankaar_spfyl3.webp",
       "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536447/eventPage/header/jankaar_1_bqrg7m.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540927/eventPage/main/IMG_3469_2_kznr7s.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540934/eventPage/main/IMG_3469_1_1_e5ilrk.webp"
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701010/eventPage/main/IMG_3469_mwnrcy.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701011/eventPage/main/IMG_3469_1_yjjjxs.webp"
     },
     "prize_pool": "40000"
   },
@@ -213,8 +213,8 @@
     "images": {
       "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536387/eventPage/header/rangmanch_bxkcnd.webp",
       "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536379/eventPage/header/rangmanch_1_kqandn.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540871/eventPage/main/rang_1_2_x4bpsv.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540874/eventPage/main/rang_1_1_1_u1lxql.webp"
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700988/eventPage/main/rang_1_vm6j39.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700988/eventPage/main/rang_1_1_jymklw.webp"
     },
     "prize_pool": "14000"
   },
@@ -250,8 +250,8 @@
     "images": {
       "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536383/eventPage/header/nukkad_1_wt0wgi.webp",
       "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536385/eventPage/header/nukkad_1_1_po8jxh.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540867/eventPage/main/nukkad1_1_2_rmxlqo.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540869/eventPage/main/nukkad1_1_1_1_z4m6n8.webp"
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700988/eventPage/main/nukkad1_1_csmfxg.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700989/eventPage/main/nukkad1_1_1_emck1n.webp"
     },
     "prize_pool": "40000"
   },
@@ -296,8 +296,8 @@
     "images": {
       "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536379/eventPage/header/tw_1_f9lvdf.webp",
       "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536380/eventPage/header/tw_2_j3j40r.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540867/eventPage/main/tw1_1_1_dvn7gw.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540868/eventPage/main/tw1_2_1_zy7znt.webp"
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700988/eventPage/main/tw1_1_gblx9r.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700988/eventPage/main/tw1_1_gblx9r.webp"
     },
     "prize_pool": "45000"
   },
@@ -333,8 +333,8 @@
     "images": {
       "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536422/eventPage/header/fbf_aej23j.webp",
       "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536427/eventPage/header/fbf_1_o9syj2.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540907/eventPage/main/fbf_1_csfu3s.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540909/eventPage/main/fbf_1_1_qv9dg0.webp"
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701002/eventPage/main/fbf_h4xuev.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701002/eventPage/main/fbf_1_xom2r3.webp"
     },
     "prize_pool": "TBD"
   },
@@ -362,8 +362,8 @@
     "images": {
       "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536419/eventPage/header/artlab_nu4kia.webp",
       "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536425/eventPage/header/artlab_1_z7uhbc.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540912/eventPage/main/artlab_1_lttd3i.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540910/eventPage/main/artlab_1_1_bvvwam.webp"
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701003/eventPage/main/artlab_crfx4w.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701004/eventPage/main/artlab_1_ozmza5.webp"
     },
     "prize_pool": "TBD"
   },
@@ -392,8 +392,8 @@
     "images": {
       "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536417/eventPage/header/cassiopia_kffqr2.webp",
       "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536421/eventPage/header/cassiopia_1_k0ovny.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540899/eventPage/main/cassiopia_1_phsxxy.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540903/eventPage/main/cassiopia_1_1_pejwqi.webp"
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700999/eventPage/main/cassiopia_sumwtc.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701000/eventPage/main/cassiopia_1_fc6auf.webp"
     },
     "prize_pool": "TBD"
   },
@@ -422,8 +422,8 @@
     "images": {
       "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536414/eventPage/header/artfulalt_gfd0kk.webp",
       "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536416/eventPage/header/artfulalt_1_raz6h6.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540901/eventPage/main/artful_1_ygi8c2.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540898/eventPage/main/artful_1_1_ziijgi.webp"
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700998/eventPage/main/artful_ovw8ii.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700999/eventPage/main/artful_1_euoqxk.webp"
     },
     "prize_pool": "TBD"
   },
@@ -452,8 +452,8 @@
     "images": {
       "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536413/eventPage/header/off_wall_cr04fq.webp",
       "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536424/eventPage/header/off_wall_1_r2wuiz.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540904/eventPage/main/otw_1_mew9hg.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540906/eventPage/main/otw_1_1_tyllni.webp"
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701001/eventPage/main/otw_ndetmi.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701002/eventPage/main/otw_1_rvezab.webp"
     },
     "prize_pool": "8500"
   },
@@ -475,8 +475,8 @@
     "images": {
       "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536444/eventPage/header/peb_xmrn6j.webp",
       "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536440/eventPage/header/peb_1_f4o5zk.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540925/eventPage/main/photoexb_1_ylvcxg.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540928/eventPage/main/photoexb_1_1_nk57mi.webp"
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701010/eventPage/main/photoexb_mysq7d.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701010/eventPage/main/photoexb_1_bhqfm7.webp"
     },
     "prize_pool": "TBD"
   },
@@ -511,9 +511,604 @@
     "images": {
       "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536437/eventPage/header/cannon_b6snpt.webp",
       "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536442/eventPage/header/cannon_1_xutugc.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540924/eventPage/main/cw_1_xzbqpu.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696540921/eventPage/main/cw__1_rp31o9.webp"
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701009/eventPage/main/cw_iohgis.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701009/eventPage/main/cw__aegcyf.webp"
     },
     "prize_pool": "TBD"
+  },
+  {
+    "name": "Micmagic booth",
+    "tagline": "Our mic, your magic!",
+    "event_type": "Solo",
+    "event_category": "Music",
+    "description": "Step into a world where every voice is a star and every note is pure magic. Stop by at the MicMagic booth and unleash your inner superstar! Sing your heart out, vibe with your friends and create great memories. It's your stage, your song, and your moment to shine! Whether you're a karaoke enthusiast or a shy shower singer, this event is your chance to become the star.",
+    "reg_fees": "0",
+    "max_participants": "60",
+    "min_participants": "10",
+    "event_date": "Nov 3, 2023",
+    "event_time": "11:00 AM",
+    "org_club": "Saaz",
+    "duration": "3 Hours",
+    "instructions": [
+      "Take Turns. Do not put several songs in a row for yourself.",
+      "Avoid making negative comments about other singers' performances.",
+      "Avoid screaming or shouting into the microphone.",
+      "Have your song selection ready before your turn.",
+      "Check the lyrics screen for cues and timing.",
+      "Handle mic with care. Don't drop or mishandle the mic.",
+      "Do not block the view of the karaoke screen for the singer.",
+      "Avoid having loud conservations that distract the singer or drown out the backing track.",
+      "Make sure to have fun!!!!"
+    ],
+    "coordinators": [
+      {
+        "name": "Shreya Varshney",
+        "pno": "9897660046"
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765562/saaz/header/frame-276-65229035cf03a_yefji7.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765547/saaz/header/frame-344-6522903ec55ee_izyrmm.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765474/saaz/mian/frame-303-652290ecb73ed_ve4hmq.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765484/saaz/mian/frame-315-652290f456a6a_r5pj3l.webp"
+    },
+    "prize_pool": "0"
+  },
+  {
+    "name": "Club shop",
+    "tagline": "Where melodies meet Style",
+    "event_type": "Solo",
+    "event_category": "Music",
+    "description": "Goodies and merch designed by the people of Saaz being sold for anyone who wishes to take a memory of Saaz with them.",
+    "reg_fees": "Depends on the items",
+    "max_participants": "100",
+    "min_participants": "10",
+    "event_date": "Nov 3, 2023",
+    "event_time": "9:00 AM",
+    "org_club": "Saaz",
+    "duration": "3 days",
+    "instructions": ["Pay minimal amounts and get goodies."],
+    "coordinators": [
+      {
+        "name": "Aiman Aslam",
+        "pno": "9004934919"
+      }
+    ],
+    "images": {
+      "headerDesktop": "",
+      "headerPhone": "",
+      "mainDesktop": "",
+      "mainPhone": ""
+    },
+    "prize_pool": "0"
+  },
+  {
+    "name": "Beatbox Battle",
+    "tagline": "Let the beat drop and the battle begin!",
+    "event_type": "Solo",
+    "event_category": "Music",
+    "description": "All registered participants will have to give prelims of about 1.5-2 minutes. Selected participants will have to pay Rs. 300/- as registration fee. They will give their solo performances of 2 minutes and top 4 among these will move to the quarter finals, Semi Finals and Final round where participants will face each other in a fierce battle.",
+    "reg_fees": "300",
+    "max_participants": "35",
+    "min_participants": "25",
+    "event_date": "Nov 4, 2023",
+    "event_time": "11:00 AM",
+    "org_club": "Saaz",
+    "duration": "2 hours approx.",
+    "instructions": [
+      "1. 25-35 Participants ",
+      "2. Battle order:",
+      "Eliminations ",
+      "Quarterfinals",
+      "Semifinals ",
+      "Finals ",
+      "3. Round Times:",
+      "2 minutes solo round",
+      "2 * 90 seconds for solo battle round."
+    ],
+    "coordinators": [
+      {
+        "name": "Utkarsh Raj",
+        "pno": "9508566947"
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765564/saaz/header/frame-277-65229038643be_un8axz.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765548/saaz/header/frame-345-6522903f4bac4_gcwrkc.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765476/saaz/mian/frame-306-652290f0771da_zjp191.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765487/saaz/mian/frame-318-652290f62f9ef_vhlkud.webp"
+    },
+    "prize_pool": "15,000"
+  },
+  {
+    "name": "Clash of melodies",
+    "tagline": "Where Rythm meets competition",
+    "event_type": "Solo",
+    "event_category": "Music",
+    "description": "Are you ready to take center stage and let your voice soar? Get ready for a musical showdown like no other as Clash of Melodies is here for an unforgettable solo singing festival! This is your chance to shine as a soloist, captivating the audience with your melodic prowess and unique artistry. Bringing you a celebration of solo singing talent where every note, every lyric, and every emotion come together to create breathtaking performances. Whether you're a seasoned vocalist or a rising star, this festival is your platform to showcase your vocal abilities, creativity, and stage presence.",
+    "reg_fees": "300",
+    "max_participants": "60",
+    "min_participants": "40",
+    "event_date": "Nov 3, 2023",
+    "event_time": "10:00 AM",
+    "org_club": "Saaz",
+    "duration": "3 hours",
+    "instructions": [
+      "Open to solo singers of all ages.",
+      "No duets or groups shall be entertained. Participants can, however, have a maximum of 2 instrumentalists if they do wish so.",
+      "Participants can choose any genre of music.",
+      "Pre-registration is required for participation. The contestants must qualify in the preliminary round to continue further.",
+      "After qualification, the participants need to pay a registration fees of Rs. 300/- to participate in the following rounds.",
+      "Each participant is allowed a maximum performance time of 3 minutes.",
+      "Time will be strictly enforced. Setup and soundcheck shall be done beforehand.",
+      "Participants are responsible for providing their own backing tracks or live accompaniment, if any.",
+      "Performances will be judged on vocal skill, stage presence, originality, and audience engagement.",
+      "The event schedule, including performance order, will be shared in advance."
+    ],
+    "coordinators": [
+      {
+        "name": "Divyanshi Dhiman",
+        "pno": "9717955760"
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765556/saaz/header/frame-272-6522902de720d_euanar.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765567/saaz/header/frame-339-65229039d651d_zt7tbx.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765461/saaz/mian/frame-302-652290e971b61_usqo5s.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765482/saaz/mian/frame-314-652290f2d1140_ctgtwi.webp"
+    },
+    "prize_pool": "15000"
+  },
+  {
+    "name": "Showcase",
+    "tagline": "Saaz Ke Suro Ka Jashn",
+    "event_type": "Team",
+    "event_category": "Music",
+    "description": "Prepare to be serenaded by the melodious tunes and soulful harmonies of our talented musicians, as they showcase their exceptional skills and passion for music. From classical melodies to contemporary hits, Saaz promises a diverse repertoire that will captivate your senses. Don't miss this opportunity to witness the magic of Music Club Saaz at IIITDMJ. Mark your calendars, invite your friends and family, and join us for a musical journey like no other. Get ready to be moved by the power of music!",
+    "reg_fees": "0",
+    "max_participants": "40",
+    "min_participants": "10",
+    "event_date": "Nov 3, 2023",
+    "event_time": "6:00 PM",
+    "org_club": "Saaz",
+    "duration": "2 hours",
+    "instructions": ["It consists of performances of Saaz Club Members"],
+    "coordinators": [
+      {
+        "name": "Kaustubh Upadhyay",
+        "pno": "6260595371"
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765559/saaz/header/frame-274-65229031acceb_khcioa.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765543/saaz/header/frame-342-6522903c8e697_lxkbfa.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765456/saaz/mian/frame-297-652290e657d5c_ugqve9.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765478/saaz/mian/frame-309-652290f017058_dtc1nz.webp"
+    },
+    "prize_pool": "0"
+  },
+  {
+    "name": "Dard-e-disco",
+    "tagline": "Lights, Camera, Quizzing !",
+    "event_type": "Team",
+    "event_category": "Quizzing",
+    "description": "This event is all about celebrating the rich and vibrant world of Indian cinema and its music. We plan to engage our participants with a quiz that covers a broad spectrum of Bollywood. The quiz questions will challenge participants' knowledge of iconic movie songs, legendary musicians, and their glamorous music. They'll have to identify hit songs, match them to their respective movies, and relive the magic of these timeless tunes. Our goal is to make this event inclusive and entertaining for both avid Bollywood fans and music listeners. We have exciting prizes and Saaz merch in store for the participants!",
+    "reg_fees": "10",
+    "max_participants": "100",
+    "min_participants": "5",
+    "event_date": "Nov 3, 2023",
+    "event_time": "02:00 PM",
+    "org_club": "Saaz",
+    "duration": "Full day for 3 days",
+    "instructions": [
+      " No media will be used during the event to maintain a level playing field.",
+      "Participants will be organized into groups of four. The order of answering will be determined by a buzzer system. The first person to buzz in gets the opportunity to answer the question. If someone manages to answer all 20 questions correctly, they will receive a token or a prize of similar value. Additionally, a token or prize will also be awarded to participants who correctly answer at least 70% of the questions in their set.",
+      "Group formation will be totally random unless the contestants come with their own group of 4."
+    ],
+    "coordinators": [
+      {
+        "name": "Aiman Aslam",
+        "pno": "9004934919"
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765561/saaz/header/frame-275-652290346a8c1_piybn8.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765545/saaz/header/frame-343-6522903d15bc5_oitp3p.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765459/saaz/mian/frame-300-652290e96a868_kic0gj.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765481/saaz/mian/frame-312-652290f248814_e1ohaz.webp"
+    },
+    "prize_pool": "Tokens and Merch"
+  },
+  {
+    "name": "Symphony Cascade",
+    "tagline": "Where music speaks without words!",
+    "event_type": "Team",
+    "event_category": "Music",
+    "description": "Prepare to be mesmerised by the sheer artistry of musical instruments at Tarang! We proudly present Instrumental Harmony, where instrumentalists from near and far will converge to showcase their exceptional talent in an instrumental competition like no other",
+    "reg_fees": "300",
+    "max_participants": "35",
+    "min_participants": "25",
+    "event_date": "Nov 5, 2023",
+    "event_time": "10:00 AM",
+    "org_club": "Saaz",
+    "duration": "3 Hours ",
+    "instructions": [
+      "Every kind of musical instrument is allowed",
+
+      "You can either perform in a group or as an individual ",
+      "Groups can contain a maximum of 4 members",
+      "A preliminary round will be held, a video(2-3 min long) is to be submitted for judgement ",
+      "The registration fee is 300 Rs. / instrumentalist"
+    ],
+    "coordinators": [
+      {
+        "name": "Arnav Puri",
+        "pno": "9001989979"
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765554/saaz/header/frame-271-6522902df1ebc_kf8aex.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765542/saaz/header/frame-341-6522903b720dc_jsvlcs.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765458/saaz/mian/frame-299-652290e686ac9_bcwxan.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765479/saaz/mian/frame-311-652290f16f601_lpqqyx.webp"
+    },
+    "prize_pool": "15000"
+  },
+  {
+    "name": "KURUKSHETRA",
+    "tagline": "KURUKSHETRA-YE YUDHH HAI SURO KA",
+    "event_type": "Team",
+    "event_category": "Music",
+    "description": "The Mahabharata featured warriors with diverse skills and abilities, and so will our KURUKSHETRA. Bands of all genres – from rock to classical, folk to hip-hop – will converge on this grand arena to showcase their musical talent. Expect the clash of styles and the fusion of genres, just like the complex alliances and rivalries in the Mahabharata.",
+    "reg_fees": "2000",
+    "max_participants": "70",
+    "min_participants": "30",
+    "event_date": "Nov 5, 2023",
+    "event_time": "5:00 PM",
+    "org_club": "Saaz",
+    "duration": "3 hours Approx.",
+    "instructions": [
+      "You need at least one singer on stage.",
+      "Your performance video for the first round should be no longer than 3 minutes, and it must be a live recording.",
+      "You can't use backing tracks",
+      "team size should consist a minimum of 4 to a maximum of 10 participant.",
+      "If there are multiple singers on stage, they shouldn't outnumber the total participants.",
+      "You need at least one string player, one percussionist, and one keyboard player."
+    ],
+    "coordinators": [
+      {
+        "name": "Virag Jain",
+        "pno": "8421345464"
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765553/saaz/header/image-7-652290416f123_geoy3i.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765566/saaz/header/frame-338-652290387e621_iltccv.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765456/saaz/mian/image-10-652290f8dfa43_v6spqa.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765454/saaz/mian/frame-308-652290f68a6cb_tegvdx.webp"
+    },
+    "prize_pool": "60,000"
+  },
+  {
+    "name": "Drop The Mic",
+    "tagline": "It's an open mic, come and drop it!",
+    "event_type": "Team",
+    "event_category": "Informal",
+    "description": "If you've got killer poems and stories to share, mad rap skills, stand-up, oor just a burning desire to rock the stage, this is your moment! Raps? Stand Ups ? Stories ? Think you got it? ",
+    "reg_fees": 0,
+    "max_participants": 70,
+    "min_participants": 5,
+    "event_date": "Nov 4, 2023",
+    "event_time": "5:00 PM",
+    "org_club": "Samvaad",
+    "duration": "3 hours approx.",
+    "instructions": [
+      "As long as you are not singing..there are NO RULES!!(no profanity of course!)"
+    ],
+    "coordinators": [
+      {
+        "name": "Mettu Varun Aditya",
+        "pno": 7013584990
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766031/samvad/header/Frame_205_p1k0fn.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766023/samvad/header/Frame_198_rrbair.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765290/samvad/main/frame-219-652292e3ac0d5_dijf0k.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765316/samvad/main/frame-219-1-652292e425a82_vrmoea.webp"
+    },
+    "prize_pool": 0
+  },
+  {
+    "name": "Quizzeria: General",
+    "tagline": "Quizzeria: General - Catch 'em All in the World of Words!",
+    "event_type": "Team",
+    "event_category": "Quizzing",
+    "description": "A fun event where we will ask the questions. Can you catch 'em all?",
+    "reg_fees": 200,
+    "max_participants": 70,
+    "min_participants": 5,
+    "event_date": "Nov 3, 2023",
+    "event_time": "10:30 AM",
+    "org_club": "Samvaad",
+    "duration": "1.5 hours approx.",
+    "instructions": [
+      "Teams of max 3 members will be allowed, based on prior registration and feepayment.",
+      "Multiple different phases of the quiz : Textual, Visual and maybe Auditory",
+      "Different phases can have different scoring system.",
+      "Quiz will follow standard rules of Direct, Pounce, Pass and will be explained at the start or whenever necessary"
+    ],
+    "coordinators": [
+      {
+        "name": "Advait Manke",
+        "pno": 9340614865
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766034/samvad/header/Frame_207_a7ijvb.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766050/samvad/header/Frame_199_tuetvs.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765291/samvad/main/frame-220-652292e5dd490_mkytfs.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765298/samvad/main/frame-231-652292ecf0117_oa9jum.webp"
+    },
+    "prize_pool": "11,500"
+  },
+  {
+    "name": "Quizzeria : SPENT",
+    "tagline": "Quizzeria: SPENT - Where Words Bridge the Gap Between Stadiums and Silver Screens!",
+    "event_type": "Team",
+    "event_category": "Quizzing",
+    "description": "Sports and entertainment quiz. Come and test your knowledge of best of worlds.",
+    "reg_fees": 200,
+    "max_participants": 50,
+    "min_participants": 5,
+    "event_date": "Nov 4, 2023",
+    "event_time": "11:00 AM",
+    "org_club": "Samvaad",
+    "duration": "2 hours approx.",
+    "instructions": [
+      "Teams of max 3 members will be allowed, based on prior registration and feepayment.",
+      " Multiple different phases of the quiz : Textual, Visual and maybe Auditory",
+      "Different phases can have different scoring system.",
+      "Quiz will follow standard rules of Direct, Pounce, Pass and will be explained at the start or whenever necessary"
+    ],
+    "coordinators": [
+      {
+        "name": "Advay Sagarkar",
+        "pno": 9152539747
+      }
+    ],
+    "images": {
+      "headerDesktop": "",
+      "headerPhone": "",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765291/samvad/main/frame-221-652292e6d3c3c_btoqal.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765291/samvad/main/frame-221-1-652292e7c545c_x5j95h.webp"
+    },
+    "prize_pool": "11,500"
+  },
+  {
+    "name": "Kavyanchal",
+    "tagline": "Shabdon ke iss shehar mein apna bhi ghar banao!",
+    "event_type": "Solo",
+    "event_category": "Informal",
+    "description": "Kavyanchal is a Hindi Poetry competition where you are given a stand to present your best shayris and nazms in front of people that want to listen. ",
+    "reg_fees": 75,
+    "max_participants": 60,
+    "min_participants": 5,
+    "event_date": "Nov 4, 2023",
+    "event_time": "9:00 AM",
+    "org_club": "Samvaad",
+    "duration": "4 hours approx.",
+    "instructions": [
+      "Present your own Hindi poetry.",
+      "It should not be copied from anywhere else.",
+      "It should have a duration of minimum 1 minute and maximum 4 minutes."
+    ],
+    "coordinators": [
+      {
+        "name": "Kushagra Yadav",
+        "pno": 7509855423
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766039/samvad/header/poetry_veinbu.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766037/samvad/header/Frame_251_uoltrz.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765304/samvad/main/frame-212-652292dd8f3d6_j7affa.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765293/samvad/main/frame-225-652292e9f0bd7_ohokwh.webp"
+    },
+    "prize_pool": 7000
+  },
+  {
+    "name": "Verses v/s Verses",
+    "tagline": "Verses v/s Verses: Weave the Fabric of Emotion Through Rhymes!",
+    "event_type": "Solo",
+    "event_category": "Informal",
+    "description": "Verses v/s Verses is an English Poetry competition where you can flex your rhymes and weave the fabric of your reality to tell tales that move the heart.",
+    "reg_fees": 75,
+    "max_participants": 60,
+    "min_participants": 5,
+    "event_date": "Nov 3, 2023",
+    "event_time": "02:00 PM",
+    "org_club": "Samvaad",
+    "duration": "4 hours approx.",
+    "instructions": [
+      "Present your own English poetry.",
+      "It should not be copied from anywhere else.",
+      "It should have a duration of minimum 1 minute and maximum 4 minutes."
+    ],
+    "coordinators": [
+      {
+        "name": "Kushagra Yadav",
+        "pno": 7509855423
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766020/samvad/header/Frame_191_vcvikg.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766049/samvad/header/Frame_192_co8wjf.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765303/samvad/main/frame-209-652292dd15a75_lra6vu.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765292/samvad/main/frame-222-652292e9f0bd8_sopqde.webp"
+    },
+    "prize_pool": 7000
+  },
+  {
+    "name": "Pen It Down",
+    "tagline": "Write From Anywhere with Pen It Down!",
+    "event_type": "Team",
+    "event_category": "Literary",
+    "description": "Pen It Down is an ONLINE-only creative writing based event where you can unleash wrting skills(storyline) based on the prompts from a variety of different fields.",
+    "reg_fees": 50,
+    "max_participants": 60,
+    "min_participants": 5,
+    "event_date": "Nov 4, 2023",
+    "event_time": "02:00 PM",
+    "org_club": "Samvaad",
+    "duration": "1 hour approx.",
+    "instructions": [
+      "ONLINE only event. Participants need to register before the commencement of the event on an online platform. When the event begins, the topics for writing will be released to the participants. They will have 4 hours to construct a storyline on the given topic/theme.",
+      " They will have to submit their story in the given time frame in a pdf format only. Plagiarism and AI checks will be kept in place, and any offenders will be disqualified from the competition. The winners will be announced later based on the judges’ decision."
+    ],
+    "coordinators": [
+      {
+        "name": "Areeb Siddiqui ",
+        "pno": 8425999003
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766043/samvad/header/Frame_204_u4xvuj.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766025/samvad/header/Frame_196_udly6h.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765301/samvad/main/pend-1-652292f251e4a_vh7v38.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765300/samvad/main/pend-1-1-652292f823541_rsgmvl.webp"
+    },
+    "prize_pool": 6000
+  },
+  {
+    "name": "Brain Rot Escape",
+    "tagline": "Get ready to exercise your brain and lose your sanity simultaneously with Brain Rot Escape – where literature meets lunacy!",
+    "event_type": "Solo",
+    "event_category": "Informal",
+    "description": "A series of 3 literary games.Each of them will follow an elimination method.Winners will be emerging in the third game.",
+    "reg_fees": 50,
+    "max_participants": 350,
+    "min_participants": 5,
+    "event_date": "Nov 5, 2023",
+    "event_time": "02:00 PM",
+    "org_club": "Samvaad",
+    "duration": "2 hours approx.",
+    "instructions": [
+      "Round 1-It will be an individual round.",
+      "Round 2-The group activity will take place.",
+      "Round 3-The remaining people will go for individual competition.        "
+    ],
+    "coordinators": [
+      {
+        "name": "Qassah",
+        "pno": 9971115820
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766022/samvad/header/Frame_202_yoc1y0.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766045/samvad/header/Frame_194_azw3fe.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765305/samvad/main/frame-215-652292dfd6262_jdp8aw.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765298/samvad/main/frame-252-652292eea4a0d_ihfmex.webp"
+    },
+    "prize_pool": 3000
+  },
+  {
+    "name": "X-Calibre",
+    "tagline": "If you can't convince them, confuse them.",
+    "event_type": "Team",
+    "event_category": "Debate",
+    "description": "English oratory showcase, consisting of Oxford-style as well as parliamentary style of debate.",
+    "reg_fees": 150,
+    "max_participants": 20,
+    "min_participants": 2,
+    "event_date": "Nov 5, 2023",
+    "event_time": "09:00 AM",
+    "org_club": "Samvaad",
+    "duration": "7 hours approx.",
+    "instructions": [
+      "Round 1 - Extempore round, wherein one member from each team will speak spontaneously on a topic for two and a half minutes. Top 10 teams advance to the next round.",
+      "Round 2 - Oxford-style debating round, in which 2 teams, selected randomly, will go head-to-head against each other, arguing in favour of and against a given motion respectively. Each side(proposition and opposition) will consist of two members, with each speaker getting 3 minutes to present their arguments, followed by cross-questioning and rebuttals. Top 5 teams advance to the final round.",
+      "Round 3 - The final round comprises a parliamentary style of debate, wherein all the final teams will compete against each other, arguing on an open-ended question presented to the house. All the 3 members of a team will participate in this round together as a unit."
+    ],
+    "coordinators": [
+      {
+        "name": "Manoj Panjwani",
+        "pno": 6391919140
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766029/samvad/header/Frame_203_oopnhv.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766020/samvad/header/Frame_195_r2b734.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765314/samvad/main/frame-216-652292e06c2f5_y0aonm.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765294/samvad/main/frame-226-652292eb2d76b_u3b3oc.webp"
+    },
+    "prize_pool": "11,000"
+  },
+  {
+    "name": "Likhawat",
+    "tagline": "Your favorite poet/writer awaits to guide you.",
+    "event_type": "Solo",
+    "event_category": "Literary",
+    "description": "A workshop to help you weave your haziest of thoughts into simpler and profound strings.",
+    "reg_fees": 0,
+    "max_participants": 50,
+    "min_participants": 5,
+    "event_date": "Nov 4, 2023",
+    "event_time": "03:00 PM",
+    "org_club": "Samvaad",
+    "duration": "7 hours approx.",
+    "instructions": ["No such rules, you just have to be the audience."],
+    "coordinators": [
+      {
+        "name": "Bhakti",
+        "pno": 7058811442
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766041/samvad/header/Frame_201_myadrk.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766047/samvad/header/Frame_193_lqpaqt.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765302/samvad/main/penit-2-65229300e2b7a_ykyo66.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765295/samvad/main/frame-228-652292eb5496f_ommpsu.webp"
+    },
+    "prize_pool": 0
+  },
+  {
+    "name": "Vaad-Vivaad",
+    "tagline": "शब्दों का जाल बनेगा बवाल! आइये शुरू करते हैं शब्दों का महायुद्ध!",
+    "event_type": "Team",
+    "event_category": "Debate",
+    "description": "Join us and experience the thrill of our Hindi Debate as we embark on a journey of words and wit. Let your ideas take flight and voices ignite.",
+    "reg_fees": 200,
+    "max_participants": 25,
+    "min_participants": 2,
+    "event_date": "Nov 3, 2023",
+    "event_time": "09:00 AM",
+    "org_club": "Samvaad",
+    "duration": "4.5 hours approx.",
+    "instructions": [
+      "Round 1 (10 minutes) - 'Yeh toh bas shurwat hai.'",
+      "1. Each team will have a total of 5 minutes to present their arguments.",
+      "2. Teams will speak for 2 minutes alternately, two times.",
+      "3. The last 1 minute is reserved for each team to provide their conclusion.",
+      "Round 2 (14 minutes) - 'Jaldi karo nhi toh der ho jayegi'",
+      "1. Each team will have a total of 7 minutes to present their arguments.",
+      "2. Teams will speak for 1 minute alternately.",
+      "Round 3 (20 minutes) - 'Jungle ka khel'",
+      "1. There is no time restriction for this round.",
+      "2. The last 5 minutes of this round will be dedicated to audience questions."
+    ],
+    "coordinators": [
+      {
+        "name": "Swati Tiwari",
+        "pno": 7266074282
+      }
+    ],
+    "images": {
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766052/samvad/header/Frame_206_esgx3f.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766027/samvad/header/Frame_197_npu8df.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696836490/samvad/main/15th_Aug_Act_28_1_lmwqqn.png",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696836489/samvad/main/15th_Aug_Act_28_1_1_ammbbc.png"
+    },
+    "prize_pool": "11,000"
   }
 ]
