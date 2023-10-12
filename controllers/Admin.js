@@ -57,7 +57,7 @@ exports.verifyUserPayment = async (req, res, next) => {
     }
     let refStatus = "";
     user.paymentVerified = true;
-    if (referralCode) {
+    if (user.referredBy) {
       const checkUser = await User.findOne({ tarang_id: user.referredBy });
       if (!checkUser) {
         refStatus = "Invalid referral code";
