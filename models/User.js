@@ -4,7 +4,7 @@ const ShortUniqueId = require("short-unique-id");
 
 function generateRandomUUID() {
   return (
-    "TRNG23#" +
+    "TRNG-" +
     new ShortUniqueId({
       dictionary: ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"],
     }).randomUUID(6)

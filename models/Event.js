@@ -44,14 +44,6 @@ const EventSchema = new mongoose.Schema(
       type: String,
       required: [true, "Please add registration fees"],
     },
-    max_participants: {
-      type: String,
-      required: [true, "Please add maximum number of participants"],
-    },
-    min_participants: {
-      type: String,
-      required: [true, "Please add minimum number of participants"],
-    },
     event_date: {
       type: String,
       required: [true, "Please add event date"],
@@ -71,7 +63,7 @@ const EventSchema = new mongoose.Schema(
       ],
       required: [
         true,
-        "Select from 'Aavartan','Shutter Box','Jazbaat','Samvaad','Abhivyakti'",
+        "Select from 'Aavartan','Shutter Box','Jazbaat','Samvaad','Abhivyakti', 'Saaz'",
       ],
     },
     duration: {

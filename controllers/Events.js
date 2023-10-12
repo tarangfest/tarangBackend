@@ -2,9 +2,7 @@ const Event = require("../models/Event");
 const User = require("../models/User");
 
 const removeEvent = (events, eventID) => {
-  return events.filter(
-    (event) => event.slug!= eventID
-  );
+  return events.filter((event) => event.slug != eventID);
 };
 
 const checkEvent = (events, eventID) => {
@@ -117,6 +115,7 @@ exports.removeEvent = async (req, res, next) => {
   try {
     const { slug } = req.body;
     const { user } = req;
+    console.log(user);
     const userDet = await User.findById(user.id);
     const event = await Event.findOne({ slug });
     if (!event) {
