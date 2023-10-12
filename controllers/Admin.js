@@ -55,7 +55,7 @@ exports.verifyUserPayment = async (req, res, next) => {
         statusCode: 404,
       });
     }
-    let refStatus = "";
+    let refStatus = "No Referral Code Entered";
     user.paymentVerified = true;
     if (user.referredBy) {
       const checkUser = await User.findOne({ tarang_id: user.referredBy });
