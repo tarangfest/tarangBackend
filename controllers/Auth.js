@@ -95,6 +95,8 @@ exports.forgotPassword = async (req, res, next) => {
   });
 };
 
+// GET
+// get logged in user
 exports.getLoggedInUser = async (req, res, next) => {
   const { email } = req.user;
   console.log(req.user);
@@ -104,4 +106,20 @@ exports.getLoggedInUser = async (req, res, next) => {
     success: true,
     user,
   });
+};
+
+// GET
+// logout user and clear cookie
+exports.logoutUser = async (req, res, next) => {
+  res
+    .cookie("token", "none", {
+      expires: new Date(Date.now() + 10 * 1000),
+      httpOnly: true,
+      sameSite: "none",
+    })
+    .status(200)
+    .json({
+      success: true,
+      message: "Logged out",
+    });
 };

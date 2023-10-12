@@ -47,7 +47,7 @@ exports.getUsersByEventSlug = async (req, res, next) => {
 // verify user
 exports.verifyUserPayment = async (req, res, next) => {
   try {
-    const { tarangID, referralCode } = req.body;
+    const { tarangID } = req.body;
     const user = await User.findOne({ tarang_id: tarangID });
     if (!user) {
       return next({
@@ -55,14 +55,13 @@ exports.verifyUserPayment = async (req, res, next) => {
         statusCode: 404,
       });
     }
-    let refStatus = "";
+    let refStatus = "No Referral Code Entered";
     user.paymentVerified = true;
-    if (referralCode) {
-      const checkUser = await User.findOne({ tarang_id: referralCode });
+    if (user.referredBy) {
+      const checkUser = await User.findOne({ tarang_id: user.referredBy });
       if (!checkUser) {
         refStatus = "Invalid referral code";
       } else {
-        user.referredBy = referralCode;
         refStatus = "Referral code verified";
         checkUser.referalCount += 1;
         await checkUser.save();
@@ -85,7 +84,7 @@ exports.formCallback = async (req, res, next) => {
   console.log(req.body);
   try {
     // prajwal refer
-    const { tarangID } = req.body;
+    const { tarangID, referredBy } = req.body;
     const user = await User.findOne({ tarang_id: tarangID });
     if (!user) {
       return next({
@@ -94,6 +93,7 @@ exports.formCallback = async (req, res, next) => {
       });
     }
     user.paymentFormFilled = true;
+    user.referredBy = referredBy;
     await user.save();
     res.status(200).json({
       success: true,
