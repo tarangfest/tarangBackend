@@ -10,7 +10,7 @@ const {
 
 Router.get("/", protectedRouteAdmin, getUsers);
 Router.get("/event/:slug", protectedRouteAdmin, getUsersByEventSlug);
-Router.put("/verify", verifyUserPayment);
+Router.put("/verify", protectedRouteAdmin, verifyUserPayment);
 Router.post("/formcallback", formCallback);
 
 module.exports = Router;
