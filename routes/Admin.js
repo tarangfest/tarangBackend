@@ -5,7 +5,7 @@ const {
   getUsers,
   getUsersByEventSlug,
   verifyUserPayment,
-  formCallback
+  formCallback,
 } = require("../controllers/Admin");
 
 Router.get("/", protectedRouteAdmin, getUsers);
