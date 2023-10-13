@@ -113,8 +113,9 @@ exports.getLoggedInUser = async (req, res, next) => {
 exports.logoutUser = async (req, res, next) => {
   res
     .cookie("token", "none", {
-      expires: new Date(Date.now() + 10 * 1000),
+      expires: new Date(0),
       httpOnly: true,
+      secure: true,
       sameSite: "none",
     })
     .status(200)
