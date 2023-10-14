@@ -84,7 +84,7 @@ exports.formCallback = async (req, res, next) => {
   console.log(req.body);
   try {
     // prajwal refer
-    const { tarangID, referredBy } = req.body;
+    const { tarangID } = req.body;
     const user = await User.findOne({ tarang_id: tarangID });
     if (!user) {
       return next({
@@ -93,7 +93,6 @@ exports.formCallback = async (req, res, next) => {
       });
     }
     user.paymentFormFilled = true;
-    user.referredBy = referredBy;
     await user.save();
     res.status(200).json({
       success: true,
