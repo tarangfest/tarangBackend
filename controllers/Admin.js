@@ -83,8 +83,8 @@ exports.verifyUserPayment = async (req, res, next) => {
       }
     }
     await user.save();
-    const { email, name } = user;
-    await sendPaymentStatus(email, name, "Payment Successfully Verified", "");
+    const { email, fname } = user;
+    await sendPaymentStatus(email, fname, "Payment Successfully Verified", "");
     res.status(200).json({
       success: true,
       message: "User payment verified",
@@ -111,7 +111,7 @@ exports.rejectUserPayment = async (req, res, next) => {
     user.paymentVerified = false;
     await user.save();
     const { email, fname } = user;
-    await sendPaymentStatus(email, name, "Payment Rejected", rejectionReason);
+    await sendPaymentStatus(email, fname, "Payment Rejected", rejectionReason);
     res.status(200).json({
       success: true,
       message: "User payment rejected",
