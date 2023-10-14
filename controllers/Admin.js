@@ -23,7 +23,7 @@ exports.getUnverifiedUsers = async (req, res, next) => {
     const users = await User.find({
       paymentVerified: false,
       paymentFormFilled: true,
-      paymentRejected: false,
+      // paymentRejected: false,
     });
     res.status(200).json({
       success: true,
@@ -113,6 +113,7 @@ exports.rejectUserPayment = async (req, res, next) => {
       });
     }
     user.paymentVerified = false;
+    user.paymentRejected = true;
     await user.save();
     const { email, fname } = user;
     await sendPaymentStatus(email, fname, "Payment Rejected", rejectionReason);
@@ -158,6 +159,7 @@ exports.updateRejection = async (req, res, next) => {
         statusCode: 404,
       });
     }
+    user.paymentVerified = true;
     user.paymentRejected = false;
     await user.save();
     res.status(200).json({
