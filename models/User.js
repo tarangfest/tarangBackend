@@ -99,6 +99,10 @@ const UserSchema = new mongoose.Schema(
       type: Boolean,
       default: false,
     },
+    paymentRejected: {
+      type: Boolean,
+      default: false,
+    },
     events: [
       {
         slug: {
