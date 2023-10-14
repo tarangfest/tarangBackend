@@ -111,14 +111,16 @@ exports.getLoggedInUser = async (req, res, next) => {
 // GET
 // logout user and clear cookie
 exports.logoutUser = async (req, res, next) => {
-  res.clearCookie("token", {
-    httpOnly: true,
-    expires: new Date(Date.now()),
-    sameSite: "none",
-    secure: true,
-  });
-  res.status(200).json({
-    success: true,
-    message: "Logged out successfully",
-  });
+  res
+    .cookie("token", "none", {
+      expires: new Date(0),
+      httpOnly: true,
+      secure: true,
+      sameSite: "none",
+    })
+    .status(200)
+    .json({
+      success: true,
+      message: "Logged out",
+    });
 };
