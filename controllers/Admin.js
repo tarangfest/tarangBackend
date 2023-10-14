@@ -1,11 +1,26 @@
 const Event = require("../models/Event");
 const User = require("../models/User");
+const { sendPaymentStatus } = require("../utils/sendMail");
 
 // GET
 // get all users
 exports.getUsers = async (req, res, next) => {
   try {
     const users = await User.find({});
+    res.status(200).json({
+      success: true,
+      users,
+    });
+  } catch (error) {
+    next(error);
+  }
+};
+
+// GET
+// get all unverified users
+exports.getUnverifiedUsers = async (req, res, next) => {
+  try {
+    const users = await User.find({ paymentVerified: false });
     res.status(200).json({
       success: true,
       users,
@@ -43,7 +58,7 @@ exports.getUsersByEventSlug = async (req, res, next) => {
   }
 };
 
-// POST
+// PUT
 // verify user
 exports.verifyUserPayment = async (req, res, next) => {
   try {
@@ -68,10 +83,38 @@ exports.verifyUserPayment = async (req, res, next) => {
       }
     }
     await user.save();
+    const { email, name } = user;
+    await sendPaymentStatus(email, name, "Payment Successfully Verified", "");
     res.status(200).json({
       success: true,
       message: "User payment verified",
       refStatus,
+    });
+  } catch (error) {
+    next(error);
+  }
+};
+
+// PUT
+// reject user payment
+exports.rejectUserPayment = async (req, res, next) => {
+  try {
+    const { tarangID, rejectionReason } = req.body;
+
+    const user = await User.findOne({ tarang_id: tarangID });
+    if (!user) {
+      return next({
+        message: "User not found",
+        statusCode: 404,
+      });
+    }
+    user.paymentVerified = false;
+    await user.save();
+    const { email, fname } = user;
+    await sendPaymentStatus(email, name, "Payment Rejected", rejectionReason);
+    res.status(200).json({
+      success: true,
+      message: "User payment rejected",
     });
   } catch (error) {
     next(error);
@@ -84,7 +127,7 @@ exports.formCallback = async (req, res, next) => {
   console.log(req.body);
   try {
     // prajwal refer
-    const { tarangID, referredBy } = req.body;
+    const { tarangID } = req.body;
     const user = await User.findOne({ tarang_id: tarangID });
     if (!user) {
       return next({
@@ -93,7 +136,6 @@ exports.formCallback = async (req, res, next) => {
       });
     }
     user.paymentFormFilled = true;
-    user.referredBy = referredBy;
     await user.save();
     res.status(200).json({
       success: true,
