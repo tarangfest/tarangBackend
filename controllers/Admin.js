@@ -20,10 +20,11 @@ exports.getUsers = async (req, res, next) => {
 // get all unverified users
 exports.getUnverifiedUsers = async (req, res, next) => {
   try {
+    // i want users who have not paid and have filled the form and have not been rejected
     const users = await User.find({
       paymentVerified: false,
       paymentFormFilled: true,
-      // paymentRejected: false,
+      paymentRejected: false,
     });
     res.status(200).json({
       success: true,
