@@ -20,7 +20,11 @@ exports.getUsers = async (req, res, next) => {
 // get all unverified users
 exports.getUnverifiedUsers = async (req, res, next) => {
   try {
-    const users = await User.find({ paymentVerified: false });
+    const users = await User.find({
+      paymentVerified: false,
+      paymentFormFilled: true,
+      paymentRejected: false,
+    });
     res.status(200).json({
       success: true,
       users,
@@ -124,9 +128,7 @@ exports.rejectUserPayment = async (req, res, next) => {
 // GET
 // callback for google form indicating payment form filled
 exports.formCallback = async (req, res, next) => {
-  console.log(req.body);
   try {
-    // prajwal refer
     const { tarangID } = req.body;
     const user = await User.findOne({ tarang_id: tarangID });
     if (!user) {
@@ -140,6 +142,41 @@ exports.formCallback = async (req, res, next) => {
     res.status(200).json({
       success: true,
       message: "User payment form filled",
+    });
+  } catch (error) {
+    next(error);
+  }
+};
+
+exports.updateRejection = async (req, res, next) => {
+  try {
+    const { tarangID } = req.body;
+    const user = await User.findOne({ tarang_id: tarangID });
+    if (!user) {
+      return next({
+        message: "User not found",
+        statusCode: 404,
+      });
+    }
+    user.paymentRejected = false;
+    await user.save();
+    res.status(200).json({
+      success: true,
+      message: "User payment updated",
+    });
+  } catch (error) {
+    next(error);
+  }
+};
+
+exports.getRejectedUsers = async (req, res, next) => {
+  try {
+    const users = await User.find({
+      paymentRejected: true,
+    });
+    res.status(200).json({
+      success: true,
+      users,
     });
   } catch (error) {
     next(error);
