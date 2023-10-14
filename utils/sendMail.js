@@ -73,41 +73,46 @@ exports.sendVerificationMail = async (code, email, name) => {
     .catch((error) => console.log(JSON.stringify(error)));
 };
 
-// status = "success" | "failed"
-exports.sendPaymentStatus = async (email, name, status) => {
+exports.sendPaymentStatus = async (email, name, status, addComments) => {
   const html = `<table cellspacing="0" cellpadding="0" style="background-color: #F4F6F7; border: 1px solid #eee; width: 100%;">
-    <tbody>
-        <tr>
-            <td>
-                <div
-                    style="background-color: #fff; border: 1px solid #DEE6E9; border-radius: 10px; box-sizing: border-box; font-family: Lato, Helvetica, 'Helvetica Neue', Arial, 'sans-serif'; margin: auto; max-width: 600px; overflow: hidden; width: 600px;">
-                    <div
-                        style="background-color: #25586B; padding: 40px; text-align: center; background-image: url(../images/sampleTemplates/otp.svg); background-repeat: no-repeat; background-position: calc( 100% - 20px ) 20px; background-size: 50px;">
-                        <h2 style="color: #fff; font-size: 24px; font-weight: normal; margin: 0;">Tarang 2k23 - Vibe
-                            lmfao<br></h2>
-                    </div>
-                    <div
-                        style="padding: 40px 50px; background-image: url(../images/sampleTemplates/shadow.svg); background-repeat: no-repeat; background-position: top; background-size: contain;">
-                        <p style="margin: 0px 0px 25px;">
-                            <span class="size" style="font-size: 14px; margin: 0px 0px 25px;">Hi ${name}</span><br></p>
-                        <p style="margin: 0px 0px 35px; line-height: 22px;">
-                            <span class="size" style="font-size: 16px; margin: 0px 0px 35px; line-height: 22px;">Your payment status is ${status}.<br></span><br>
-                        </p>
-                        <p style="margin: 0px 0px 35px; line-height: 22px;">
-                            <span class="size" style="font-size: 14px; margin: 0px 0px 35px; line-height: 22px;">If you didn't request this, ignore the email.</span>
-                        </p>
-                        <p style="margin: 0px 0px 35px; line-height: 22px;">
-                            <span class="size" style="font-size: 14px; margin: 0px 0px 35px; line-height: 22px;">If you'd like to know more about Tarang 2k23 or want to get in touch with us, get in touch with our customer support team.</span><br>
-                        </p>
-                        <p style="margin: 0px; line-height: 22px;">
-                            <span class="size" style="font-size: 14px; margin: 0px; line-height: 22px;">Thank you,</span><br>
-                        </p>
-                        <p style="margin: 0px; line-height: 22px;">Tarang Web Team<br></p>
-                    </div>
-                </div>
-            </td>
-        </tr>
-    </tbody>
+  <tbody>
+      <tr>
+          <td>
+              <div
+                  style="background-color: #fff; border: 1px solid #DEE6E9; border-radius: 10px; box-sizing: border-box; font-family: Lato, Helvetica, 'Helvetica Neue', Arial, 'sans-serif'; margin: auto; max-width: 600px; overflow: hidden; width: 600px;">
+                  <div
+                      style="background-color: #25586B; padding: 40px; text-align: center; background-image: url(../images/sampleTemplates/otp.svg); background-repeat: no-repeat; background-position: calc( 100% - 20px ) 20px; background-size: 50px;">
+                      <h2 style="color: #fff; font-size: 24px; font-weight: normal; margin: 0;">Tarang 2k23 - Vibe
+                          lmfao<br></h2>
+                  </div>
+                  <div
+                      style="padding: 40px 50px; background-image: url(../images/sampleTemplates/shadow.svg); background-repeat: no-repeat; background-position: top; background-size: contain;">
+                      <p style="margin: 0px 0px 25px;">
+                          <span class="size" style="font-size: 14px; margin: 0px 0px 25px;">Hi ${name}</span><br></p>
+                      <p style="margin: 0px 0px 35px; line-height: 22px;">
+                          <span class="size" style="font-size: 16px; margin: 0px 0px 35px; line-height: 22px;">Your payment status is:-.</span>
+                          <p>
+                              <span class="size" style="font-size: 14px; margin: 0px 0px 35px; line-height: 22px;">${status}<br></span><br>
+                          </p>
+                          <p>
+                              <span class="size" style="font-size: 14px; margin: 0px 0px 35px; line-height: 22px;">${addComments}<br></span><br>
+                          </p>
+                      </p>
+                      <p style="margin: 0px 0px 35px; line-height: 22px;">
+                          <span class="size" style="font-size: 14px; margin: 0px 0px 35px; line-height: 22px;">If you didn't request this, ignore the email.</span>
+                      </p>
+                      <p style="margin: 0px 0px 35px; line-height: 22px;">
+                          <span class="size" style="font-size: 14px; margin: 0px 0px 35px; line-height: 22px;">If you'd like to know more about Tarang 2k23 or want to get in touch with us, get in touch with our customer support team.</span><br>
+                      </p>
+                      <p style="margin: 0px; line-height: 22px;">
+                          <span class="size" style="font-size: 14px; margin: 0px; line-height: 22px;">Thank you,</span><br>
+                      </p>
+                      <p style="margin: 0px; line-height: 22px;">Tarang Web Team<br></p>
+                  </div>
+              </div>
+          </td>
+      </tr>
+  </tbody>
 </table>
 <div>k<br></div>`;
   let client = new SendMailClient({ url, token });
