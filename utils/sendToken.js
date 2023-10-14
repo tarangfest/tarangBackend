@@ -15,7 +15,7 @@ module.exports = (user, statusCode, res, verifyLink) => {
   res
     .cookie("token", token, {
       expires: new Date(Date.now() + 30 * 24 * 60 * 60 * 1000),
-      // secure: true, // set to true if your using https`
+      secure: true, // set to true if your using https`
       httpOnly: true,
       sameSite: "none",
     })
