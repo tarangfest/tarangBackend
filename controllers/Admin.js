@@ -131,7 +131,7 @@ exports.rejectUserPayment = async (req, res, next) => {
 // callback for google form indicating payment form filled
 exports.formCallback = async (req, res, next) => {
   try {
-    const { tarangID } = req.body;
+    const { tarangID, accomodation } = req.body;
     const user = await User.findOne({ tarang_id: tarangID });
     if (!user) {
       return next({
@@ -140,6 +140,7 @@ exports.formCallback = async (req, res, next) => {
       });
     }
     user.paymentFormFilled = true;
+    user.hasAccomodation = accomodation;
     await user.save();
     res.status(200).json({
       success: true,
@@ -163,6 +164,8 @@ exports.updateRejection = async (req, res, next) => {
     user.paymentVerified = true;
     user.paymentRejected = false;
     await user.save();
+    const { email, fname } = user;
+    await sendPaymentStatus(email, fname, "Payment Successfully Verified", "");
     res.status(200).json({
       success: true,
       message: "User payment updated",
