@@ -1,7 +1,7 @@
 const User = require("../models/User");
 const bycrypt = require("bcryptjs");
 const sendToken = require("../utils/sendToken");
-const sendVerificationMail = require("../utils/sendVerificationMail");
+const { sendVerificationMail } = require("../utils/sendMail");
 const uuid = require("uuid").v4();
 
 exports.verifyUser = async (req, res, next) => {
