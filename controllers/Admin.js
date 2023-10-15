@@ -140,7 +140,11 @@ exports.formCallback = async (req, res, next) => {
       });
     }
     user.paymentFormFilled = true;
-    user.hasAccomodation = accomodation;
+    if (accomodation == "Yes") {
+      user.hasAccomodation = true;
+    } else {
+      user.hasAccomodation = false;
+    }
     await user.save();
     res.status(200).json({
       success: true,
