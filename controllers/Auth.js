@@ -63,7 +63,7 @@ exports.loginUser = async (req, res, next) => {
     if (!user) {
       return res.status(404).json({
         success: false,
-        message: "User not found",
+        message: "Invalid credentials",
       });
     }
     const isMatch = await bycrypt.compare(password, user.password);
