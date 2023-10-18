@@ -8,12 +8,25 @@ const {
   clearevents,
 } = require("../controllers/Events");
 const { protectedRoute } = require("../middlewares/protectedRoute");
+const User = require("../models/User");
+
+const eventGuard = async (req, res, next) => {
+  const user = await User.findById(req.user.id);
+  if (!user.purchaseTarangCard) {
+    return res.status(401).json({
+      success: false,
+      message: "Cannot Add/Remove Events",
+    });
+  }
+  next();
+};
 
 Router.route("/").get(getEvents);
 Router.route("/:slug").get(getEvent);
-Router.route("/register").post(protectedRoute, registerEvent);
-Router.route("/remove").delete(protectedRoute, removeEvent);
+Router.route("/register").post(protectedRoute, eventGuard, registerEvent);
+Router.route("/remove").delete(protectedRoute, eventGuard, removeEvent);
 Router.route("/myevents").get(protectedRoute, getMyEvents);
 Router.route("/clear").delete(protectedRoute, clearevents);
+// Router.route("/payment").put(protectedRoute, paymentMode);
 
 module.exports = Router;

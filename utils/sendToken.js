@@ -6,7 +6,10 @@ module.exports = (user, statusCode, res, verifyLink) => {
 
   // TODO: remove verifyLink
   const token = jsonwebtoken.sign(
-    { email: user.email, id: user._id },
+    {
+      email: user.email,
+      id: user._id
+    },
     process.env.JWT_SECRET,
     {
       expiresIn: process.env.JWT_EXPIRE,
@@ -27,3 +30,4 @@ module.exports = (user, statusCode, res, verifyLink) => {
       verifyLink,
     });
 };
+// test register route after purchaseTarangCard is set to true
