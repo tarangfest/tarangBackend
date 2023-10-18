@@ -91,6 +91,10 @@ const UserSchema = new mongoose.Schema(
     verifyToken: {
       type: String,
     },
+    purchaseTarangCard: {
+      type: Boolean,
+      default: true,
+    },
     paymentFormFilled: {
       type: Boolean,
       default: false,
@@ -102,6 +106,10 @@ const UserSchema = new mongoose.Schema(
     paymentRejected: {
       type: Boolean,
       default: false,
+    },
+    totalCost: {
+      type: Number,
+      default: 0,
     },
     events: [
       {
@@ -119,6 +127,9 @@ const UserSchema = new mongoose.Schema(
         teamName: {
           type: String,
         },
+        eventFee: {
+          type: Number,
+        }
       },
     ],
     referalCount: {
@@ -142,16 +153,11 @@ const UserSchema = new mongoose.Schema(
 );
 
 UserSchema.methods.getResetPasswordToken = function () {
-  // Generate token
   const resetToken = crypto.randomBytes(20).toString("hex");
-
-  // Hash token and set to resetPasswordToken field
   this.resetPasswordToken = crypto
     .createHash("sha256")
     .update(resetToken)
     .digest("hex");
-
-  // Set expire
   this.resetPasswordExpire = Date.now() + 10 * 60 * 1000;
 
   return resetToken;

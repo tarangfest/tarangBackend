@@ -131,7 +131,7 @@ exports.rejectUserPayment = async (req, res, next) => {
 // callback for google form indicating payment form filled
 exports.formCallback = async (req, res, next) => {
   try {
-    const { tarangID, accomodation } = req.body;
+    const { tarangID, accomodation, purchaseTarangCard } = req.body;
     const user = await User.findOne({ tarang_id: tarangID });
     if (!user) {
       return next({
@@ -144,6 +144,12 @@ exports.formCallback = async (req, res, next) => {
       user.hasAccomodation = true;
     } else {
       user.hasAccomodation = false;
+    }
+    if (purchaseTarangCard == "Yes") {
+      user.purchaseTarangCard = true;
+      user.totalCost = 1999;
+    } else {
+      user.purchaseTarangCard = false;
     }
     await user.save();
     res.status(200).json({
