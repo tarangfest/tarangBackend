@@ -9,9 +9,10 @@ const {
   logoutUser,
 } = require("../controllers/Auth");
 const { protectedRoute } = require("../middlewares/protectedRoute");
+const maintenanceMiddleware = require("../middlewares/maintenance");
 
-router.route("/register").post(registerUser);
-router.route("/login").post(loginUser);
+router.route("/register").post(maintenanceMiddleware, registerUser);
+router.route("/login").post(maintenanceMiddleware, loginUser);
 router.route("/forgotpassword").post(forgotPassword);
 router.route("/user").get(protectedRoute, getLoggedInUser);
 router.route("/verify/:token").put(verifyUser);
