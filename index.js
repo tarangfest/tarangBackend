@@ -7,7 +7,7 @@ const { limiter } = require("./middlewares/rateLimiter");
 const app = express();
 const errorHandler = require("./middlewares/errorHandler");
 const PORT = process.env.PORT || 5000;
-
+const morgan = require("morgan");
 // cors
 
 app.use(
@@ -22,6 +22,9 @@ app.use(
     exposedHeaders: ["set-cookie"],
   })
 );
+
+//morgan logger
+app.use(morgan('combined'))
 
 // rate limit
 app.use(limiter);

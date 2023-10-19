@@ -4,7 +4,7 @@
     "tagline": "Choreography Meets Chemistry at Malang!",
     "event_type": "Team",
     "event_category": "Dance",
-    "description": "A captivating duet show of creativity, this event is all about the ebb and flow between two dancers. You can blend a wild variety of dance styles, just make sure to bring your duo because it takes two to tango!",
+    "description": "Malang is a duo dance competition that spotlights the synergy between two talented dancers.In this event, participants perform intricately choreographed routines that blend a variety of dance styles, including Bollywood, contemporary, and more.,It's a captivating showcase of creativity, coordination, and chemistry between dance partners, offering a visual and emotional spectacle that leaves the audience spellbound.,Join us for Malang and witness the magic that unfolds when two dancers become one through the language of dance!",
     "reg_fees": "400",
     "max_participants": "2",
     "min_participants": "2",
@@ -14,20 +14,36 @@
     "duration": "3 hours approx.",
     "instructions": [
       "Fill Registration google form (within deadline).",
+      "Must have Tarang Pass.",
       "All the participant members must have their registration card/institute card.",
       "All forms of dance are allowed.",
       "Duration: 2 to 4 minutes.",
-      "Penalized points for exceeding time limits."
+      "Penalized points for exceeding time limits.",
+      "Props can be used.They need to be brought by the team itself.However, the organizing team holds the discretion of not allowing it on the stage.",
+      "The obscenity of any kind is not allowed and will lead to immediate disqualification.",
+      "The decision of the judges and the organizing team shall be final and binding."
+    ],
+    "judging_criteria": [
+      "Synchronization",
+      "Stage Utilization",
+      "Creativity",
+      "Choreography",
+      "Coordination",
+      "Energy Level",
+      "Expression",
+      "Costumes and Props",
+      "Presentation",
+      "The overall Impact on the crowd"
     ],
     "coordinators": [
       { "name": "Ashish Chaudhary", "pno": "9991689805" },
       { "name": "Bhavika Sehgal", "pno": "8726788999" }
     ],
     "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536457/eventPage/header/malang_q3vfxk.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536453/eventPage/header/malang_1_qyekxg.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701013/eventPage/main/IMG_7046_1_v75vsn.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701013/eventPage/main/IMG_7046_1_1_vstgq9.webp"
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641458/Final%20Event%20images/banner/Malang_banner.jpeg_w2xyjk.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641458/Final%20Event%20images/banner/Malang_banner.jpeg_w2xyjk.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641424/Final%20Event%20images/card/Malang_card_bjbzmp.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641424/Final%20Event%20images/card/Malang_card_bjbzmp.webp"
     },
     "prize_pool": "7000"
   },
@@ -36,7 +52,7 @@
     "tagline": "Dance, Clash, Conquer: Join the Battle!",
     "event_type": "Solo",
     "event_category": "Dance",
-    "description": "\"Step into the spotlight and join us for Breakin’ Battles, where the dance floor becomes your battlefield!\" With the first round pushing your improvisation skills to the limit followed by a thrilling dance-off, this event is sure to bring out your wild side! (hehe)",
+    "description": "Breakin Battles is a solo dance battle where dancers of diverse backgrounds and styles unleash their raw talent and creativity.\n\n In the competition, contestants must first improvise and adapt to randomly selected music during the Prelims, testing their creativity.\n\n Then, in the Battle Round, we create thrilling face-offs where dancers showcase their best moves, innovation, and stage presence, challenging opponents in real time.\n\n It offers a platform for dancers to impress judges, push their limits, and captivate the audience with their freestyle dance artistry, celebrating individuality and self-expression.\n\n \"Step into the spotlight and join us for Breakin’ Battles, where the dance floor becomes your battlefield!\"",
     "reg_fees": "300",
     "max_participants": "1",
     "min_participants": "1",
@@ -45,11 +61,26 @@
     "org_club": "Aavartan",
     "duration": "4 hours approx.",
     "instructions": [
-      "On spot songs will be assigned for the dance faceoff.",
-      "Fill Registration google form (within deadline).",
-      "All the participant members must have their registration card/institute card.",
-      "All forms of dance are allowed.",
-      "Duration: Will be assigned on spot."
+      "It is a solo dance battle.",
+      "There are two rounds for this competition as listed below:\n 1.Prelims: Contestants will have to perform freestyle on the songs which will be played on the Spot.\n 2. Battle round: A face-off round, your opponent will be selected by the judges and you have to do freestyle battle.",
+      " All forms of dance are allowed.",
+      "Duration: Will be assigned on spot.",
+      "Must have Tarang Pass",
+      "The participant must have their registration card/institute card",
+      "The obscenity of any kind is not allowed and will lead to immediate disqualification.",
+      "The decision of the judges and the organizing team shall be final and binding."
+    ],
+    "judging_criteria": [
+      "Synchronization",
+      "Stage Utilization",
+      "Creativity",
+      "Choreography",
+      "Coordination",
+      "Energy Level",
+      "Expression",
+      "Costumes and Props",
+      "Presentation",
+      "The overall Impact on the crowd"
     ],
     "coordinators": [
       { "name": "Nithin Adepu", "pno": "7729054812" },
@@ -68,7 +99,7 @@
     "tagline": "Script Your Story, Shoot for Stardom at Ciniverse!",
     "event_type": "Solo",
     "event_category": "Photography",
-    "description": "Wake up Sid! chal kahi chale with your camera. Let your bunny ud, daud, gir bas rukna mat in this Film Making Competition of epic proportions! Be as artistic and as creative as you'd like because we're gonna have some fun!",
+    "description": "Ciniverse is a Film making competition, that can be presented in a genre of tour personal choice and will be judged based on cinematography, lighting, editing and color grading.",
     "reg_fees": "200",
     "max_participants": "50",
     "min_participants": "20",
@@ -95,7 +126,7 @@
     "tagline": "Picture-Perfect Moments Await at Pixcellence!",
     "event_type": "Solo",
     "event_category": "Photography",
-    "description": "With the themes of Macro, Monochrome and Street photography, get ready to bring out your A-game in photography because we expect nothing else! With photos straight from the wildest dreams, this event promises to be a flood of the best photography.",
+    "description": "All you photographers! Get ready to show your creativity! If you've got a camera or a phone and love taking pictures, this is for you. We're hosting a cool online photo contest called \"Pixcellence\" and it's your chance to showcase your photography skills and creativity. The themes for the contests are Macro, Monochrome, Street photography.",
     "reg_fees": "50",
     "max_participants": "250",
     "min_participants": "100",
@@ -112,6 +143,7 @@
       "Avoid Additional Elements: Do not include borders, frames, watermarks, or filters in your photos.",
       "Original Work: All photos you submit must be your own original creations."
     ],
+    "judging_criteria": [],
     "coordinators": [{ "name": "K L Praseeda Keerthi", "pno": "9866246733" }],
     "images": {
       "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536429/eventPage/header/pixl_nozsut.webp",
@@ -126,7 +158,7 @@
     "tagline": "The Dance Odyssey Begins Here!",
     "event_type": "Solo",
     "event_category": "Dance",
-    "description": "Ever busted out some wild moves like nobody's watching? Well then this event is for you! Move with the grace of a leopard, flow like a leher and vibe like never before.",
+    "description": "Odyssey is a Solo Dance competition that puts individual dancers in the spotlight, allowing them to shine and exhibit their exceptional skills, technique, and performance abilities.\n\n Dancers from various genres and backgrounds take the stage to express themselves through their unique dance styles.\n\n It's a thrilling showcase of talent, passion, and the artistry of dance.\n\n Prepare to be captivated by the solo dancers as they embark on an unforgettable journey of movement and expression!",
     "reg_fees": "200",
     "max_participants": "1",
     "min_participants": "1",
@@ -136,21 +168,38 @@
     "duration": "3 hours approx.",
     "instructions": [
       "Only solo performances are allowed.",
-      "Fill Registration google form (within deadline)",
+      "Participants need to bring their own soundtrack in .mp3 format in a pen drive only.",
+      "  Must Have Tarang Pass.",
       "All the participant members must have their registration card/institute card.",
       "All forms of dance are allowed.",
       "Duration: 1.5 to 2.5 minutes.",
-      "Penalized points for exceeding time limits."
+      "Penalized points for exceeding time limits.",
+      " Participants may use multiple songs.",
+      "Props can be used.They need to be brought by the team itself.However, the organizing team holds the discretion of not allowing it on the stage.",
+      "The obscenity of any kind is not allowed and will lead to immediate disqualification.",
+      "The decision of the judges and the organizing team shall be final and binding."
+    ],
+    "judging_criteria": [
+      "Synchronization",
+      "Stage Utilization",
+      "Creativity",
+      "Choreography",
+      "Coordination",
+      "Energy Level",
+      "Expression",
+      "Costumes and Props",
+      "Presentation",
+      "The overall Impact on the crowd"
     ],
     "coordinators": [
       { "name": "Vansh Vyas", "pno": "7987529916" },
       { "name": "Samarth Yadav", "pno": "7017565239" }
     ],
     "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536449/eventPage/header/oddesy_thci8t.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536455/eventPage/header/oddsy_1_ncky0x.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701012/eventPage/main/IMG_7087_qrkl3y.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701012/eventPage/main/IMG_7087_1_lciso5.webp"
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641458/Final%20Event%20images/banner/Odyssey_banner_roi41f.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641458/Final%20Event%20images/banner/Odyssey_banner_roi41f.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641424/Final%20Event%20images/card/Odyssey_card_it6swh.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641424/Final%20Event%20images/card/Odyssey_card_it6swh.webp"
     },
     "prize_pool": "7000"
   },
@@ -159,7 +208,7 @@
     "tagline": "Feel the Beat, Join the Heat - Jhankaar's Elite!",
     "event_type": "Team",
     "event_category": "Dance",
-    "description": "A group dance at its heart, Jhankaar is all about the moves and that flowy coordination. It's a song of passion and fire so make sure to drop by cuz it's gonna be lit tonight!",
+    "description": "Jhankaar is a group dance competition that pits diverse dance groups against each other in a battle of rhythm and creativity. Dance enthusiasts from various backgrounds and styles, including Bollywood, hip hop, jazz, and more, come together to showcase their talent and passion on one vibrant stage. It's a celebration of movement, music, and the infectious energy that dance brings, promising an unforgettable experience for both participants and spectators. Get ready to witness the power of unity in dance!",
     "reg_fees": "200",
     "max_participants": "500",
     "min_participants": "8",
@@ -169,21 +218,41 @@
     "duration": "3 hours approx.",
     "instructions": [
       "Only group performances are allowed and all members should be equally involved throughout the performance.",
-      "Fill Registration google form (within deadline).",
+      "Minimum participants: 8 members",
+      "All participants of a team should be of the same Institute.",
+      "At any given time, a minimum of 5 members should be on the stage.",
+      "Participants need to bring their own soundtrack in .mp3 format in a pen drive only.",
+      " Must have Tarang Pass at the time of Event.",
       "All the participant members must have their registration card/institute card.",
       "All forms of dance are allowed.",
-      "Duration: 7 to 9 minutes.",
-      "Penalized points for exceeding time limits."
+      "Duration: 8 to 11 minutes",
+      "Penalized points for exceeding time limits",
+      " Participants may use multiple songs.",
+      "Props can be used.They need to be brought by the team itself.However, the organizing team holds the discretion of not allowing it on the stage.",
+      "The obscenity of any kind is not allowed and will lead to immediate disqualification.",
+      " The decision of the judges and the organizing team shall be final and binding."
+    ],
+    "judging_criteria": [
+      "Synchronization",
+      "Stage Utilization",
+      "Creativity",
+      "Choreography",
+      "Coordination",
+      "Energy Level",
+      "Expression",
+      "Costumes and Props",
+      "Presentation",
+      "The overall Impact on the crowd"
     ],
     "coordinators": [
       { "name": "Rakshit Goel", "pno": "8941842574" },
       { "name": "Priyank Bhaskar", "pno": "6232997288" }
     ],
     "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536445/eventPage/header/jankaar_spfyl3.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536447/eventPage/header/jankaar_1_bqrg7m.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701010/eventPage/main/IMG_3469_mwnrcy.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701011/eventPage/main/IMG_3469_1_yjjjxs.webp"
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641456/Final%20Event%20images/banner/Jhankaar_banner_s7dtve.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641456/Final%20Event%20images/banner/Jhankaar_banner_s7dtve.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641424/Final%20Event%20images/card/Jhankaar_card_grfs5p.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641424/Final%20Event%20images/card/Jhankaar_card_grfs5p.webp"
     },
     "prize_pool": "40000"
   },
@@ -192,7 +261,7 @@
     "tagline": "Solo Acts, Infinite Expressions: Rangmanch Chronicles!",
     "event_type": "Solo",
     "event_category": "Drama",
-    "description": "Colour the stage with the shades of your expressions! Rangmanch, the Mono Act competition, is THE canvas to paint your emotions on, THE rock to carve your name into and the PERFECT opportunity to flaunt your creativity, unveiling your self-written pieces for the world to see! Aao, apne rang dikhao!",
+    "description": "Colour the stage with the shades of your expressions! Rangmanch, the Mono Act competition, is THE canvas to paint your emotions on, THE rock to carve your name into and the PERFECT opportunity to flaunt your creativity, unveiling your self-written pieces for the world to see!",
     "reg_fees": "50",
     "max_participants": "1",
     "min_participants": "1",
@@ -204,18 +273,18 @@
       "1st Round- Participants are required to choose any one emotion and prepare their act based on it.",
       "2nd Round- Participants are required to choose two contrasting emotions and create their performance (with a focus on smooth transitioning between them and ensuring an equal expression of both emotions throughout the act).",
       "Duration:- 2-3 minutes.",
-      "Rules:-\n a) No use of abusive language or words.\nb) Nuditiy/Vulgarity is strictly proihibited.\nc) No use of direct comments on any religion/community/ company/institution.\nd) No other person's involvement is allowed in the whole act.",
-      "Round-1: 50 and Round-2:100"
+      "Rules:-\n a) No use of abusive language or words.\nb) Nuditiy/Vulgarity is strictly proihibited.\nc) No use of direct comments on any religion/community/ company/institution.\nd) No other person's involvement is allowed in the whole act.\ne)Penalized for exceeding time limits"
     ],
+    "judging_criteria": [],
     "coordinators": [
       { "name": "Reishabh Rathore", "pno": "9315137833" },
       { "name": "Uttara Kamat", "pno": "9869261132" }
     ],
     "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536387/eventPage/header/rangmanch_bxkcnd.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536379/eventPage/header/rangmanch_1_kqandn.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700988/eventPage/main/rang_1_vm6j39.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700988/eventPage/main/rang_1_1_jymklw.webp"
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641457/Final%20Event%20images/banner/Rangmanch_banner_xkc0qe.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641457/Final%20Event%20images/banner/Rangmanch_banner_xkc0qe.webp`p",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641425/Final%20Event%20images/card/Rangmanch_Card_zzzdt0.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641425/Final%20Event%20images/card/Rangmanch_Card_zzzdt0.webp"
     },
     "prize_pool": "14000"
   },
@@ -244,15 +313,16 @@
       "After the performance,clean up the area and leave it in the same condition as before the play.",
       "The decision of judges will be final and binding."
     ],
+    "judging_criteria": [],
     "coordinators": [
       { "name": "Uday Shakya", "pno": "7017474241" },
       { "name": "Shivansh Shukla", "pno": "7895043346" }
     ],
     "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536383/eventPage/header/nukkad_1_wt0wgi.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536385/eventPage/header/nukkad_1_1_po8jxh.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700988/eventPage/main/nukkad1_1_csmfxg.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700989/eventPage/main/nukkad1_1_1_emck1n.webp"
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641458/Final%20Event%20images/banner/nukkad_banner_mctwmw.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641458/Final%20Event%20images/banner/nukkad_banner_mctwmw.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641424/Final%20Event%20images/card/nukkad_card_kvhh6a.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641424/Final%20Event%20images/card/nukkad_card_kvhh6a.webp"
     },
     "prize_pool": "40000"
   },
@@ -261,7 +331,7 @@
     "tagline": "Your Story Your Stage, From Laughter to Tears, Theatre Wars Inspires",
     "event_type": "Team",
     "event_category": "Drama",
-    "description": "Presenting-your chance to set the stage ablaze in a glorious stage-act competition! Gather your friends and set the stage ablaze, because this competition is group performances only! And don't restrict yourselves, your act can be on ANY topic and theme! Theatre Wars is THE opportunity to showcase your group's dramatic flair. Make the judges go “Uff, unki Adaah!”",
+    "description": "PRESENTING your chance to set the stage ablaze in a glorious stage-act competition!\n\n Gather your friends and set the satge ablaze, because this competition is group performances only!\n\n And don't restrict yourselves, your act can be on ANY topic and theme!\n\n Mela-Drama is THE opportunity to showcase your group's dramatic flair.",
     "reg_fees": "1500",
     "max_participants": "20",
     "min_participants": "10",
@@ -270,35 +340,37 @@
     "org_club": "Jazbaat",
     "duration": "20-45 minutes",
     "instructions": [
-      "Maximum number of participants per team: 20 (including crew/backstage members).",
-      "Both original and adapted scripts are allowed.",
-      "You have to send a synopsis, and script of your play by 30 October 2023, 11:59 PM.",
-      "There is an entry fee of Rs.1500 to participate in the competition.",
-      "No cross-college teams are allowed.",
-      "We highly discourage any plagiarism in the event. Any team found copying a play without any prior permission of the play writer will be disqualified.",
-      "Mention your college name, POC name, and contact number along with submissions.",
-      "Performance should not exceed 60 minutes in length (Empty stage to Empty stage). Each team will be given a tech rehearsal time of 15 minutes before the start of the performance.",
-      "The details of the play should be sent prior to the competition. The details include -\n\na. The title of the play.\n\nb. Approximate duration Requirements from the host institute (subject to availability)\n\nc. If self-written, credit to the playwrights and/or plays whose material has been used. The subject line would be as per the common format STAGEPLAY_COLLEGENAME",
-      "Any kind of damage caused to the stage will result in a 30% penalty.",
-      "Use of flammable substances or liquids (including water) is strictly prohibited. In case of special liquid requirements with the context of the play absolutely necessary, then an exception may be made under the discretion of the organizing team. The participants should take prior permission from the organizing team.",
+      "1. Team Size: Each team can have a maximum of 15 on-stage performers and 3 backstage support members for sound, lighting, and spot operations.",
+      "2. Script: Original or adapted scripts are accepted.",
+      "3. Submission Deadline: Submit your play's synopsis and script by 29 October 2023, 11:59 PM.",
+      "4. Entry Fee: There's a participation fee of Rs. 1500 per team.",
+      "5. Team Composition: Only intra-college teams are allowed. Please provide your college name, Point of Contact (POC) name, and at least two contact numbers with your submissions.",
+      "6. Performance Length: Performances should range from 20 to 45 minutes. The timer starts when your team is announced on stage until the crew members leave the stage. Going beyond the time limit will result in point deductions. Each team gets a 15-minute tech rehearsal before the event.",
+      "7. Language: Plays can be in Hindi, English, or a mix of both. Catchphrases in other languages are allowed",
+      "8. Play Details: Send the play title, approximate duration, and any specific requirements from the host institute (if available).",
+      "9. Credits: If your play is self-written or includes material from other plays, provide due credit. Use the subject line format: STAGEPLAY_COLLEGENAME.",
+      "10. Stage Damage: Causing damage to the stage will result in penalties.",
+      "11. Substances: Avoid using flammable substances or liquids. Special requirements must be pre-approved.",
       "Vulgarity is strictly prohibited and can lead to disqualification.",
-      "No professional assistance is permitted, all team members should be certified students of the institute. Please bring along your identity cards.",
-      "Use of any hazardous element/prop is strictly prohibited.",
-      "Technical support will be provided to make the team familiar with the lights console.",
-      "Obscenity of any kind that is harmful to the interests or beliefs of specific but not limited to social, economic, religious, gender or political groups will lead to the disqualification of the team.",
-      "Performance must be suitable for the general audience and should not contain any offensive or inappropriate content.",
-      "The decision of the judging panel will be final and binding.",
-      "The Judging criteria would be as follows -\n\n a. Script and Direction: 30%\n\nb. Acting: 35%\n\nc. Lights and Music: 15%\n\nd. Production: 20%"
+      "12. Vulgarity: Obscene content is not allowed and may lead to disqualification.",
+      "13. Professional Assistance: Only certified students of the institute can participate. Bring your identity cards. Using fake identities or fraud may lead to disqualification",
+      "14. Hazardous Elements: Use of hazardous props is strictly prohibited.",
+      "15. Technical Support: Teams will receive technical support to operate lighting consoles.",
+      "16. Respect and Inclusivity: Respect cultural, social, and political sensitivities. Offensive content will result in disqualification.",
+      "17. Audience-Friendly: Performances must be suitable for a general audience without offensive or inappropriate content.",
+      "18. Judging: The judging panel's decision is final. Criteria: a. Script and Direction (30%), b. Acting (35%), c. Lights and Music (15%), d. Production (20%).",
+      "19. Conduct: Misbehavior with organizers, teams, judges, or event staff may lead to disqualification."
     ],
+    "judging_criteria": [],
     "coordinators": [
       { "name": "Shanu Priya Garg", "pno": "8660761323" },
       { "name": "Priyanshu Bujethia", "pno": "9352816482" }
     ],
     "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536379/eventPage/header/tw_1_f9lvdf.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536380/eventPage/header/tw_2_j3j40r.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700988/eventPage/main/tw1_1_gblx9r.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700988/eventPage/main/tw1_1_gblx9r.webp"
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641458/Final%20Event%20images/banner/Theatre_War_Banner_acptw5.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641458/Final%20Event%20images/banner/Theatre_War_Banner_acptw5.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641427/Final%20Event%20images/card/Theatre_wars_card_vcxx9s.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641427/Final%20Event%20images/card/Theatre_wars_card_vcxx9s.webp"
     },
     "prize_pool": "45000"
   },
@@ -307,7 +379,7 @@
     "tagline": "Video Wizards, Unite at Frame-by-Frame Fockery!",
     "event_type": "Solo",
     "event_category": "Fine Arts",
-    "description": "Video Editors and Animators Assemble! Sharpen your graphic cards and build an unforgettable stop motion animation for a shot at fame and fortune. Brew glory, put a stopper to death, have fun and most importantly, get wild!",
+    "description": "“Frame-by-Frame Fockery” is a platform provided to showcase the abilities of video editors and Animators.\n\n Make a stop motion animation to Compete with a talented pool from all over India, where your creativity takes the center of stage! make your team of 1-3 like-minded visionaries for an exciting 1–3-minute animation journey.\n\n The file format accepted will be MP4 only, Adding your personal touch to claim your shot at fame and fortune is a notable point.\n\n You are free to prefer ready-made props or love crafting your own.\n\n Amaze the platform out.",
     "reg_fees": "200",
     "max_participants": "3",
     "min_participants": "1",
@@ -316,6 +388,14 @@
     "org_club": "Abhivyakti",
     "duration": "-",
     "instructions": [
+      " Start with a strong concept.",
+      "Keep it simple.",
+      "Plan your animation carefully.",
+      "Use high-quality materials.",
+      "Pay attention to detail.",
+      "Don't be afraid to experiment"
+    ],
+    "judging_criteria": [
       "Creativity: The animation should be original and imaginative, with a unique concept and execution.",
       "Technical skill: The animation should be well-crafted, consistent lighting, and a high level of technical detail.",
       "Storytelling: The animation should have a clear and engaging story that is well-paced and executed.",
@@ -344,7 +424,7 @@
     "tagline": "From Raw Materials to Masterpieces: ArtLabs Journey!",
     "event_type": "Solo",
     "event_category": "Fine Arts",
-    "description": "Ever heard of Bamboo Furniture crafting and pottery? Don't worry if you haven't because we are all here to learn! Attend this one-of-a-kind session to learn the basic fundamentals of these crafts and get hands-on experience because you never know what comes in handy sometimes!",
+    "description": "Attend the awaited creative workshops for Bamboo Furniture crafting and pottery.\n\n Attend this one-of-a-kind session to learn the basic fundamentals of these crafts and get hands-on experience while implementing and performing the fascinating and fun tasks .",
     "reg_fees": "100",
     "max_participants": "1",
     "min_participants": "1",
@@ -357,8 +437,9 @@
       "Workshop Sessions: Participants will have the opportunity to attend workshops conducted by experienced instructors in both bamboo furniture crafting and pottery. Attendance at these sessions is mandatory for competition entry.",
       "Safety: Safety measures, including the use of protective gear and following workshop safety guidelines, must be strictly adhered to during the crafting process.",
       "Display: All completed pieces will be displayed for exhibition during the event. Participants are responsible for setting up their displays.",
-      "Ownership: Participants retain ownership of their bamboo furniture and pottery pieces. However, they grant permission for their work to be displayed during the event."
+      "Ownership: Participant retain ownership of their bamboo furniture and pottery pieces. However, they grant permission for thrir work to be displayed during event. Ensure that these criteria, rules, and guidlines are communicated clearly to all participants before the event to ensure a fair and successful comprtetion. Goodluck with your Art Labs Event! "
     ],
+    "judging_criteria": [],
     "coordinators": [{ "name": "Aditya Raj", "pno": "9472016042" }],
     "images": {
       "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536419/eventPage/header/artlab_nu4kia.webp",
@@ -373,7 +454,7 @@
     "tagline": "Face the Gods and Goddesses in Cassiopeia's Realm!",
     "event_type": "Team",
     "event_category": "Fine Arts",
-    "description": "With the theme of \"Greek gods and goddesses\" , this event is a foray into the enchantments of dynamic face paintings. With tasteful elegance being the name of the game, make sure to tame your wildness to win the same!",
+    "description": "Step into a world of enchantment with the dynamic face painting and cosplay adventure, a mesmerizing 3-hour Warfare.\n\n The theme decided is “Greek gods and goddesses”.\n\n Reveal your creative self and let your imaginations run wild, but First and the most prior rule is, we appreciate tasteful elegance, so leave the inappropriate costumes at home.\n\n Bring your own clothes and materials, and assemble on the sight.\n\n And to top it all off, a dazzling ramp walk awaits, to showcase your gracious walk with on-the-spot created costumes.\n\n Show the plans you got, stage is waiting for you.",
     "reg_fees": "200",
     "max_participants": "2",
     "min_participants": "2",
@@ -387,6 +468,9 @@
       "Costume: The costume should include the colours or style of greek drapery.",
       "Face Painting: The level of skill and representation of elements in the face painting will be judged.",
       "Novelty: The costume and face painting should have an artistic flair and uniqueness of the artist.",
+      "Tips for Creating a winning Entry: \n1. Accessories - Accessoriese your way to victory. \n2. Draping styles - Learn various ways to drape clothes and use multiple layer. \n3. Practise-Practice in the set time-frame before competing to help finish on time. \n4. Relevance-Addition of relevant modern-day scenarios can gain extra points."
+    ],
+    "judging_criteria": [
       "Rules:\n1. This is a Face painting and Cosplay competition.\n2. Participants will work in Teams of 2: One person will be the model and the other will be the artist.\n3. The Theme of the event is Greek Gods and Goddesses.\n4. The competition is of 3 hours which includes the costume and face painting.\n5. Inappropriate costumes will be disqualified.\n6. Paints, materials and clothes will have to be brought by participants.\n7. The entire ensemble should be prepared on sight.\n8. A ramp walk of all the participants will be held.\n9. Participants will have to explain their concept to the judges."
     ],
     "coordinators": [{ "name": "Swamini Gawad", "pno": "7758095513" }],
@@ -403,7 +487,7 @@
     "tagline": "Paint the Past, Define the Future at Artful Alteration!",
     "event_type": "Team",
     "event_category": "Fine Arts",
-    "description": "Got the mad skills with brush and paints? Get ready for an electrifying three-hour challenge! Gather your dream team to create an unparalleled masterpiece. Unleash your creativity in this do-or-die battle or paint-or-lose, as it were.",
+    "description": "Got the mad skills with brush and paints?  Get ready for an electrifying three-hour challenge!\n\n Gather your dream team of five to convert the blank canvas into an unparalleled masterpiece.\n\n But here is the twist – you will have to reimagine any legendary painting in a known art style.\n\nFor the first 30 minutes, the internet is allowed for getting inspiration from various resources, but remember – originality is your ace. Plagiarism is strictly not allowed!\n\nReady to unleash your creativity?",
     "reg_fees": "500",
     "max_participants": "5",
     "min_participants": "5",
@@ -416,7 +500,9 @@
       "Creativity- The final piece must be creative and interesting and must beat the preconceived notions attached to the painting as well as the style.",
       "Composition- The painting must be well composed and should look artistic rather than cluttered.",
       "Technique- The painting style and technique must be visually appealing and should be upheld to a certain standard of professionalism.",
-      "Use of color- The color choices made must be accurate to a degree to both the original painting and the new art style.",
+      "Use of color- The color choices made must be accurate to a degree to both the original painting and the new art style."
+    ],
+    "judging_criteria": [
       "Rules:\n*Participants must work in a group of 5.\n*Participants will be given a famous painting and an art style. They must then recreate the painting in the art style on a 1 x 2 meter canvas sheet.\n* The painting and the art style will be given to each team through randomized card picking. Changing or re-selecting your prompts is not allowed\n* Duration of the competition is 3 hours.\n*A 1 x 2 metre canvas sheet, acrylic paint and paintbrushes will be provided to each team.\n* The Internet is allowed for the first 30 minutes only for getting inspiration. Your time will start after the first 30 minutes are up.\n* Plagiarism is strictly not allowed.\n*Political or offensive submissions will be disqualified.\n* All team members must participate actively.\n* The painting must be completed within the allotted time."
     ],
     "coordinators": [{ "name": "Paridhi Bisht", "pno": "9910054931" }],
@@ -433,7 +519,7 @@
     "tagline": "Make Your Mark on the Nescafe Wall!",
     "event_type": "Solo",
     "event_category": "Fine Arts",
-    "description": "Make your mark on our campus! With the theme of \"Fantasy\", this event is sure to be one to look out for. Unleash your inner creativity and make sure our unsuspecting judges are in for a wild ride! The most unique and imaginative composition will be featured on our Campus Cafe Wall, so start cooking!",
+    "description": "\"Off the Wall\" is an online mural design competition which enables participants to freely express their artistic abilities and have a chance at setting free their inner Michelangelo!\n\n The submission for the same will be done before the fest.\n\n The winning design will be featured on the Nescafe wall in the campus during the fest!",
     "reg_fees": "200",
     "max_participants": "1",
     "min_participants": "1",
@@ -446,7 +532,9 @@
       "Creativity- The artwork should be original and imaginative, with a unique concept and execution.",
       "Composition- There should be quality of artistic composition and overall design.",
       "Technical skill- The design should be well crafted, consistent styling and maintaining technical detail.",
-      "Use of color- The color and tone should be chosen wisely, maintaining balance of image within its space.",
+      "Use of color- The color and tone should be chosen wisely, maintaining balance of image within its space."
+    ],
+    "judging_criteria": [
       "Rules:\n* Participants must work individually.\n* The work must be submitted in High quality png/pdf format.\n* Theme: Fantasy\n* The dimension of the artwork should be 3000 x 2200 pixels\n* The work can be handmade or digitally done.\n* Plagiarism is strictly not allowed.\n* The last date of submission for the event is October 17th, 2023.\n*Submissions and registration will be done through a Google form."
     ],
     "coordinators": [{ "name": "Ananya Aggrawal", "pno": "8429337823" }],
@@ -463,7 +551,7 @@
     "tagline": "Journey Through Pixels at the Shutter Stories Exhibition!",
     "event_type": "Solo",
     "event_category": "Photography",
-    "description": "From the flowy imagination of our college community, prepare to be amazed by the diverse range of visually stunning and thought-provoking images. It promises to be an experience of a lifetime so make sure to be there!",
+    "description": "Get ready to be captivated by the creativity of our college community!\n\n Our upcoming photo exhibition will showcase a diverse range of visually stunning and thought-provoking images captured by students, faculty, and staff. From breathtaking landscapes to candid moments, this exhibit promises to be a celebration of talent and artistic expression. \n\nJoin us for an immersive visual experience that reflects the spirit and creativity of our college community.",
     "reg_fees": "0",
     "max_participants": "0",
     "min_participants": "0",
@@ -486,7 +574,7 @@
     "tagline": "Shutter Speed to Creative Vision with Canon",
     "event_type": "Solo",
     "event_category": "Photography",
-    "description": "That's right, this workshop is Tarang's Canon Event! You WILL explore canons cutting edge technology. You WILL Sharpen your skills and you WILL ignite your passion for  visual storytelling with Canon!",
+    "description": "Join us for a captivating Canon Workshop at our cultural festival!\n\n Discover the art of photography as we explore Canon's cutting-edge technology and techniques.\n\n Unlock your creative potential, from capturing stunning moments to unleashing your inner artist.\n\n Don't miss this opportunity to sharpen your photography skills and ignite your passion for visual storytelling with Canon.",
     "reg_fees": "0",
     "max_participants": "200",
     "min_participants": "50",
@@ -522,7 +610,7 @@
     "tagline": "Our mic, your magic!",
     "event_type": "Solo",
     "event_category": "Music",
-    "description": "Step into a world where every voice is a star and every note is pure magic. Stop by at the MicMagic booth and unleash your inner superstar! Roar your heart out, vibe with your friends and create great memories. It's your stage, your song, and your moment to shine! Whether you're a karaoke enthusiast or a shy shower singer, this event is your chance to become the king of the jungle!",
+    "description": "Step into a world where every voice is a star and every note is pure magic. Stop by at the MicMagic booth and unleash your inner superstar! Sing your heart out, vibe with your friends and create great memories. It's your stage, your song, and your moment to shine! Whether you're a karaoke enthusiast or a shy shower singer, this event is your chance to become the star.",
     "reg_fees": "0",
     "max_participants": "60",
     "min_participants": "10",
@@ -541,6 +629,7 @@
       "Avoid having loud conservations that distract the singer or drown out the backing track.",
       "Make sure to have fun!!!!"
     ],
+    "judging_criteria": [],
     "coordinators": [
       {
         "name": "Shreya Varshney",
@@ -556,39 +645,11 @@
     "prize_pool": "0"
   },
   {
-    "name": "Club shop",
-    "tagline": "Where melodies meet Style",
-    "event_type": "Solo",
-    "event_category": "Music",
-    "description": "Pounce on this opportunity to take back with you a piece of Tarang's musical requiem! Merchandise from Saaz, the music club will be available for all fans of the club, new and old to purchase! Gaata rahe, humara dil 🎶",
-    "reg_fees": "Depends on the items",
-    "max_participants": "100",
-    "min_participants": "10",
-    "event_date": "Nov 3, 2023",
-    "event_time": "9:00 AM",
-    "org_club": "Saaz",
-    "duration": "3 days",
-    "instructions": ["Pay minimal amounts and get goodies."],
-    "coordinators": [
-      {
-        "name": "Aiman Aslam",
-        "pno": "9004934919"
-      }
-    ],
-    "images": {
-      "headerDesktop": "",
-      "headerPhone": "",
-      "mainDesktop": "",
-      "mainPhone": ""
-    },
-    "prize_pool": "0"
-  },
-  {
     "name": "Beatbox Battle",
     "tagline": "Let the beat drop and the battle begin!",
     "event_type": "Solo",
     "event_category": "Music",
-    "description": "Join us on the forest trail of figuring out where these talented artists produce all these sounds from! This is one of a kind event where all beatbox enthusiasts battle it out to find out who has the wildest and craziest beat.",
+    "description": "All registered participants will have to give prelims of about 1.5-2 minutes. Selected participants will have to pay Rs. 300/- as registration fee. They will give their solo performances of 2 minutes and top 4 among these will move to the quarter finals, Semi Finals and Final round where participants will face each other in a fierce battle.",
     "reg_fees": "300",
     "max_participants": "35",
     "min_participants": "25",
@@ -607,6 +668,7 @@
       "2 minutes solo round",
       "2 * 90 seconds for solo battle round."
     ],
+    "judging_criteria": [],
     "coordinators": [
       {
         "name": "Utkarsh Raj",
@@ -626,7 +688,7 @@
     "tagline": "Where Rythm meets competition",
     "event_type": "Solo",
     "event_category": "Music",
-    "description": "Are you ready to take center stage and let your voice roar? Get ready for a musical showdown like no other as Clash of Melodies is here for an unforgettable solo singing festival. This is your chance to shine as a soloist and charm the audience in a way they'll never forget! ",
+    "description": "Are you ready to take center stage and let your voice soar? Get ready for a musical showdown like no other as Clash of Melodies is here for an unforgettable solo singing festival! This is your chance to shine as a soloist, captivating the audience with your melodic prowess and unique artistry. Bringing you a celebration of solo singing talent where every note, every lyric, and every emotion come together to create breathtaking performances. Whether you're a seasoned vocalist or a rising star, this festival is your platform to showcase your vocal abilities, creativity, and stage presence.",
     "reg_fees": "300",
     "max_participants": "60",
     "min_participants": "40",
@@ -639,12 +701,14 @@
       "No duets or groups shall be entertained. Participants can, however, have a maximum of 2 instrumentalists if they do wish so.",
       "Participants can choose any genre of music.",
       "Pre-registration is required for participation. The contestants must qualify in the preliminary round to continue further.",
+      "After qualification, the participants need to pay a registration fees of Rs. 300/- to participate in the following rounds.",
       "Each participant is allowed a maximum performance time of 3 minutes.",
       "Time will be strictly enforced. Setup and soundcheck shall be done beforehand.",
       "Participants are responsible for providing their own backing tracks or live accompaniment, if any.",
       "Performances will be judged on vocal skill, stage presence, originality, and audience engagement.",
       "The event schedule, including performance order, will be shared in advance."
     ],
+    "judging_criteria": [],
     "coordinators": [
       {
         "name": "Divyanshi Dhiman",
@@ -664,7 +728,7 @@
     "tagline": "Saaz Ke Suro Ka Jashn",
     "event_type": "Team",
     "event_category": "Music",
-    "description": "With the power of music on their side, make sure to be prepared as Saaz takes you into the world of mowgli! From classical melodies to contemporary hits, Saaz promises a diverse repertoire that will enthrall your senses and move you in their incredible wave. Be there or be square!",
+    "description": "Prepare to be serenaded by the melodious tunes and soulful harmonies of our talented musicians, as they showcase their exceptional skills and passion for music. From classical melodies to contemporary hits, Saaz promises a diverse repertoire that will captivate your senses. Don't miss this opportunity to witness the magic of Music Club Saaz at IIITDMJ. Mark your calendars, invite your friends and family, and join us for a musical journey like no other. Get ready to be moved by the power of music!",
     "reg_fees": "0",
     "max_participants": "40",
     "min_participants": "10",
@@ -673,6 +737,7 @@
     "org_club": "Saaz",
     "duration": "2 hours",
     "instructions": ["It consists of performances of Saaz Club Members"],
+    "judging_criteria": [],
     "coordinators": [
       {
         "name": "Kaustubh Upadhyay",
@@ -692,7 +757,7 @@
     "tagline": "Lights, Camera, Quizzing !",
     "event_type": "Team",
     "event_category": "Quizzing",
-    "description": "What's better than a musical performance? That's right, a musical quiz designed to push your knowledge of Indian cinema and it's music to the extreme! Participants will have to identify hit songs, match them to their respective movies, and relive the magic of these timeless tunes. Isn't that exciting?!",
+    "description": "This event is all about celebrating the rich and vibrant world of Indian cinema and its music. We plan to engage our participants with a quiz that covers a broad spectrum of Bollywood. The quiz questions will challenge participants' knowledge of iconic movie songs, legendary musicians, and their glamorous music. They'll have to identify hit songs, match them to their respective movies, and relive the magic of these timeless tunes. Our goal is to make this event inclusive and entertaining for both avid Bollywood fans and music listeners. We have exciting prizes and Saaz merch in store for the participants!",
     "reg_fees": "10",
     "max_participants": "100",
     "min_participants": "5",
@@ -705,6 +770,7 @@
       "Participants will be organized into groups of four. The order of answering will be determined by a buzzer system. The first person to buzz in gets the opportunity to answer the question. If someone manages to answer all 20 questions correctly, they will receive a token or a prize of similar value. Additionally, a token or prize will also be awarded to participants who correctly answer at least 70% of the questions in their set.",
       "Group formation will be totally random unless the contestants come with their own group of 4."
     ],
+    "judging_criteria": [],
     "coordinators": [
       {
         "name": "Aiman Aslam",
@@ -724,7 +790,7 @@
     "tagline": "Where music speaks without words!",
     "event_type": "Team",
     "event_category": "Music",
-    "description": "Prepare to be mesmerized by the sheer artistry of musical instruments at Tarang! We proudly present Instrumental Harmony, where instrumentalists from near and far converge to show their incredible talent and jamming skills in a competition like none before.",
+    "description": "Prepare to be mesmerised by the sheer artistry of musical instruments at Tarang! We proudly present Instrumental Harmony, where instrumentalists from near and far will converge to showcase their exceptional talent in an instrumental competition like no other",
     "reg_fees": "300",
     "max_participants": "35",
     "min_participants": "25",
@@ -737,7 +803,10 @@
 
       "You can either perform in a group or as an individual ",
       "Groups can contain a maximum of 4 members",
-      "A preliminary round will be held, a video(2-3 min long) is to be submitted for judgement "
+      "The performance duration for a solo performance is a maximum of 3 minutes whereas for a group performance it is 5 minutes ",
+      "A preliminary round will be held, a video(2-3 min long) is to be submitted for judgement ",
+      "The preliminary round is free of charges, After qualification, you will have to pay the registration fees to participate in the following rounds.",
+      "The selected participants will be called to perform on the stage in IIITDMJ Campus."
     ],
     "coordinators": [
       {
@@ -758,7 +827,7 @@
     "tagline": "KURUKSHETRA-YE YUDHH HAI SURO KA",
     "event_type": "Team",
     "event_category": "Music",
-    "description": "The Mahabharata featured warriors with incredibly diverse skills and abilities, and so will our KURUKSHETRA. Bands of all genres in existence will converge on this grand arena to showcase their wild musicality. Expect the clash of styles and the fusion of genres, just like the complex alliances and rivalries in the Mahabharata. You may get far or you may lose it all but in the end, remember that this event is gonna be ROARIN'!",
+    "description": "The Mahabharata featured warriors with diverse skills and abilities, and so will our KURUKSHETRA. Bands of all genres – from rock to classical, folk to hip-hop – will converge on this grand arena to showcase their musical talent. Expect the clash of styles and the fusion of genres, just like the complex alliances and rivalries in the Mahabharata.",
     "reg_fees": "2000",
     "max_participants": "70",
     "min_participants": "30",
@@ -772,8 +841,11 @@
       "You can't use backing tracks",
       "team size should consist a minimum of 4 to a maximum of 10 participant.",
       "If there are multiple singers on stage, they shouldn't outnumber the total participants.",
-      "You need at least one string player, one percussionist, and one keyboard player."
+      "You need at least one string player, one percussionist, and one keyboard player.",
+      "Participants can bring their own instruments.",
+      "Participants can perform in any genre."
     ],
+    "judging_criteria": [],
     "coordinators": [
       {
         "name": "Virag Jain",
@@ -793,7 +865,7 @@
     "tagline": "It's an open mic, come and drop it!",
     "event_type": "Team",
     "event_category": "Informal",
-    "description": "If you've got killer poems and stories to share, absolutely wild rap skills, stand-up, oor just a burning desire to hunt the stage, this is your moment! Raps? Stand Ups ? Stories ? Think you got it?",
+    "description": "If you've got killer poems and stories to share, mad rap skills, stand-up, oor just a burning desire to rock the stage, this is your moment! Raps? Stand Ups ? Stories ? Think you got it? ",
     "reg_fees": 0,
     "max_participants": 70,
     "min_participants": 5,
@@ -811,10 +883,10 @@
       }
     ],
     "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766031/samvad/header/Frame_205_p1k0fn.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766023/samvad/header/Frame_198_rrbair.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765290/samvad/main/frame-219-652292e3ac0d5_dijf0k.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765316/samvad/main/frame-219-1-652292e425a82_vrmoea.webp"
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641460/Final%20Event%20images/banner/Drop_the_mic-banner_lt7zld.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641460/Final%20Event%20images/banner/Drop_the_mic-banner_lt7zld.webp",
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641423/Final%20Event%20images/card/Drop_the_mic_card_ks5f3n.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641423/Final%20Event%20images/card/Drop_the_mic_card_ks5f3n.webp"
     },
     "prize_pool": 0
   },
@@ -823,7 +895,7 @@
     "tagline": "Quizzeria: General - Catch 'em All in the World of Words!",
     "event_type": "Team",
     "event_category": "Quizzing",
-    "description": "A fun event where we will ask ze questions. Get ready to pounce on as many questions as possible because we take no prisoners. Can you catch 'em all?",
+    "description": "A fun event where we will ask the questions. Can you catch 'em all?",
     "reg_fees": 200,
     "max_participants": 70,
     "min_participants": 5,
@@ -844,8 +916,8 @@
       }
     ],
     "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766034/samvad/header/Frame_207_a7ijvb.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766050/samvad/header/Frame_199_tuetvs.webp",
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641457/Final%20Event%20images/banner/Quizzeria_General_banner_jswcoh.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641457/Final%20Event%20images/banner/Quizzeria_General_banner_jswcoh.webp",
       "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765291/samvad/main/frame-220-652292e5dd490_mkytfs.webp",
       "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765298/samvad/main/frame-231-652292ecf0117_oa9jum.webp"
     },
@@ -856,7 +928,7 @@
     "tagline": "Quizzeria: SPENT - Where Words Bridge the Gap Between Stadiums and Silver Screens!",
     "event_type": "Team",
     "event_category": "Quizzing",
-    "description": "Come test your knowledge of the best of both worlds as we take you on a rapid journey of answering and asking questions! It's a race against time and the only way to win is to pounce as frequently as possible. Get! Set! Quiz!",
+    "description": "Sports and entertainment quiz. Come and test your knowledge of best of worlds.",
     "reg_fees": 200,
     "max_participants": 50,
     "min_participants": 5,
@@ -877,8 +949,8 @@
       }
     ],
     "images": {
-      "headerDesktop": "",
-      "headerPhone": "",
+      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641460/Final%20Event%20images/banner/Quizzing_Spent-banner_imkqr0.webp",
+      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641460/Final%20Event%20images/banner/Quizzing_Spent-banner_imkqr0.webp",
       "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765291/samvad/main/frame-221-652292e6d3c3c_btoqal.webp",
       "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765291/samvad/main/frame-221-1-652292e7c545c_x5j95h.webp"
     },
@@ -889,7 +961,7 @@
     "tagline": "Shabdon ke iss shehar mein apna bhi ghar banao!",
     "event_type": "Solo",
     "event_category": "Informal",
-    "description": "Present your best shayaris and nazms in front of people who want to listen. Impress people with your flow and make sure that your roaring emotions are heard! Mai shayar toh nahi, magar ae Kavyanchal, jabse dekha maine tujhko mujhko… shayari aa gyi!",
+    "description": "Kavyanchal is a Hindi Poetry competition where you are given a stand to present your best shayris and nazms in front of people that want to listen. ",
     "reg_fees": 75,
     "max_participants": 60,
     "min_participants": 5,
@@ -902,6 +974,7 @@
       "It should not be copied from anywhere else.",
       "It should have a duration of minimum 1 minute and maximum 4 minutes."
     ],
+    "judging_criteria": [],
     "coordinators": [
       {
         "name": "Kushagra Yadav",
@@ -911,8 +984,8 @@
     "images": {
       "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766039/samvad/header/poetry_veinbu.webp",
       "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766037/samvad/header/Frame_251_uoltrz.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765304/samvad/main/frame-212-652292dd8f3d6_j7affa.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765293/samvad/main/frame-225-652292e9f0bd7_ohokwh.webp"
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641424/Final%20Event%20images/card/kavyanchal_card_obehua.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641424/Final%20Event%20images/card/kavyanchal_card_obehua.webp"
     },
     "prize_pool": 7000
   },
@@ -921,7 +994,7 @@
     "tagline": "Verses v/s Verses: Weave the Fabric of Emotion Through Rhymes!",
     "event_type": "Solo",
     "event_category": "Informal",
-    "description": "Get ready to unleash your inner poet because we expect nothing less! Flex your rhymes and weave the fabric of your reality to tell tales that flood the heart with emotions.",
+    "description": "Verses v/s Verses is an English Poetry competition where you can flex your rhymes and weave the fabric of your reality to tell tales that move the heart.",
     "reg_fees": 75,
     "max_participants": 60,
     "min_participants": 5,
@@ -934,6 +1007,7 @@
       "It should not be copied from anywhere else.",
       "It should have a duration of minimum 1 minute and maximum 4 minutes."
     ],
+    "judging_criteria": [],
     "coordinators": [
       {
         "name": "Kushagra Yadav",
@@ -943,8 +1017,8 @@
     "images": {
       "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766020/samvad/header/Frame_191_vcvikg.webp",
       "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766049/samvad/header/Frame_192_co8wjf.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765303/samvad/main/frame-209-652292dd15a75_lra6vu.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765292/samvad/main/frame-222-652292e9f0bd8_sopqde.webp"
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641425/Final%20Event%20images/card/Verses_vs_verses_card_qvrx8c.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641425/Final%20Event%20images/card/Verses_vs_verses_card_qvrx8c.webp"
     },
     "prize_pool": 7000
   },
@@ -953,7 +1027,7 @@
     "tagline": "Write From Anywhere with Pen It Down!",
     "event_type": "Team",
     "event_category": "Literary",
-    "description": "Prepare to get your claws out as we prompt  you to unleash your incredible writing skillz on a variety of fields!",
+    "description": "Pen It Down is an ONLINE-only creative writing based event where you can unleash wrting skills(storyline) based on the prompts from a variety of different fields.",
     "reg_fees": 50,
     "max_participants": 60,
     "min_participants": 5,
@@ -965,6 +1039,7 @@
       "ONLINE only event. Participants need to register before the commencement of the event on an online platform. When the event begins, the topics for writing will be released to the participants. They will have 4 hours to construct a storyline on the given topic/theme.",
       " They will have to submit their story in the given time frame in a pdf format only. Plagiarism and AI checks will be kept in place, and any offenders will be disqualified from the competition. The winners will be announced later based on the judges’ decision."
     ],
+    "judging_criteria": [],
     "coordinators": [
       {
         "name": "Areeb Siddiqui ",
@@ -974,8 +1049,8 @@
     "images": {
       "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766043/samvad/header/Frame_204_u4xvuj.webp",
       "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766025/samvad/header/Frame_196_udly6h.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765301/samvad/main/pend-1-652292f251e4a_vh7v38.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765300/samvad/main/pend-1-1-652292f823541_rsgmvl.webp"
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641425/Final%20Event%20images/card/PenItDown_card_jdveco.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641425/Final%20Event%20images/card/PenItDown_card_jdveco.webp"
     },
     "prize_pool": 6000
   },
@@ -984,7 +1059,7 @@
     "tagline": "Get ready to exercise your brain and lose your sanity simultaneously with Brain Rot Escape – where literature meets lunacy!",
     "event_type": "Solo",
     "event_category": "Informal",
-    "description": "Wake up, the latest series of unhinged literary games has just dropped! Be prepared to tame your game of words as we take into our forest to escape the one thing we all fear - Brain Rot!",
+    "description": "A series of 3 literary games.Each of them will follow an elimination method.Winners will be emerging in the third game.",
     "reg_fees": 50,
     "max_participants": 350,
     "min_participants": 5,
@@ -1006,8 +1081,8 @@
     "images": {
       "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766022/samvad/header/Frame_202_yoc1y0.webp",
       "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766045/samvad/header/Frame_194_azw3fe.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765305/samvad/main/frame-215-652292dfd6262_jdp8aw.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765298/samvad/main/frame-252-652292eea4a0d_ihfmex.webp"
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641426/Final%20Event%20images/card/BrainRotEscape_card_masgwu.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641426/Final%20Event%20images/card/BrainRotEscape_card_masgwu.webp"
     },
     "prize_pool": 3000
   },
@@ -1016,7 +1091,7 @@
     "tagline": "If you can't convince them, confuse them.",
     "event_type": "Team",
     "event_category": "Debate",
-    "description": "Let loose your words in a dramatic fashion for maximum effect! Get ready to have your ideas challenged and roar your words to be heard in this English oratory showcase! The only rule is that there are no rules so go wild and have fun! (within the strict structures of Oxford and Parliamentary debate but shhh, we don't talk about that)",
+    "description": "English oratory showcase, consisting of Oxford-style as well as parliamentary style of debate.",
     "reg_fees": 150,
     "max_participants": 20,
     "min_participants": 2,
@@ -1048,7 +1123,7 @@
     "tagline": "Your favorite poet/writer awaits to guide you.",
     "event_type": "Solo",
     "event_category": "Literary",
-    "description": "A workshop to help you get familiar with the incredible flow of high quality writings as we prepare you to ensure that your Aaditya gets to meet the Geet he deserves or Geet meets Aaditya or Geet meets Geet or Aditya meets Aditya because it's wildin'!",
+    "description": "A workshop to help you weave your haziest of thoughts into simpler and profound strings.",
     "reg_fees": 0,
     "max_participants": 50,
     "min_participants": 5,
@@ -1066,8 +1141,8 @@
     "images": {
       "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766041/samvad/header/Frame_201_myadrk.webp",
       "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766047/samvad/header/Frame_193_lqpaqt.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765302/samvad/main/penit-2-65229300e2b7a_ykyo66.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765295/samvad/main/frame-228-652292eb5496f_ommpsu.webp"
+      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641425/Final%20Event%20images/card/likhawat_card_ghcsm6.webp",
+      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641425/Final%20Event%20images/card/likhawat_card_ghcsm6.webp"
     },
     "prize_pool": 0
   },
@@ -1076,7 +1151,7 @@
     "tagline": "शब्दों का जाल बनेगा बवाल! आइये शुरू करते हैं शब्दों का महायुद्ध!",
     "event_type": "Team",
     "event_category": "Debate",
-    "description": "Join us and experience the thrill of our Hindi Debate as we embark on tangents of words and wit in a dramatic fashion that runs in our blood. Argue your way to the top and make full use of your ability to shut up your friends to ensure you win every kalesh! Or Debate, put politely. Let your ideas take flight and voices ignite!",
+    "description": "Join us and experience the thrill of our Hindi Debate as we embark on a journey of words and wit. Let your ideas take flight and voices ignite.",
     "reg_fees": 200,
     "max_participants": 25,
     "min_participants": 2,

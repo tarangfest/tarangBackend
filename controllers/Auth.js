@@ -60,10 +60,18 @@ exports.loginUser = async (req, res, next) => {
 
   try {
     const user = await User.findOne({ email }).select("+password");
-    // check if the password is correct
+    if (!user) {
+      return res.status(404).json({
+        success: false,
+        message: "Invalid credentials",
+      });
+    }
     const isMatch = await bycrypt.compare(password, user.password);
     if (!isMatch) {
-      return next(new Error("Invalid credentials"));
+      return res.status(401).json({
+        success: false,
+        message: "Invalid credentials",
+      });
     }
     sendToken(user, 200, res);
   } catch (error) {

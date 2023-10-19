@@ -59,7 +59,6 @@ exports.clearevents = async (req, res, next) => {
 // POST
 // add event to myEvents
 // if event is team then i want team name and userDetid
-
 exports.registerEvent = async (req, res, next) => {
   try {
     const { slug } = req.body;
@@ -79,25 +78,34 @@ exports.registerEvent = async (req, res, next) => {
       });
     }
     if (event.event_type == "Team") {
-      const { teamName } = req.body;
+      const { teamName, teamLeader } = req.body;
       if (!teamName) {
         return next({
           message: "Team name required",
           statusCode: 400,
         });
       }
+      if (!teamLeader) {
+        return next({
+            message: "Team Leader Name required",
+            statusCode: 400,
+        });
+      }
       userDet.events.push({
         slug: event.slug,
         eventId: event._id,
-        teamleaderId: userDet._id,
+        teamleaderId: teamLeader,
         teamName,
+        eventFee: event.reg_fees,
       });
     } else {
       userDet.events.push({
         slug: event.slug,
         eventId: event._id,
+        eventFee: event.reg_fees,
       });
     }
+    userDet.totalCost += Number(event.reg_fees);
     await userDet.save();
     res.status(200).json({
       success: true,
@@ -115,7 +123,6 @@ exports.removeEvent = async (req, res, next) => {
   try {
     const { slug } = req.body;
     const { user } = req;
-    console.log(user);
     const userDet = await User.findById(user.id);
     const event = await Event.findOne({ slug });
     if (!event) {
@@ -131,7 +138,7 @@ exports.removeEvent = async (req, res, next) => {
       });
     }
     userDet.events = removeEvent(userDet.events, slug);
-    console.log(userDet.events);
+    userDet.totalCost -= event.reg_fees;
     await userDet.save();
     res.status(200).json({
       success: true,
