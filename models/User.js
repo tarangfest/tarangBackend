@@ -121,8 +121,7 @@ const UserSchema = new mongoose.Schema(
           ref: "Event",
         },
         teamleaderId: {
-          type: mongoose.Schema.Types.ObjectId,
-          ref: "User",
+          type: String,
         },
         teamName: {
           type: String,
