@@ -78,17 +78,23 @@ exports.registerEvent = async (req, res, next) => {
       });
     }
     if (event.event_type == "Team") {
-      const { teamName } = req.body;
+      const { teamName, teamLeader } = req.body;
       if (!teamName) {
         return next({
           message: "Team name required",
           statusCode: 400,
         });
       }
+      if (!teamLeader) {
+        return next({
+            message: "Team Leader Name required",
+            statusCode: 400,
+        });
+      }
       userDet.events.push({
         slug: event.slug,
         eventId: event._id,
-        teamleaderId: userDet._id,
+        teamleaderId: teamLeader,
         teamName,
         eventFee: event.reg_fees,
       });
