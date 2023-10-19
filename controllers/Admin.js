@@ -147,7 +147,7 @@ exports.formCallback = async (req, res, next) => {
     }
     if (purchaseTarangCard == "Yes") {
       user.purchaseTarangCard = true;
-      user.totalCost = 1999;
+      user.totalCost = 1499;
     } else {
       user.purchaseTarangCard = false;
     }

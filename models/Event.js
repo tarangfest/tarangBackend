@@ -74,6 +74,9 @@ const EventSchema = new mongoose.Schema(
       type: [String],
       required: [true, "Please add some instructions for the event"],
     },
+    judging_criteria: {
+      type: [String],
+    },
     prize_pool: {
       type: String,
       required: [true, "Please add prize pool for the event"],

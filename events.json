@@ -1,1114 +1,1190 @@
 [
-  {
-    "name": "Malang",
-    "tagline": "Choreography Meets Chemistry at Malang!",
-    "event_type": "Team",
-    "event_category": "Dance",
-    "description": "Malang is a duo dance competition that spotlights the synergy between two talented dancers.In this event, participants perform intricately choreographed routines that blend a variety of dance styles, including Bollywood, contemporary, and more.,It's a captivating showcase of creativity, coordination, and chemistry between dance partners, offering a visual and emotional spectacle that leaves the audience spellbound.,Join us for Malang and witness the magic that unfolds when two dancers become one through the language of dance!",
-    "reg_fees": "400",
-    "max_participants": "2",
-    "min_participants": "2",
-    "event_date": "Nov 4, 2023",
-    "event_time": "2:00 PM",
-    "org_club": "Aavartan",
-    "duration": "3 hours approx.",
-    "instructions": [
-      "Fill Registration google form (within deadline).",
-      "Registration fees: 200/- (per head).",
-      "All the participant members must have their registration card/institute card.",
-      "All forms of dance are allowed.",
-      "Duration: 2 to 4 minutes.",
-      "Penalized points for exceeding time limits."
-    ],
-    "coordinators": [
-      { "name": "Ashish Chaudhary", "pno": "9991689805" },
-      { "name": "Bhavika Sehgal", "pno": "8726788999" }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536457/eventPage/header/malang_q3vfxk.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536453/eventPage/header/malang_1_qyekxg.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701013/eventPage/main/IMG_7046_1_v75vsn.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701013/eventPage/main/IMG_7046_1_1_vstgq9.webp"
+    {
+        "name": "Malang",
+        "tagline": "Choreography Meets Chemistry at Malang!",
+        "event_type": "Team",
+        "event_category": "Dance",
+        "description": "Malang is a duo dance competition that spotlights the synergy between two talented dancers.In this event, participants perform intricately choreographed routines that blend a variety of dance styles, including Bollywood, contemporary, and more.,It's a captivating showcase of creativity, coordination, and chemistry between dance partners, offering a visual and emotional spectacle that leaves the audience spellbound.,Join us for Malang and witness the magic that unfolds when two dancers become one through the language of dance!",
+        "reg_fees": "400",
+        "max_participants": "2",
+        "min_participants": "2",
+        "event_date": "Nov 4, 2023",
+        "event_time": "2:00 PM",
+        "org_club": "Aavartan",
+        "duration": "3 hours approx.",
+        "instructions": [
+            "Fill Registration google form (within deadline).",
+            "Must have Tarang Pass.",
+            "All the participant members must have their registration card/institute card.",
+            "All forms of dance are allowed.",
+            "Duration: 2 to 4 minutes.",
+            "Penalized points for exceeding time limits.",
+            "Props can be used.They need to be brought by the team itself.However, the organizing team holds the discretion of not allowing it on the stage.",
+            "The obscenity of any kind is not allowed and will lead to immediate disqualification.",
+            "The decision of the judges and the organizing team shall be final and binding."
+        ],
+        "judging_criteria": [
+            "Synchronization",
+            "Stage Utilization",
+            "Creativity",
+            "Choreography",
+            "Coordination",
+            "Energy Level",
+            "Expression",
+            "Costumes and Props",
+            "Presentation",
+            "The overall Impact on the crowd"
+        ],
+        "coordinators": [
+            { "name": "Ashish Chaudhary", "pno": "9991689805" },
+            { "name": "Bhavika Sehgal", "pno": "8726788999" }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641458/Final%20Event%20images/banner/Malang_banner.jpeg_w2xyjk.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641458/Final%20Event%20images/banner/Malang_banner.jpeg_w2xyjk.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641424/Final%20Event%20images/card/Malang_card_bjbzmp.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641424/Final%20Event%20images/card/Malang_card_bjbzmp.webp"
+        },
+        "prize_pool": "7000"
     },
-    "prize_pool": "7000"
-  },
-  {
-    "name": "Breakin Battles",
-    "tagline": "Dance, Clash, Conquer: Join the Battle!",
-    "event_type": "Solo",
-    "event_category": "Dance",
-    "description": "Breakin Battles is a solo dance battle where dancers of diverse backgrounds and styles unleash their raw talent and creativity.\n\n In the competition, contestants must first improvise and adapt to randomly selected music during the Prelims, testing their creativity.\n\n Then, in the Battle Round, we create thrilling face-offs where dancers showcase their best moves, innovation, and stage presence, challenging opponents in real time.\n\n It offers a platform for dancers to impress judges, push their limits, and captivate the audience with their freestyle dance artistry, celebrating individuality and self-expression.\n\n \"Step into the spotlight and join us for Breakin’ Battles, where the dance floor becomes your battlefield!\"",
-    "reg_fees": "300",
-    "max_participants": "1",
-    "min_participants": "1",
-    "event_date": "Nov 5, 2023",
-    "event_time": "2:00 PM",
-    "org_club": "Aavartan",
-    "duration": "4 hours approx.",
-    "instructions": [
-      "1. On spot songs will be assigned for the dance faceoff\n2. Fill Registration google form (within deadline)\n3. Registration fees: 300/- (per head)\n4. All the participant members must have their registration card/institute card.\n5. All forms of dance are allowed.\n6. Duration: Will be assigned on spot."
-    ],
-    "coordinators": [
-      { "name": "Nithin Adepu", "pno": "7729054812" },
-      { "name": "Sriram Gone", "pno": "7075669396" }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696761876/eventPage/header/bbh11-65228791b5a75_r8yck0.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696761876/eventPage/header/bbh1-65228791012b8_sqn5fi.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696761849/eventPage/main/breakingbattle-1-652286e05b7af_tagudh.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696761848/eventPage/main/breaking-battles-652286dede035_hx2uho.webp"
+    {
+        "name": "Breakin Battles",
+        "tagline": "Dance, Clash, Conquer: Join the Battle!",
+        "event_type": "Solo",
+        "event_category": "Dance",
+        "description": "Breakin Battles is a solo dance battle where dancers of diverse backgrounds and styles unleash their raw talent and creativity.\n\n In the competition, contestants must first improvise and adapt to randomly selected music during the Prelims, testing their creativity.\n\n Then, in the Battle Round, we create thrilling face-offs where dancers showcase their best moves, innovation, and stage presence, challenging opponents in real time.\n\n It offers a platform for dancers to impress judges, push their limits, and captivate the audience with their freestyle dance artistry, celebrating individuality and self-expression.\n\n \"Step into the spotlight and join us for Breakin’ Battles, where the dance floor becomes your battlefield!\"",
+        "reg_fees": "300",
+        "max_participants": "1",
+        "min_participants": "1",
+        "event_date": "Nov 5, 2023",
+        "event_time": "2:00 PM",
+        "org_club": "Aavartan",
+        "duration": "4 hours approx.",
+        "instructions": [
+            "It is a solo dance battle.",
+            "There are two rounds for this competition as listed below:\n 1.Prelims: Contestants will have to perform freestyle on the songs which will be played on the Spot.\n 2. Battle round: A face-off round, your opponent will be selected by the judges and you have to do freestyle battle.",
+            " All forms of dance are allowed.",
+            "Duration: Will be assigned on spot.",
+            "Must have Tarang Pass",
+            "The participant must have their registration card/institute card",
+            "The obscenity of any kind is not allowed and will lead to immediate disqualification.",
+            "The decision of the judges and the organizing team shall be final and binding."
+        ],
+        "judging_criteria": [
+            "Synchronization",
+            "Stage Utilization",
+            "Creativity",
+            "Choreography",
+            "Coordination",
+            "Energy Level",
+            "Expression",
+            "Costumes and Props",
+            "Presentation",
+            "The overall Impact on the crowd"
+        ],
+        "coordinators": [
+            { "name": "Nithin Adepu", "pno": "7729054812" },
+            { "name": "Sriram Gone", "pno": "7075669396" }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696761876/eventPage/header/bbh11-65228791b5a75_r8yck0.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696761876/eventPage/header/bbh1-65228791012b8_sqn5fi.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696761849/eventPage/main/breakingbattle-1-652286e05b7af_tagudh.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696761848/eventPage/main/breaking-battles-652286dede035_hx2uho.webp"
+        },
+        "prize_pool": "8000"
     },
-    "prize_pool": "8000"
-  },
-  {
-    "name": "Ciniverse",
-    "tagline": "Script Your Story, Shoot for Stardom at Ciniverse!",
-    "event_type": "Solo",
-    "event_category": "Photography",
-    "description": "Ciniverse is a Film making competition, that can be presented in a genre of tour personal choice and will be judged based on cinematography, lighting, editing and color grading.",
-    "reg_fees": "200",
-    "max_participants": "50",
-    "min_participants": "20",
-    "event_date": "Nov 3, 2023",
-    "event_time": "",
-    "org_club": "Shutter Box",
-    "duration": "3 days online event",
-    "instructions": [
-      "Film should be a minimum of 5mins, and must not exceed 30 mins.",
-      "Films can be from any language of your choice.",
-      "Judgment prioritization is based on technical features of film:\na. Cinematography\nb. Editing\nc. Lighting\nd. Color grading"
-    ],
-    "coordinators": [{ "name": "Darsi Manjith", "pno": "9346485364" }],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536432/eventPage/header/Ciniverse_vb4wf4.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536433/eventPage/header/ciniverse_1_vspfme.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701006/eventPage/main/ciniverse_yx04ep.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701006/eventPage/main/ciniverse_1_wsds6u.webp"
+    {
+        "name": "Ciniverse",
+        "tagline": "Script Your Story, Shoot for Stardom at Ciniverse!",
+        "event_type": "Solo",
+        "event_category": "Photography",
+        "description": "Ciniverse is a Film making competition, that can be presented in a genre of tour personal choice and will be judged based on cinematography, lighting, editing and color grading.",
+        "reg_fees": "200",
+        "max_participants": "50",
+        "min_participants": "20",
+        "event_date": "Nov 3, 2023",
+        "event_time": "",
+        "org_club": "Shutter Box",
+        "duration": "3 days online event",
+        "instructions": [
+            "Film should be a minimum of 5mins, and must not exceed 30 mins.",
+            "Films can be from any language of your choice.",
+            "Judgment prioritization is based on technical features of film:\na. Cinematography\nb. Editing\nc. Lighting\nd. Color grading"
+        ],
+        "coordinators": [{ "name": "Darsi Manjith", "pno": "9346485364" }],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536432/eventPage/header/Ciniverse_vb4wf4.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536433/eventPage/header/ciniverse_1_vspfme.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701006/eventPage/main/ciniverse_yx04ep.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701006/eventPage/main/ciniverse_1_wsds6u.webp"
+        },
+        "prize_pool": "8000"
     },
-    "prize_pool": "8000"
-  },
-  {
-    "name": "Pixcellence",
-    "tagline": "Picture-Perfect Moments Await at Pixcellence!",
-    "event_type": "Solo",
-    "event_category": "Photography",
-    "description": "All you photographers! Get ready to show your creativity! If you've got a camera or a phone and love taking pictures, this is for you. We're hosting a cool online photo contest called \"Pixcellence\" and it's your chance to showcase your photography skills and creativity. The themes for the contests are Macro, Monochrome, Street photography.",
-    "reg_fees": "50",
-    "max_participants": "250",
-    "min_participants": "100",
-    "event_date": "Nov 3, 2023",
-    "event_time": "",
-    "org_club": "Shutter Box",
-    "duration": "all 3 days online",
-    "instructions": [
-      "Submission Limit: You can submit a maximum of three photo per theme.",
-      "Theme Flexibility: You're not obligated to submit photos for every theme; you can choose which themes you want to participate in.",
-      "Post-Processing Allowed: You are allowed to edit or enhance your photos before submitting them.",
-      "Title Requirement: Every photo you submit must have a title.",
-      "File Naming Convention: While saving your photos, use the format \"Photo title_Name of\nparticipant\" for the filenames.",
-      "Avoid Additional Elements: Do not include borders, frames, watermarks, or filters in your photos.",
-      "Original Work: All photos you submit must be your own original creations."
-    ],
-    "coordinators": [{ "name": "K L Praseeda Keerthi", "pno": "9866246733" }],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536429/eventPage/header/pixl_nozsut.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536436/eventPage/header/pixl_1_jug3hj.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701004/eventPage/main/sunglasses_1_tiyseh.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701005/eventPage/main/sunglasses_1_1_rbf88y.webp"
+    {
+        "name": "Pixcellence",
+        "tagline": "Picture-Perfect Moments Await at Pixcellence!",
+        "event_type": "Solo",
+        "event_category": "Photography",
+        "description": "All you photographers! Get ready to show your creativity! If you've got a camera or a phone and love taking pictures, this is for you. We're hosting a cool online photo contest called \"Pixcellence\" and it's your chance to showcase your photography skills and creativity. The themes for the contests are Macro, Monochrome, Street photography.",
+        "reg_fees": "50",
+        "max_participants": "250",
+        "min_participants": "100",
+        "event_date": "Nov 3, 2023",
+        "event_time": "",
+        "org_club": "Shutter Box",
+        "duration": "all 3 days online",
+        "instructions": [
+            "Submission Limit: You can submit a maximum of three photo per theme.",
+            "Theme Flexibility: You're not obligated to submit photos for every theme; you can choose which themes you want to participate in.",
+            "Post-Processing Allowed: You are allowed to edit or enhance your photos before submitting them.",
+            "Title Requirement: Every photo you submit must have a title.",
+            "File Naming Convention: While saving your photos, use the format \"Photo title_Name of\nparticipant\" for the filenames.",
+            "Avoid Additional Elements: Do not include borders, frames, watermarks, or filters in your photos.",
+            "Original Work: All photos you submit must be your own original creations."
+        ],
+        "judging_criteria": [],
+        "coordinators": [
+            { "name": "K L Praseeda Keerthi", "pno": "9866246733" }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536429/eventPage/header/pixl_nozsut.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536436/eventPage/header/pixl_1_jug3hj.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701004/eventPage/main/sunglasses_1_tiyseh.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701005/eventPage/main/sunglasses_1_1_rbf88y.webp"
+        },
+        "prize_pool": "3000"
     },
-    "prize_pool": "3000"
-  },
-  {
-    "name": "Odyssey",
-    "tagline": "The Dance Odyssey Begins Here!",
-    "event_type": "Solo",
-    "event_category": "Dance",
-    "description": "Odyssey is a Solo Dance competition that puts individual dancers in the spotlight, allowing them to shine and exhibit their exceptional skills, technique, and performance abilities.\n\n Dancers from various genres and backgrounds take the stage to express themselves through their unique dance styles.\n\n It's a thrilling showcase of talent, passion, and the artistry of dance.\n\n Prepare to be captivated by the solo dancers as they embark on an unforgettable journey of movement and expression!",
-    "reg_fees": "200",
-    "max_participants": "1",
-    "min_participants": "1",
-    "event_date": "Nov 4, 2023",
-    "event_time": "8:30 AM",
-    "org_club": "Aavartan",
-    "duration": "3 hours approx.",
-    "instructions": [
-      "Only solo performances are allowed.",
-      "Fill Registration google form (within deadline)",
-      "Registration fees: 200/-.",
-      "All the participant members must have their registration card/institute card.",
-      "All forms of dance are allowed.",
-      "Duration: 1.5 to 2.5 minutes.",
-      "Penalized points for exceeding time limits."
-    ],
-    "coordinators": [
-      { "name": "Vansh Vyas", "pno": "7987529916" },
-      { "name": "Samarth Yadav", "pno": "7017565239" }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536449/eventPage/header/oddesy_thci8t.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536455/eventPage/header/oddsy_1_ncky0x.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701012/eventPage/main/IMG_7087_qrkl3y.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701012/eventPage/main/IMG_7087_1_lciso5.webp"
+    {
+        "name": "Odyssey",
+        "tagline": "The Dance Odyssey Begins Here!",
+        "event_type": "Solo",
+        "event_category": "Dance",
+        "description": "Odyssey is a Solo Dance competition that puts individual dancers in the spotlight, allowing them to shine and exhibit their exceptional skills, technique, and performance abilities.\n\n Dancers from various genres and backgrounds take the stage to express themselves through their unique dance styles.\n\n It's a thrilling showcase of talent, passion, and the artistry of dance.\n\n Prepare to be captivated by the solo dancers as they embark on an unforgettable journey of movement and expression!",
+        "reg_fees": "200",
+        "max_participants": "1",
+        "min_participants": "1",
+        "event_date": "Nov 4, 2023",
+        "event_time": "8:30 AM",
+        "org_club": "Aavartan",
+        "duration": "3 hours approx.",
+        "instructions": [
+            "Only solo performances are allowed.",
+            "Participants need to bring their own soundtrack in .mp3 format in a pen drive only.",
+            "  Must Have Tarang Pass.",
+            "All the participant members must have their registration card/institute card.",
+            "All forms of dance are allowed.",
+            "Duration: 1.5 to 2.5 minutes.",
+            "Penalized points for exceeding time limits.",
+            " Participants may use multiple songs.",
+            "Props can be used.They need to be brought by the team itself.However, the organizing team holds the discretion of not allowing it on the stage.",
+            "The obscenity of any kind is not allowed and will lead to immediate disqualification.",
+            "The decision of the judges and the organizing team shall be final and binding."
+        ],
+        "judging_criteria": [
+            "Synchronization",
+            "Stage Utilization",
+            "Creativity",
+            "Choreography",
+            "Coordination",
+            "Energy Level",
+            "Expression",
+            "Costumes and Props",
+            "Presentation",
+            "The overall Impact on the crowd"
+        ],
+        "coordinators": [
+            { "name": "Vansh Vyas", "pno": "7987529916" },
+            { "name": "Samarth Yadav", "pno": "7017565239" }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641458/Final%20Event%20images/banner/Odyssey_banner_roi41f.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641458/Final%20Event%20images/banner/Odyssey_banner_roi41f.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641424/Final%20Event%20images/card/Odyssey_card_it6swh.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641424/Final%20Event%20images/card/Odyssey_card_it6swh.webp"
+        },
+        "prize_pool": "7000"
     },
-    "prize_pool": "7000"
-  },
-  {
-    "name": "Jhankaar",
-    "tagline": "Feel the Beat, Join the Heat - Jhankaar's Elite!",
-    "event_type": "Team",
-    "event_category": "Dance",
-    "description": "Jhankaar is a group dance competition that pits diverse dance groups against each other in a battle of rhythm and creativity. Dance enthusiasts from various backgrounds and styles, including Bollywood, hip hop, jazz, and more, come together to showcase their talent and passion on one vibrant stage. It's a celebration of movement, music, and the infectious energy that dance brings, promising an unforgettable experience for both participants and spectators. Get ready to witness the power of unity in dance!",
-    "reg_fees": "200",
-    "max_participants": "500",
-    "min_participants": "8",
-    "event_date": "Nov 3, 2023",
-    "event_time": "4:00 PM",
-    "org_club": "Aavartan",
-    "duration": "3 hours approx.",
-    "instructions": [
-      "Only group performances are allowed and all members should be equally involved throughout the performance.",
-      "Fill Registration google form (within deadline).",
-      "Registration fees: 200/- (per head).",
-      "All the participant members must have their registration card/institute card.",
-      "All forms of dance are allowed.",
-      "Duration: 7 to 9 minutes.",
-      "Penalized points for exceeding time limits."
-    ],
-    "coordinators": [
-      { "name": "Rakshit Goel", "pno": "8941842574" },
-      { "name": "Priyank Bhaskar", "pno": "6232997288" }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536445/eventPage/header/jankaar_spfyl3.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536447/eventPage/header/jankaar_1_bqrg7m.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701010/eventPage/main/IMG_3469_mwnrcy.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701011/eventPage/main/IMG_3469_1_yjjjxs.webp"
+    {
+        "name": "Jhankaar",
+        "tagline": "Feel the Beat, Join the Heat - Jhankaar's Elite!",
+        "event_type": "Team",
+        "event_category": "Dance",
+        "description": "Jhankaar is a group dance competition that pits diverse dance groups against each other in a battle of rhythm and creativity. Dance enthusiasts from various backgrounds and styles, including Bollywood, hip hop, jazz, and more, come together to showcase their talent and passion on one vibrant stage. It's a celebration of movement, music, and the infectious energy that dance brings, promising an unforgettable experience for both participants and spectators. Get ready to witness the power of unity in dance!",
+        "reg_fees": "200",
+        "max_participants": "500",
+        "min_participants": "8",
+        "event_date": "Nov 3, 2023",
+        "event_time": "4:00 PM",
+        "org_club": "Aavartan",
+        "duration": "3 hours approx.",
+        "instructions": [
+            "Only group performances are allowed and all members should be equally involved throughout the performance.",
+            "Minimum participants: 8 members",
+            "All participants of a team should be of the same Institute.",
+            "At any given time, a minimum of 5 members should be on the stage.",
+            "Participants need to bring their own soundtrack in .mp3 format in a pen drive only.",
+            " Must have Tarang Pass at the time of Event.",
+            "All the participant members must have their registration card/institute card.",
+            "All forms of dance are allowed.",
+            "Duration: 8 to 11 minutes",
+            "Penalized points for exceeding time limits",
+            " Participants may use multiple songs.",
+            "Props can be used.They need to be brought by the team itself.However, the organizing team holds the discretion of not allowing it on the stage.",
+            "The obscenity of any kind is not allowed and will lead to immediate disqualification.",
+            " The decision of the judges and the organizing team shall be final and binding."
+        ],
+        "judging_criteria": [
+            "Synchronization",
+            "Stage Utilization",
+            "Creativity",
+            "Choreography",
+            "Coordination",
+            "Energy Level",
+            "Expression",
+            "Costumes and Props",
+            "Presentation",
+            "The overall Impact on the crowd"
+        ],
+        "coordinators": [
+            { "name": "Rakshit Goel", "pno": "8941842574" },
+            { "name": "Priyank Bhaskar", "pno": "6232997288" }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641456/Final%20Event%20images/banner/Jhankaar_banner_s7dtve.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641456/Final%20Event%20images/banner/Jhankaar_banner_s7dtve.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641424/Final%20Event%20images/card/Jhankaar_card_grfs5p.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641424/Final%20Event%20images/card/Jhankaar_card_grfs5p.webp"
+        },
+        "prize_pool": "40000"
     },
-    "prize_pool": "40000"
-  },
-  {
-    "name": "Rangmanch",
-    "tagline": "Solo Acts, Infinite Expressions: Rangmanch Chronicles!",
-    "event_type": "Solo",
-    "event_category": "Drama",
-    "description": "Colour the stage with the shades of your expressions! Rangmanch, the Mono Act competition, is THE canvas to paint your emotions on, THE rock to carve your name into and the PERFECT opportunity to flaunt your creativity, unveiling your self-written pieces for the world to see!",
-    "reg_fees": "50",
-    "max_participants": "1",
-    "min_participants": "1",
-    "event_date": "11/4/2023",
-    "event_time": "11:30 AM",
-    "org_club": "Jazbaat",
-    "duration": "2-3 min",
-    "instructions": [
-      "1st Round- Participants are required to choose any one emotion and prepare their act based on it.",
-      "2nd Round- Participants are required to choose two contrasting emotions and create their performance (with a focus on smooth transitioning between them and ensuring an equal expression of both emotions throughout the act).",
-      "Duration:- 2-3 minutes.",
-      "Rules:-\n a) No use of abusive language or words.\nb) Nuditiy/Vulgarity is strictly proihibited.\nc) No use of direct comments on any religion/community/ company/institution.\nd) No other person's involvement is allowed in the whole act.",
-      "Round-1: 50 and Round-2:100"
-    ],
-    "coordinators": [
-      { "name": "Reishabh Rathore", "pno": "9315137833" },
-      { "name": "Uttara Kamat", "pno": "9869261132" }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536387/eventPage/header/rangmanch_bxkcnd.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536379/eventPage/header/rangmanch_1_kqandn.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700988/eventPage/main/rang_1_vm6j39.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700988/eventPage/main/rang_1_1_jymklw.webp"
+    {
+        "name": "Rangmanch",
+        "tagline": "Solo Acts, Infinite Expressions: Rangmanch Chronicles!",
+        "event_type": "Solo",
+        "event_category": "Drama",
+        "description": "Colour the stage with the shades of your expressions! Rangmanch, the Mono Act competition, is THE canvas to paint your emotions on, THE rock to carve your name into and the PERFECT opportunity to flaunt your creativity, unveiling your self-written pieces for the world to see!",
+        "reg_fees": "50",
+        "max_participants": "1",
+        "min_participants": "1",
+        "event_date": "11/4/2023",
+        "event_time": "11:30 AM",
+        "org_club": "Jazbaat",
+        "duration": "2-3 min",
+        "instructions": [
+            "1st Round- Participants are required to choose any one emotion and prepare their act based on it.",
+            "2nd Round- Participants are required to choose two contrasting emotions and create their performance (with a focus on smooth transitioning between them and ensuring an equal expression of both emotions throughout the act).",
+            "Duration:- 2-3 minutes.",
+            "Rules:-\n a) No use of abusive language or words.\nb) Nuditiy/Vulgarity is strictly proihibited.\nc) No use of direct comments on any religion/community/ company/institution.\nd) No other person's involvement is allowed in the whole act.\ne)Penalized for exceeding time limits"
+        ],
+        "judging_criteria": [],
+        "coordinators": [
+            { "name": "Reishabh Rathore", "pno": "9315137833" },
+            { "name": "Uttara Kamat", "pno": "9869261132" }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641457/Final%20Event%20images/banner/Rangmanch_banner_xkc0qe.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641457/Final%20Event%20images/banner/Rangmanch_banner_xkc0qe.webp`p",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641425/Final%20Event%20images/card/Rangmanch_Card_zzzdt0.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641425/Final%20Event%20images/card/Rangmanch_Card_zzzdt0.webp"
+        },
+        "prize_pool": "14000"
     },
-    "prize_pool": "14000"
-  },
-  {
-    "name": "Nukkad: Ek Goonj",
-    "tagline": "Raise Your Voice, Create a Scene at Nukkad: Ek Goonj!",
-    "event_type": "Team",
-    "event_category": "Drama",
-    "description": "Offo! What’s all that ruckus about? Looks like it’s not just any ruckus, it’s a Nukkad! Give voice to the important messages that YOU want others to hear in Jazbaat’s Nukkad ki Nautanki! Empty that glass of haldi-doodh the night before, you’ll need it to shout your message LOUD and CLEAR! Get the best of your Hulla-Gulla for the one big tamasha that is the Nukkad Naatak Competition.",
-    "reg_fees": "2000",
-    "max_participants": "25",
-    "min_participants": "18",
-    "event_date": "Nov 3, 2023",
-    "event_time": "9:00 AM",
-    "org_club": "Jazbaat",
-    "duration": "15 minutes ",
-    "instructions": [
-      "Teams should keep the time limit in mind.",
-      "Mics/ microphones/ speakers will not be allowed during the play, even if the teams will bring their own.",
-      "You can bring your own musical instruments like harmonium,flute,clapbox or any other physically playable instruments.",
-      "The content of your nukkad natak should be socially relevant and thought-provoking.It should address important issues or convey a meaningful message.",
-      "Use of any abusive/obscene language is prohibited.",
-      "Usage of props is allowed,teams have to bring their own props.",
-      "Use of any inflammable/ hazardous elements are strictly prohibited.",
-      "Teams are requested to confirm the validity of props before bringing them.",
-      "After the performance,clean up the area and leave it in the same condition as before the play.",
-      "The decision of judges will be final and binding."
-    ],
-    "coordinators": [
-      { "name": "Uday Shakya", "pno": "7017474241" },
-      { "name": "Shivansh Shukla", "pno": "7895043346" }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536383/eventPage/header/nukkad_1_wt0wgi.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536385/eventPage/header/nukkad_1_1_po8jxh.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700988/eventPage/main/nukkad1_1_csmfxg.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700989/eventPage/main/nukkad1_1_1_emck1n.webp"
+    {
+        "name": "Nukkad: Ek Goonj",
+        "tagline": "Raise Your Voice, Create a Scene at Nukkad: Ek Goonj!",
+        "event_type": "Team",
+        "event_category": "Drama",
+        "description": "Offo! What’s all that ruckus about? Looks like it’s not just any ruckus, it’s a Nukkad! Give voice to the important messages that YOU want others to hear in Jazbaat’s Nukkad ki Nautanki! Empty that glass of haldi-doodh the night before, you’ll need it to shout your message LOUD and CLEAR! Get the best of your Hulla-Gulla for the one big tamasha that is the Nukkad Naatak Competition.",
+        "reg_fees": "2000",
+        "max_participants": "25",
+        "min_participants": "18",
+        "event_date": "Nov 3, 2023",
+        "event_time": "9:00 AM",
+        "org_club": "Jazbaat",
+        "duration": "15 minutes ",
+        "instructions": [
+            "Teams should keep the time limit in mind.",
+            "Mics/ microphones/ speakers will not be allowed during the play, even if the teams will bring their own.",
+            "You can bring your own musical instruments like harmonium,flute,clapbox or any other physically playable instruments.",
+            "The content of your nukkad natak should be socially relevant and thought-provoking.It should address important issues or convey a meaningful message.",
+            "Use of any abusive/obscene language is prohibited.",
+            "Usage of props is allowed,teams have to bring their own props.",
+            "Use of any inflammable/ hazardous elements are strictly prohibited.",
+            "Teams are requested to confirm the validity of props before bringing them.",
+            "After the performance,clean up the area and leave it in the same condition as before the play.",
+            "The decision of judges will be final and binding."
+        ],
+        "judging_criteria": [],
+        "coordinators": [
+            { "name": "Uday Shakya", "pno": "7017474241" },
+            { "name": "Shivansh Shukla", "pno": "7895043346" }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641458/Final%20Event%20images/banner/nukkad_banner_mctwmw.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641458/Final%20Event%20images/banner/nukkad_banner_mctwmw.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641424/Final%20Event%20images/card/nukkad_card_kvhh6a.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641424/Final%20Event%20images/card/nukkad_card_kvhh6a.webp"
+        },
+        "prize_pool": "40000"
     },
-    "prize_pool": "40000"
-  },
-  {
-    "name": "Theatre Wars",
-    "tagline": "Your Story Your Stage, From Laughter to Tears, Theatre Wars Inspires",
-    "event_type": "Team",
-    "event_category": "Drama",
-    "description": "PRESENTING your chance to set the stage ablaze in a glorious stage-act competition!\n\n Gather your friends and set the satge ablaze, because this competition is group performances only!\n\n And don't restrict yourselves, your act can be on ANY topic and theme!\n\n Mela-Drama is THE opportunity to showcase your group's dramatic flair.",
-    "reg_fees": "1500",
-    "max_participants": "20",
-    "min_participants": "10",
-    "event_date": "11/5/2023",
-    "event_time": "5:00 PM",
-    "org_club": "Jazbaat",
-    "duration": "20-45 minutes",
-    "instructions": [
-      "Maximum number of participants per team: 20 (including crew/backstage members).",
-      "Both original and adapted scripts are allowed.",
-      "You have to send a synopsis, and script of your play by 30 October 2023, 11:59 PM.",
-      "There is an entry fee of Rs.1500 to participate in the competition.",
-      "No cross-college teams are allowed.",
-      "We highly discourage any plagiarism in the event. Any team found copying a play without any prior permission of the play writer will be disqualified.",
-      "Mention your college name, POC name, and contact number along with submissions.",
-      "Performance should not exceed 60 minutes in length (Empty stage to Empty stage). Each team will be given a tech rehearsal time of 15 minutes before the start of the performance.",
-      "The details of the play should be sent prior to the competition. The details include -\n\na. The title of the play.\n\nb. Approximate duration Requirements from the host institute (subject to availability)\n\nc. If self-written, credit to the playwrights and/or plays whose material has been used. The subject line would be as per the common format STAGEPLAY_COLLEGENAME",
-      "Any kind of damage caused to the stage will result in a 30% penalty.",
-      "Use of flammable substances or liquids (including water) is strictly prohibited. In case of special liquid requirements with the context of the play absolutely necessary, then an exception may be made under the discretion of the organizing team. The participants should take prior permission from the organizing team.",
-      "Vulgarity is strictly prohibited and can lead to disqualification.",
-      "No professional assistance is permitted, all team members should be certified students of the institute. Please bring along your identity cards.",
-      "Use of any hazardous element/prop is strictly prohibited.",
-      "Technical support will be provided to make the team familiar with the lights console.",
-      "Obscenity of any kind that is harmful to the interests or beliefs of specific but not limited to social, economic, religious, gender or political groups will lead to the disqualification of the team.",
-      "Performance must be suitable for the general audience and should not contain any offensive or inappropriate content.",
-      "The decision of the judging panel will be final and binding.",
-      "The Judging criteria would be as follows -\n\n a. Script and Direction: 30%\n\nb. Acting: 35%\n\nc. Lights and Music: 15%\n\nd. Production: 20%"
-    ],
-    "coordinators": [
-      { "name": "Shanu Priya Garg", "pno": "8660761323" },
-      { "name": "Priyanshu Bujethia", "pno": "9352816482" }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536379/eventPage/header/tw_1_f9lvdf.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536380/eventPage/header/tw_2_j3j40r.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700988/eventPage/main/tw1_1_gblx9r.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700988/eventPage/main/tw1_1_gblx9r.webp"
+    {
+        "name": "Theatre Wars",
+        "tagline": "Your Story Your Stage, From Laughter to Tears, Theatre Wars Inspires",
+        "event_type": "Team",
+        "event_category": "Drama",
+        "description": "PRESENTING your chance to set the stage ablaze in a glorious stage-act competition!\n\n Gather your friends and set the satge ablaze, because this competition is group performances only!\n\n And don't restrict yourselves, your act can be on ANY topic and theme!\n\n Mela-Drama is THE opportunity to showcase your group's dramatic flair.",
+        "reg_fees": "1500",
+        "max_participants": "20",
+        "min_participants": "10",
+        "event_date": "11/5/2023",
+        "event_time": "5:00 PM",
+        "org_club": "Jazbaat",
+        "duration": "20-45 minutes",
+        "instructions": [
+            "1. Team Size: Each team can have a maximum of 15 on-stage performers and 3 backstage support members for sound, lighting, and spot operations.",
+            "2. Script: Original or adapted scripts are accepted.",
+            "3. Submission Deadline: Submit your play's synopsis and script by 29 October 2023, 11:59 PM.",
+            "4. Entry Fee: There's a participation fee of Rs. 1500 per team.",
+            "5. Team Composition: Only intra-college teams are allowed. Please provide your college name, Point of Contact (POC) name, and at least two contact numbers with your submissions.",
+            "6. Performance Length: Performances should range from 20 to 45 minutes. The timer starts when your team is announced on stage until the crew members leave the stage. Going beyond the time limit will result in point deductions. Each team gets a 15-minute tech rehearsal before the event.",
+            "7. Language: Plays can be in Hindi, English, or a mix of both. Catchphrases in other languages are allowed",
+            "8. Play Details: Send the play title, approximate duration, and any specific requirements from the host institute (if available).",
+            "9. Credits: If your play is self-written or includes material from other plays, provide due credit. Use the subject line format: STAGEPLAY_COLLEGENAME.",
+            "10. Stage Damage: Causing damage to the stage will result in penalties.",
+            "11. Substances: Avoid using flammable substances or liquids. Special requirements must be pre-approved.",
+            "Vulgarity is strictly prohibited and can lead to disqualification.",
+            "12. Vulgarity: Obscene content is not allowed and may lead to disqualification.",
+            "13. Professional Assistance: Only certified students of the institute can participate. Bring your identity cards. Using fake identities or fraud may lead to disqualification",
+            "14. Hazardous Elements: Use of hazardous props is strictly prohibited.",
+            "15. Technical Support: Teams will receive technical support to operate lighting consoles.",
+            "16. Respect and Inclusivity: Respect cultural, social, and political sensitivities. Offensive content will result in disqualification.",
+            "17. Audience-Friendly: Performances must be suitable for a general audience without offensive or inappropriate content.",
+            "18. Judging: The judging panel's decision is final. Criteria: a. Script and Direction (30%), b. Acting (35%), c. Lights and Music (15%), d. Production (20%).",
+            "19. Conduct: Misbehavior with organizers, teams, judges, or event staff may lead to disqualification."
+        ],
+        "judging_criteria": [],
+        "coordinators": [
+            { "name": "Shanu Priya Garg", "pno": "8660761323" },
+            { "name": "Priyanshu Bujethia", "pno": "9352816482" }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641458/Final%20Event%20images/banner/Theatre_War_Banner_acptw5.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641458/Final%20Event%20images/banner/Theatre_War_Banner_acptw5.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641427/Final%20Event%20images/card/Theatre_wars_card_vcxx9s.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641427/Final%20Event%20images/card/Theatre_wars_card_vcxx9s.webp"
+        },
+        "prize_pool": "45000"
     },
-    "prize_pool": "45000"
-  },
-  {
-    "name": "Frame-by-Frame Fockery",
-    "tagline": "Video Wizards, Unite at Frame-by-Frame Fockery!",
-    "event_type": "Solo",
-    "event_category": "Fine Arts",
-    "description": "“Frame-by-Frame Fockery” is a platform provided to showcase the abilities of video editors and Animators.\n\n Make a stop motion animation to Compete with a talented pool from all over India, where your creativity takes the center of stage! make your team of 1-3 like-minded visionaries for an exciting 1–3-minute animation journey.\n\n The file format accepted will be MP4 only, Adding your personal touch to claim your shot at fame and fortune is a notable point.\n\n You are free to prefer ready-made props or love crafting your own.\n\n Amaze the platform out.",
-    "reg_fees": "200",
-    "max_participants": "3",
-    "min_participants": "1",
-    "event_date": "Oct 30, 2023",
-    "event_time": "11:59 PM",
-    "org_club": "Abhivyakti",
-    "duration": "-",
-    "instructions": [
-      "Creativity: The animation should be original and imaginative, with a unique concept and execution.",
-      "Technical skill: The animation should be well-crafted, consistent lighting, and a high level of technical detail.",
-      "Storytelling: The animation should have a clear and engaging story that is well-paced and executed.",
-      "Personal touch: The animation should reflect the unique style and personality of the creators.",
-      "Sound Design: The animation will also be judged on the basis of the attention given to sound design and the detail of the sounds used.",
-      "Teams can be 1-3 people in size.",
-      "Animations should be 1-3 minutes long.",
-      "Animations must be in MP4 format (resolution: atleast 1080p).",
-      "Animations must be original and created specifically for the competition.",
-      "The completed video should have a physical watermark (on the bottom left) in every scene, to prove originality. (e.g. adding a small card with your name on it on the bottom left of every scene.) The watermark shouldn’t hinder the video in any way or form.",
-      "Animations must not contain any copyrighted material, including music, sound effects, or footage.",
-      "Animations must be suitable for all ages.",
-      "Explicit content is not allowed."
-    ],
-    "coordinators": [{ "name": "Madhavjith", "pno": "7994922406" }],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536422/eventPage/header/fbf_aej23j.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536427/eventPage/header/fbf_1_o9syj2.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701002/eventPage/main/fbf_h4xuev.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701002/eventPage/main/fbf_1_xom2r3.webp"
+    {
+        "name": "Frame-by-Frame Fockery",
+        "tagline": "Video Wizards, Unite at Frame-by-Frame Fockery!",
+        "event_type": "Solo",
+        "event_category": "Fine Arts",
+        "description": "“Frame-by-Frame Fockery” is a platform provided to showcase the abilities of video editors and Animators.\n\n Make a stop motion animation to Compete with a talented pool from all over India, where your creativity takes the center of stage! make your team of 1-3 like-minded visionaries for an exciting 1–3-minute animation journey.\n\n The file format accepted will be MP4 only, Adding your personal touch to claim your shot at fame and fortune is a notable point.\n\n You are free to prefer ready-made props or love crafting your own.\n\n Amaze the platform out.",
+        "reg_fees": "200",
+        "max_participants": "3",
+        "min_participants": "1",
+        "event_date": "Oct 30, 2023",
+        "event_time": "11:59 PM",
+        "org_club": "Abhivyakti",
+        "duration": "-",
+        "instructions": [
+            " Start with a strong concept.",
+            "Keep it simple.",
+            "Plan your animation carefully.",
+            "Use high-quality materials.",
+            "Pay attention to detail.",
+            "Don't be afraid to experiment"
+        ],
+        "judging_criteria": [
+            "Creativity: The animation should be original and imaginative, with a unique concept and execution.",
+            "Technical skill: The animation should be well-crafted, consistent lighting, and a high level of technical detail.",
+            "Storytelling: The animation should have a clear and engaging story that is well-paced and executed.",
+            "Personal touch: The animation should reflect the unique style and personality of the creators.",
+            "Sound Design: The animation will also be judged on the basis of the attention given to sound design and the detail of the sounds used.",
+            "Teams can be 1-3 people in size.",
+            "Animations should be 1-3 minutes long.",
+            "Animations must be in MP4 format (resolution: atleast 1080p).",
+            "Animations must be original and created specifically for the competition.",
+            "The completed video should have a physical watermark (on the bottom left) in every scene, to prove originality. (e.g. adding a small card with your name on it on the bottom left of every scene.) The watermark shouldn’t hinder the video in any way or form.",
+            "Animations must not contain any copyrighted material, including music, sound effects, or footage.",
+            "Animations must be suitable for all ages.",
+            "Explicit content is not allowed."
+        ],
+        "coordinators": [{ "name": "Madhavjith", "pno": "7994922406" }],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536422/eventPage/header/fbf_aej23j.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536427/eventPage/header/fbf_1_o9syj2.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701002/eventPage/main/fbf_h4xuev.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701002/eventPage/main/fbf_1_xom2r3.webp"
+        },
+        "prize_pool": "TBD"
     },
-    "prize_pool": "TBD"
-  },
-  {
-    "name": "ArtLabs",
-    "tagline": "From Raw Materials to Masterpieces: ArtLabs Journey!",
-    "event_type": "Solo",
-    "event_category": "Fine Arts",
-    "description": "Attend the awaited creative workshops for Bamboo Furniture crafting and pottery.\n\n Attend this one-of-a-kind session to learn the basic fundamentals of these crafts and get hands-on experience while implementing and performing the fascinating and fun tasks .",
-    "reg_fees": "100",
-    "max_participants": "1",
-    "min_participants": "1",
-    "event_date": "Nov 3, 2023",
-    "event_time": "5:00 PM",
-    "org_club": "Abhivyakti",
-    "duration": "Event is for two days, 3/11/23 and 5/11/23. One type of workshop will be held on each day.",
-    "instructions": [
-      "Materials: Participants will be provided with the necessary materials and tools for the workshops. A list of recommended materials will be provided in advance.",
-      "Workshop Sessions: Participants will have the opportunity to attend workshops conducted by experienced instructors in both bamboo furniture crafting and pottery. Attendance at these sessions is mandatory for competition entry.",
-      "Safety: Safety measures, including the use of protective gear and following workshop safety guidelines, must be strictly adhered to during the crafting process.",
-      "Display: All completed pieces will be displayed for exhibition during the event. Participants are responsible for setting up their displays.",
-      "Ownership: Participants retain ownership of their bamboo furniture and pottery pieces. However, they grant permission for their work to be displayed during the event."
-    ],
-    "coordinators": [{ "name": "Aditya Raj", "pno": "9472016042" }],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536419/eventPage/header/artlab_nu4kia.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536425/eventPage/header/artlab_1_z7uhbc.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701003/eventPage/main/artlab_crfx4w.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701004/eventPage/main/artlab_1_ozmza5.webp"
+    {
+        "name": "ArtLabs",
+        "tagline": "From Raw Materials to Masterpieces: ArtLabs Journey!",
+        "event_type": "Solo",
+        "event_category": "Fine Arts",
+        "description": "Attend the awaited creative workshops for Bamboo Furniture crafting and pottery.\n\n Attend this one-of-a-kind session to learn the basic fundamentals of these crafts and get hands-on experience while implementing and performing the fascinating and fun tasks .",
+        "reg_fees": "100",
+        "max_participants": "1",
+        "min_participants": "1",
+        "event_date": "Nov 3, 2023",
+        "event_time": "5:00 PM",
+        "org_club": "Abhivyakti",
+        "duration": "Event is for two days, 3/11/23 and 5/11/23. One type of workshop will be held on each day.",
+        "instructions": [
+            "Materials: Participants will be provided with the necessary materials and tools for the workshops. A list of recommended materials will be provided in advance.",
+            "Workshop Sessions: Participants will have the opportunity to attend workshops conducted by experienced instructors in both bamboo furniture crafting and pottery. Attendance at these sessions is mandatory for competition entry.",
+            "Safety: Safety measures, including the use of protective gear and following workshop safety guidelines, must be strictly adhered to during the crafting process.",
+            "Display: All completed pieces will be displayed for exhibition during the event. Participants are responsible for setting up their displays.",
+            "Ownership: Participant retain ownership of their bamboo furniture and pottery pieces. However, they grant permission for thrir work to be displayed during event. Ensure that these criteria, rules, and guidlines are communicated clearly to all participants before the event to ensure a fair and successful comprtetion. Goodluck with your Art Labs Event! "
+        ],
+        "judging_criteria": [],
+        "coordinators": [{ "name": "Aditya Raj", "pno": "9472016042" }],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536419/eventPage/header/artlab_nu4kia.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536425/eventPage/header/artlab_1_z7uhbc.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701003/eventPage/main/artlab_crfx4w.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701004/eventPage/main/artlab_1_ozmza5.webp"
+        },
+        "prize_pool": "TBD"
     },
-    "prize_pool": "TBD"
-  },
-  {
-    "name": "Cassiopeia",
-    "tagline": "Face the Gods and Goddesses in Cassiopeia's Realm!",
-    "event_type": "Team",
-    "event_category": "Fine Arts",
-    "description": "Step into a world of enchantment with the dynamic face painting and cosplay adventure, a mesmerizing 3-hour Warfare.\n\n The theme decided is “Greek gods and goddesses”.\n\n Reveal your creative self and let your imaginations run wild, but First and the most prior rule is, we appreciate tasteful elegance, so leave the inappropriate costumes at home.\n\n Bring your own clothes and materials, and assemble on the sight.\n\n And to top it all off, a dazzling ramp walk awaits, to showcase your gracious walk with on-the-spot created costumes.\n\n Show the plans you got, stage is waiting for you.",
-    "reg_fees": "200",
-    "max_participants": "2",
-    "min_participants": "2",
-    "event_date": "Nov 4, 2023",
-    "event_time": "4:30 PM",
-    "org_club": "Abhivyakti",
-    "duration": "3 hours + Rampwalk",
-    "instructions": [
-      "Creativity: The model should creatively represent the chosen god or goddess.",
-      "Essence: The costume and face painting should capture explicitly or implicitly portray the trait of the god or goddess chosen.",
-      "Costume: The costume should include the colours or style of greek drapery.",
-      "Face Painting: The level of skill and representation of elements in the face painting will be judged.",
-      "Novelty: The costume and face painting should have an artistic flair and uniqueness of the artist.",
-      "Rules:\n1. This is a Face painting and Cosplay competition.\n2. Participants will work in Teams of 2: One person will be the model and the other will be the artist.\n3. The Theme of the event is Greek Gods and Goddesses.\n4. The competition is of 3 hours which includes the costume and face painting.\n5. Inappropriate costumes will be disqualified.\n6. Paints, materials and clothes will have to be brought by participants.\n7. The entire ensemble should be prepared on sight.\n8. A ramp walk of all the participants will be held.\n9. Participants will have to explain their concept to the judges."
-    ],
-    "coordinators": [{ "name": "Swamini Gawad", "pno": "7758095513" }],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536417/eventPage/header/cassiopia_kffqr2.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536421/eventPage/header/cassiopia_1_k0ovny.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700999/eventPage/main/cassiopia_sumwtc.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701000/eventPage/main/cassiopia_1_fc6auf.webp"
+    {
+        "name": "Cassiopeia",
+        "tagline": "Face the Gods and Goddesses in Cassiopeia's Realm!",
+        "event_type": "Team",
+        "event_category": "Fine Arts",
+        "description": "Step into a world of enchantment with the dynamic face painting and cosplay adventure, a mesmerizing 3-hour Warfare.\n\n The theme decided is “Greek gods and goddesses”.\n\n Reveal your creative self and let your imaginations run wild, but First and the most prior rule is, we appreciate tasteful elegance, so leave the inappropriate costumes at home.\n\n Bring your own clothes and materials, and assemble on the sight.\n\n And to top it all off, a dazzling ramp walk awaits, to showcase your gracious walk with on-the-spot created costumes.\n\n Show the plans you got, stage is waiting for you.",
+        "reg_fees": "200",
+        "max_participants": "2",
+        "min_participants": "2",
+        "event_date": "Nov 4, 2023",
+        "event_time": "4:30 PM",
+        "org_club": "Abhivyakti",
+        "duration": "3 hours + Rampwalk",
+        "instructions": [
+            "Creativity: The model should creatively represent the chosen god or goddess.",
+            "Essence: The costume and face painting should capture explicitly or implicitly portray the trait of the god or goddess chosen.",
+            "Costume: The costume should include the colours or style of greek drapery.",
+            "Face Painting: The level of skill and representation of elements in the face painting will be judged.",
+            "Novelty: The costume and face painting should have an artistic flair and uniqueness of the artist.",
+            "Tips for Creating a winning Entry: \n1. Accessories - Accessoriese your way to victory. \n2. Draping styles - Learn various ways to drape clothes and use multiple layer. \n3. Practise-Practice in the set time-frame before competing to help finish on time. \n4. Relevance-Addition of relevant modern-day scenarios can gain extra points."
+        ],
+        "judging_criteria": [
+            "Rules:\n1. This is a Face painting and Cosplay competition.\n2. Participants will work in Teams of 2: One person will be the model and the other will be the artist.\n3. The Theme of the event is Greek Gods and Goddesses.\n4. The competition is of 3 hours which includes the costume and face painting.\n5. Inappropriate costumes will be disqualified.\n6. Paints, materials and clothes will have to be brought by participants.\n7. The entire ensemble should be prepared on sight.\n8. A ramp walk of all the participants will be held.\n9. Participants will have to explain their concept to the judges."
+        ],
+        "coordinators": [{ "name": "Swamini Gawad", "pno": "7758095513" }],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536417/eventPage/header/cassiopia_kffqr2.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536421/eventPage/header/cassiopia_1_k0ovny.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700999/eventPage/main/cassiopia_sumwtc.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701000/eventPage/main/cassiopia_1_fc6auf.webp"
+        },
+        "prize_pool": "TBD"
     },
-    "prize_pool": "TBD"
-  },
-  {
-    "name": "Artful Alteration",
-    "tagline": "Paint the Past, Define the Future at Artful Alteration!",
-    "event_type": "Team",
-    "event_category": "Fine Arts",
-    "description": "Got the mad skills with brush and paints?  Get ready for an electrifying three-hour challenge!\n\n Gather your dream team of five to convert the blank canvas into an unparalleled masterpiece.\n\n But here is the twist – you will have to reimagine any legendary painting in a known art style.\n\nFor the first 30 minutes, the internet is allowed for getting inspiration from various resources, but remember – originality is your ace. Plagiarism is strictly not allowed!\n\nReady to unleash your creativity?",
-    "reg_fees": "500",
-    "max_participants": "5",
-    "min_participants": "5",
-    "event_date": "Nov 4, 2023",
-    "event_time": "10:00 AM",
-    "org_club": "Abhivyakti",
-    "duration": "3 hours",
-    "instructions": [
-      "Originality- The final product must be original and free of any plagiarism.",
-      "Creativity- The final piece must be creative and interesting and must beat the preconceived notions attached to the painting as well as the style.",
-      "Composition- The painting must be well composed and should look artistic rather than cluttered.",
-      "Technique- The painting style and technique must be visually appealing and should be upheld to a certain standard of professionalism.",
-      "Use of color- The color choices made must be accurate to a degree to both the original painting and the new art style.",
-      "Rules:\n*Participants must work in a group of 5.\n*Participants will be given a famous painting and an art style. They must then recreate the painting in the art style on a 1 x 2 meter canvas sheet.\n* The painting and the art style will be given to each team through randomized card picking. Changing or re-selecting your prompts is not allowed\n* Duration of the competition is 3 hours.\n*A 1 x 2 metre canvas sheet, acrylic paint and paintbrushes will be provided to each team.\n* The Internet is allowed for the first 30 minutes only for getting inspiration. Your time will start after the first 30 minutes are up.\n* Plagiarism is strictly not allowed.\n*Political or offensive submissions will be disqualified.\n* All team members must participate actively.\n* The painting must be completed within the allotted time."
-    ],
-    "coordinators": [{ "name": "Paridhi Bisht", "pno": "9910054931" }],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536414/eventPage/header/artfulalt_gfd0kk.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536416/eventPage/header/artfulalt_1_raz6h6.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700998/eventPage/main/artful_ovw8ii.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700999/eventPage/main/artful_1_euoqxk.webp"
+    {
+        "name": "Artful Alteration",
+        "tagline": "Paint the Past, Define the Future at Artful Alteration!",
+        "event_type": "Team",
+        "event_category": "Fine Arts",
+        "description": "Got the mad skills with brush and paints?  Get ready for an electrifying three-hour challenge!\n\n Gather your dream team of five to convert the blank canvas into an unparalleled masterpiece.\n\n But here is the twist – you will have to reimagine any legendary painting in a known art style.\n\nFor the first 30 minutes, the internet is allowed for getting inspiration from various resources, but remember – originality is your ace. Plagiarism is strictly not allowed!\n\nReady to unleash your creativity?",
+        "reg_fees": "500",
+        "max_participants": "5",
+        "min_participants": "5",
+        "event_date": "Nov 4, 2023",
+        "event_time": "10:00 AM",
+        "org_club": "Abhivyakti",
+        "duration": "3 hours",
+        "instructions": [
+            "Originality- The final product must be original and free of any plagiarism.",
+            "Creativity- The final piece must be creative and interesting and must beat the preconceived notions attached to the painting as well as the style.",
+            "Composition- The painting must be well composed and should look artistic rather than cluttered.",
+            "Technique- The painting style and technique must be visually appealing and should be upheld to a certain standard of professionalism.",
+            "Use of color- The color choices made must be accurate to a degree to both the original painting and the new art style."
+        ],
+        "judging_criteria": [
+            "Rules:\n*Participants must work in a group of 5.\n*Participants will be given a famous painting and an art style. They must then recreate the painting in the art style on a 1 x 2 meter canvas sheet.\n* The painting and the art style will be given to each team through randomized card picking. Changing or re-selecting your prompts is not allowed\n* Duration of the competition is 3 hours.\n*A 1 x 2 metre canvas sheet, acrylic paint and paintbrushes will be provided to each team.\n* The Internet is allowed for the first 30 minutes only for getting inspiration. Your time will start after the first 30 minutes are up.\n* Plagiarism is strictly not allowed.\n*Political or offensive submissions will be disqualified.\n* All team members must participate actively.\n* The painting must be completed within the allotted time."
+        ],
+        "coordinators": [{ "name": "Paridhi Bisht", "pno": "9910054931" }],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536414/eventPage/header/artfulalt_gfd0kk.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536416/eventPage/header/artfulalt_1_raz6h6.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700998/eventPage/main/artful_ovw8ii.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696700999/eventPage/main/artful_1_euoqxk.webp"
+        },
+        "prize_pool": "TBD"
     },
-    "prize_pool": "TBD"
-  },
-  {
-    "name": "Off The Wall",
-    "tagline": "Make Your Mark on the Nescafe Wall!",
-    "event_type": "Solo",
-    "event_category": "Fine Arts",
-    "description": "\"Off the Wall\" is an online mural design competition which enables participants to freely express their artistic abilities and have a chance at setting free their inner Michelangelo!\n\n The submission for the same will be done before the fest.\n\n The winning design will be featured on the Nescafe wall in the campus during the fest!",
-    "reg_fees": "200",
-    "max_participants": "1",
-    "min_participants": "1",
-    "event_date": "Oct 17, 2023",
-    "event_time": "11:59 PM",
-    "org_club": "Abhivyakti",
-    "duration": "Online competition submission till 17/10/2023.",
-    "instructions": [
-      "Originality- The final product must be original and free of any plagiarism.",
-      "Creativity- The artwork should be original and imaginative, with a unique concept and execution.",
-      "Composition- There should be quality of artistic composition and overall design.",
-      "Technical skill- The design should be well crafted, consistent styling and maintaining technical detail.",
-      "Use of color- The color and tone should be chosen wisely, maintaining balance of image within its space.",
-      "Rules:\n* Participants must work individually.\n* The work must be submitted in High quality png/pdf format.\n* Theme: Fantasy\n* The dimension of the artwork should be 3000 x 2200 pixels\n* The work can be handmade or digitally done.\n* Plagiarism is strictly not allowed.\n* The last date of submission for the event is October 17th, 2023.\n*Submissions and registration will be done through a Google form."
-    ],
-    "coordinators": [{ "name": "Ananya Aggrawal", "pno": "8429337823" }],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536413/eventPage/header/off_wall_cr04fq.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536424/eventPage/header/off_wall_1_r2wuiz.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701001/eventPage/main/otw_ndetmi.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701002/eventPage/main/otw_1_rvezab.webp"
+    {
+        "name": "Off The Wall",
+        "tagline": "Make Your Mark on the Nescafe Wall!",
+        "event_type": "Solo",
+        "event_category": "Fine Arts",
+        "description": "\"Off the Wall\" is an online mural design competition which enables participants to freely express their artistic abilities and have a chance at setting free their inner Michelangelo!\n\n The submission for the same will be done before the fest.\n\n The winning design will be featured on the Nescafe wall in the campus during the fest!",
+        "reg_fees": "200",
+        "max_participants": "1",
+        "min_participants": "1",
+        "event_date": "Oct 17, 2023",
+        "event_time": "11:59 PM",
+        "org_club": "Abhivyakti",
+        "duration": "Online competition submission till 17/10/2023.",
+        "instructions": [
+            "Originality- The final product must be original and free of any plagiarism.",
+            "Creativity- The artwork should be original and imaginative, with a unique concept and execution.",
+            "Composition- There should be quality of artistic composition and overall design.",
+            "Technical skill- The design should be well crafted, consistent styling and maintaining technical detail.",
+            "Use of color- The color and tone should be chosen wisely, maintaining balance of image within its space."
+        ],
+        "judging_criteria": [
+            "Rules:\n* Participants must work individually.\n* The work must be submitted in High quality png/pdf format.\n* Theme: Fantasy\n* The dimension of the artwork should be 3000 x 2200 pixels\n* The work can be handmade or digitally done.\n* Plagiarism is strictly not allowed.\n* The last date of submission for the event is October 17th, 2023.\n*Submissions and registration will be done through a Google form."
+        ],
+        "coordinators": [{ "name": "Ananya Aggrawal", "pno": "8429337823" }],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536413/eventPage/header/off_wall_cr04fq.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536424/eventPage/header/off_wall_1_r2wuiz.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701001/eventPage/main/otw_ndetmi.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701002/eventPage/main/otw_1_rvezab.webp"
+        },
+        "prize_pool": "8500"
     },
-    "prize_pool": "8500"
-  },
-  {
-    "name": "Shutter Stories",
-    "tagline": "Journey Through Pixels at the Shutter Stories Exhibition!",
-    "event_type": "Solo",
-    "event_category": "Photography",
-    "description": "Get ready to be captivated by the creativity of our college community!\n\n Our upcoming photo exhibition will showcase a diverse range of visually stunning and thought-provoking images captured by students, faculty, and staff. From breathtaking landscapes to candid moments, this exhibit promises to be a celebration of talent and artistic expression. \n\nJoin us for an immersive visual experience that reflects the spirit and creativity of our college community.",
-    "reg_fees": "0",
-    "max_participants": "0",
-    "min_participants": "0",
-    "event_date": "Nov 3, 2023",
-    "event_time": "12:00:00 AM",
-    "org_club": "Shutter Box",
-    "duration": "full day",
-    "instructions": ["no guidelines"],
-    "coordinators": [{ "name": "Pulivarthi Mahesh", "pno": "9392816922" }],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536444/eventPage/header/peb_xmrn6j.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536440/eventPage/header/peb_1_f4o5zk.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701010/eventPage/main/photoexb_mysq7d.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701010/eventPage/main/photoexb_1_bhqfm7.webp"
+    {
+        "name": "Shutter Stories",
+        "tagline": "Journey Through Pixels at the Shutter Stories Exhibition!",
+        "event_type": "Solo",
+        "event_category": "Photography",
+        "description": "Get ready to be captivated by the creativity of our college community!\n\n Our upcoming photo exhibition will showcase a diverse range of visually stunning and thought-provoking images captured by students, faculty, and staff. From breathtaking landscapes to candid moments, this exhibit promises to be a celebration of talent and artistic expression. \n\nJoin us for an immersive visual experience that reflects the spirit and creativity of our college community.",
+        "reg_fees": "0",
+        "max_participants": "0",
+        "min_participants": "0",
+        "event_date": "Nov 3, 2023",
+        "event_time": "12:00:00 AM",
+        "org_club": "Shutter Box",
+        "duration": "full day",
+        "instructions": ["no guidelines"],
+        "coordinators": [{ "name": "Pulivarthi Mahesh", "pno": "9392816922" }],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536444/eventPage/header/peb_xmrn6j.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536440/eventPage/header/peb_1_f4o5zk.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701010/eventPage/main/photoexb_mysq7d.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701010/eventPage/main/photoexb_1_bhqfm7.webp"
+        },
+        "prize_pool": "TBD"
     },
-    "prize_pool": "TBD"
-  },
-  {
-    "name": "Canon Workshop",
-    "tagline": "Shutter Speed to Creative Vision with Canon",
-    "event_type": "Solo",
-    "event_category": "Photography",
-    "description": "Join us for a captivating Canon Workshop at our cultural festival!\n\n Discover the art of photography as we explore Canon's cutting-edge technology and techniques.\n\n Unlock your creative potential, from capturing stunning moments to unleashing your inner artist.\n\n Don't miss this opportunity to sharpen your photography skills and ignite your passion for visual storytelling with Canon.",
-    "reg_fees": "0",
-    "max_participants": "200",
-    "min_participants": "50",
-    "event_date": "Nov 4, 2023",
-    "event_time": "4:00 PM",
-    "org_club": "Shutter Box",
-    "duration": "2 and half hours",
-    "instructions": [
-      "Be open to new learning experiences and follow the instructions given during the workshop.",
-      "Don't hesitate to ask questions and engage in discussions with other participants.",
-      "Be mindful of other participants' space and experience. If you wish to photograph other attendees, always ask for their permission first.",
-      "Take the opportunity to connect with other photography enthusiasts and professionals. You can learn from their experiences and even collaborate on future projects.",
-      "After the workshop, reflect on your learning experience. Think about how you can apply the skills and techniques learned during the workshop in your future photography projects.",
-      "Before attending the workshop, prepare a list of questions you'd like answered. If there are specific topics you're interested in, make sure to note them down. The more prepared you are, the more you'll get out of the workshop.",
-      "If you're bringing your own camera or other equipment, make sure you know how to operate them. This way, you can focus on learning new skills and techniques during the workshop, rather than figuring out how to use your equipment.",
-      "The instructors at the workshop are experts in their field. Make sure to follow their advice and practice the techniques they demonstrate. This will help you get the most out of the workshop.",
-      "If there are feedback sessions during the workshop, make sure to participate. This is a great opportunity to receive constructive criticism on your work and learn from others' perspective.",
-      "Identify specific techniques or skills you want to improve during the workshop. Having clear goals will help you stay focused and motivated throughout the event.",
-      "The workshop will likely follow a planned schedule. Be punctual and respect the timing of each session to ensure a smooth and productive workshop experience.",
-      "If there's something you don't understand, don't hesitate to ask questions. The instructors are there to help you learn and grow."
-    ],
-    "coordinators": [{ "name": "M Hemanth", "pno": "7995232738" }],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536437/eventPage/header/cannon_b6snpt.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536442/eventPage/header/cannon_1_xutugc.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701009/eventPage/main/cw_iohgis.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701009/eventPage/main/cw__aegcyf.webp"
+    {
+        "name": "Canon Workshop",
+        "tagline": "Shutter Speed to Creative Vision with Canon",
+        "event_type": "Solo",
+        "event_category": "Photography",
+        "description": "Join us for a captivating Canon Workshop at our cultural festival!\n\n Discover the art of photography as we explore Canon's cutting-edge technology and techniques.\n\n Unlock your creative potential, from capturing stunning moments to unleashing your inner artist.\n\n Don't miss this opportunity to sharpen your photography skills and ignite your passion for visual storytelling with Canon.",
+        "reg_fees": "0",
+        "max_participants": "200",
+        "min_participants": "50",
+        "event_date": "Nov 4, 2023",
+        "event_time": "4:00 PM",
+        "org_club": "Shutter Box",
+        "duration": "2 and half hours",
+        "instructions": [
+            "Be open to new learning experiences and follow the instructions given during the workshop.",
+            "Don't hesitate to ask questions and engage in discussions with other participants.",
+            "Be mindful of other participants' space and experience. If you wish to photograph other attendees, always ask for their permission first.",
+            "Take the opportunity to connect with other photography enthusiasts and professionals. You can learn from their experiences and even collaborate on future projects.",
+            "After the workshop, reflect on your learning experience. Think about how you can apply the skills and techniques learned during the workshop in your future photography projects.",
+            "Before attending the workshop, prepare a list of questions you'd like answered. If there are specific topics you're interested in, make sure to note them down. The more prepared you are, the more you'll get out of the workshop.",
+            "If you're bringing your own camera or other equipment, make sure you know how to operate them. This way, you can focus on learning new skills and techniques during the workshop, rather than figuring out how to use your equipment.",
+            "The instructors at the workshop are experts in their field. Make sure to follow their advice and practice the techniques they demonstrate. This will help you get the most out of the workshop.",
+            "If there are feedback sessions during the workshop, make sure to participate. This is a great opportunity to receive constructive criticism on your work and learn from others' perspective.",
+            "Identify specific techniques or skills you want to improve during the workshop. Having clear goals will help you stay focused and motivated throughout the event.",
+            "The workshop will likely follow a planned schedule. Be punctual and respect the timing of each session to ensure a smooth and productive workshop experience.",
+            "If there's something you don't understand, don't hesitate to ask questions. The instructors are there to help you learn and grow."
+        ],
+        "coordinators": [{ "name": "M Hemanth", "pno": "7995232738" }],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536437/eventPage/header/cannon_b6snpt.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696536442/eventPage/header/cannon_1_xutugc.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701009/eventPage/main/cw_iohgis.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696701009/eventPage/main/cw__aegcyf.webp"
+        },
+        "prize_pool": "TBD"
     },
-    "prize_pool": "TBD"
-  },
-  {
-    "name": "Micmagic booth",
-    "tagline": "Our mic, your magic!",
-    "event_type": "Solo",
-    "event_category": "Music",
-    "description": "Step into a world where every voice is a star and every note is pure magic. Stop by at the MicMagic booth and unleash your inner superstar! Sing your heart out, vibe with your friends and create great memories. It's your stage, your song, and your moment to shine! Whether you're a karaoke enthusiast or a shy shower singer, this event is your chance to become the star.",
-    "reg_fees": "0",
-    "max_participants": "60",
-    "min_participants": "10",
-    "event_date": "Nov 3, 2023",
-    "event_time": "11:00 AM",
-    "org_club": "Saaz",
-    "duration": "3 Hours",
-    "instructions": [
-      "Take Turns. Do not put several songs in a row for yourself.",
-      "Avoid making negative comments about other singers' performances.",
-      "Avoid screaming or shouting into the microphone.",
-      "Have your song selection ready before your turn.",
-      "Check the lyrics screen for cues and timing.",
-      "Handle mic with care. Don't drop or mishandle the mic.",
-      "Do not block the view of the karaoke screen for the singer.",
-      "Avoid having loud conservations that distract the singer or drown out the backing track.",
-      "Make sure to have fun!!!!"
-    ],
-    "coordinators": [
-      {
-        "name": "Shreya Varshney",
-        "pno": "9897660046"
-      }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765562/saaz/header/frame-276-65229035cf03a_yefji7.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765547/saaz/header/frame-344-6522903ec55ee_izyrmm.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765474/saaz/mian/frame-303-652290ecb73ed_ve4hmq.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765484/saaz/mian/frame-315-652290f456a6a_r5pj3l.webp"
+    {
+        "name": "Micmagic booth",
+        "tagline": "Our mic, your magic!",
+        "event_type": "Solo",
+        "event_category": "Music",
+        "description": "Step into a world where every voice is a star and every note is pure magic. Stop by at the MicMagic booth and unleash your inner superstar! Sing your heart out, vibe with your friends and create great memories. It's your stage, your song, and your moment to shine! Whether you're a karaoke enthusiast or a shy shower singer, this event is your chance to become the star.",
+        "reg_fees": "0",
+        "max_participants": "60",
+        "min_participants": "10",
+        "event_date": "Nov 3, 2023",
+        "event_time": "11:00 AM",
+        "org_club": "Saaz",
+        "duration": "3 Hours",
+        "instructions": [
+            "Take Turns. Do not put several songs in a row for yourself.",
+            "Avoid making negative comments about other singers' performances.",
+            "Avoid screaming or shouting into the microphone.",
+            "Have your song selection ready before your turn.",
+            "Check the lyrics screen for cues and timing.",
+            "Handle mic with care. Don't drop or mishandle the mic.",
+            "Do not block the view of the karaoke screen for the singer.",
+            "Avoid having loud conservations that distract the singer or drown out the backing track.",
+            "Make sure to have fun!!!!"
+        ],
+        "judging_criteria": [],
+        "coordinators": [
+            {
+                "name": "Shreya Varshney",
+                "pno": "9897660046"
+            }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765562/saaz/header/frame-276-65229035cf03a_yefji7.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765547/saaz/header/frame-344-6522903ec55ee_izyrmm.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765474/saaz/mian/frame-303-652290ecb73ed_ve4hmq.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765484/saaz/mian/frame-315-652290f456a6a_r5pj3l.webp"
+        },
+        "prize_pool": "0"
     },
-    "prize_pool": "0"
-  },
-  {
-    "name": "Club shop",
-    "tagline": "Where melodies meet Style",
-    "event_type": "Solo",
-    "event_category": "Music",
-    "description": "Goodies and merch designed by the people of Saaz being sold for anyone who wishes to take a memory of Saaz with them.",
-    "reg_fees": "Depends on the items",
-    "max_participants": "100",
-    "min_participants": "10",
-    "event_date": "Nov 3, 2023",
-    "event_time": "9:00 AM",
-    "org_club": "Saaz",
-    "duration": "3 days",
-    "instructions": ["Pay minimal amounts and get goodies."],
-    "coordinators": [
-      {
-        "name": "Aiman Aslam",
-        "pno": "9004934919"
-      }
-    ],
-    "images": {
-      "headerDesktop": "",
-      "headerPhone": "",
-      "mainDesktop": "",
-      "mainPhone": ""
+    {
+        "name": "Beatbox Battle",
+        "tagline": "Let the beat drop and the battle begin!",
+        "event_type": "Solo",
+        "event_category": "Music",
+        "description": "All registered participants will have to give prelims of about 1.5-2 minutes. Selected participants will have to pay Rs. 300/- as registration fee. They will give their solo performances of 2 minutes and top 4 among these will move to the quarter finals, Semi Finals and Final round where participants will face each other in a fierce battle.",
+        "reg_fees": "300",
+        "max_participants": "35",
+        "min_participants": "25",
+        "event_date": "Nov 4, 2023",
+        "event_time": "11:00 AM",
+        "org_club": "Saaz",
+        "duration": "2 hours approx.",
+        "instructions": [
+            "1. 25-35 Participants ",
+            "2. Battle order:",
+            "Eliminations ",
+            "Quarterfinals",
+            "Semifinals ",
+            "Finals ",
+            "3. Round Times:",
+            "2 minutes solo round",
+            "2 * 90 seconds for solo battle round."
+        ],
+        "judging_criteria": [],
+        "coordinators": [
+            {
+                "name": "Utkarsh Raj",
+                "pno": "9508566947"
+            }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765564/saaz/header/frame-277-65229038643be_un8axz.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765548/saaz/header/frame-345-6522903f4bac4_gcwrkc.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765476/saaz/mian/frame-306-652290f0771da_zjp191.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765487/saaz/mian/frame-318-652290f62f9ef_vhlkud.webp"
+        },
+        "prize_pool": "15,000"
     },
-    "prize_pool": "0"
-  },
-  {
-    "name": "Beatbox Battle",
-    "tagline": "Let the beat drop and the battle begin!",
-    "event_type": "Solo",
-    "event_category": "Music",
-    "description": "All registered participants will have to give prelims of about 1.5-2 minutes. Selected participants will have to pay Rs. 300/- as registration fee. They will give their solo performances of 2 minutes and top 4 among these will move to the quarter finals, Semi Finals and Final round where participants will face each other in a fierce battle.",
-    "reg_fees": "300",
-    "max_participants": "35",
-    "min_participants": "25",
-    "event_date": "Nov 4, 2023",
-    "event_time": "11:00 AM",
-    "org_club": "Saaz",
-    "duration": "2 hours approx.",
-    "instructions": [
-      "1. 25-35 Participants ",
-      "2. Battle order:",
-      "Eliminations ",
-      "Quarterfinals",
-      "Semifinals ",
-      "Finals ",
-      "3. Round Times:",
-      "2 minutes solo round",
-      "2 * 90 seconds for solo battle round."
-    ],
-    "coordinators": [
-      {
-        "name": "Utkarsh Raj",
-        "pno": "9508566947"
-      }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765564/saaz/header/frame-277-65229038643be_un8axz.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765548/saaz/header/frame-345-6522903f4bac4_gcwrkc.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765476/saaz/mian/frame-306-652290f0771da_zjp191.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765487/saaz/mian/frame-318-652290f62f9ef_vhlkud.webp"
+    {
+        "name": "Clash of melodies",
+        "tagline": "Where Rythm meets competition",
+        "event_type": "Solo",
+        "event_category": "Music",
+        "description": "Are you ready to take center stage and let your voice soar? Get ready for a musical showdown like no other as Clash of Melodies is here for an unforgettable solo singing festival! This is your chance to shine as a soloist, captivating the audience with your melodic prowess and unique artistry. Bringing you a celebration of solo singing talent where every note, every lyric, and every emotion come together to create breathtaking performances. Whether you're a seasoned vocalist or a rising star, this festival is your platform to showcase your vocal abilities, creativity, and stage presence.",
+        "reg_fees": "300",
+        "max_participants": "60",
+        "min_participants": "40",
+        "event_date": "Nov 3, 2023",
+        "event_time": "10:00 AM",
+        "org_club": "Saaz",
+        "duration": "3 hours",
+        "instructions": [
+            "Open to solo singers of all ages.",
+            "No duets or groups shall be entertained. Participants can, however, have a maximum of 2 instrumentalists if they do wish so.",
+            "Participants can choose any genre of music.",
+            "Pre-registration is required for participation. The contestants must qualify in the preliminary round to continue further.",
+            "After qualification, the participants need to pay a registration fees of Rs. 300/- to participate in the following rounds.",
+            "Each participant is allowed a maximum performance time of 3 minutes.",
+            "Time will be strictly enforced. Setup and soundcheck shall be done beforehand.",
+            "Participants are responsible for providing their own backing tracks or live accompaniment, if any.",
+            "Performances will be judged on vocal skill, stage presence, originality, and audience engagement.",
+            "The event schedule, including performance order, will be shared in advance."
+        ],
+        "judging_criteria": [],
+        "coordinators": [
+            {
+                "name": "Divyanshi Dhiman",
+                "pno": "9717955760"
+            }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765556/saaz/header/frame-272-6522902de720d_euanar.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765567/saaz/header/frame-339-65229039d651d_zt7tbx.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765461/saaz/mian/frame-302-652290e971b61_usqo5s.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765482/saaz/mian/frame-314-652290f2d1140_ctgtwi.webp"
+        },
+        "prize_pool": "15000"
     },
-    "prize_pool": "15,000"
-  },
-  {
-    "name": "Clash of melodies",
-    "tagline": "Where Rythm meets competition",
-    "event_type": "Solo",
-    "event_category": "Music",
-    "description": "Are you ready to take center stage and let your voice soar? Get ready for a musical showdown like no other as Clash of Melodies is here for an unforgettable solo singing festival! This is your chance to shine as a soloist, captivating the audience with your melodic prowess and unique artistry. Bringing you a celebration of solo singing talent where every note, every lyric, and every emotion come together to create breathtaking performances. Whether you're a seasoned vocalist or a rising star, this festival is your platform to showcase your vocal abilities, creativity, and stage presence.",
-    "reg_fees": "300",
-    "max_participants": "60",
-    "min_participants": "40",
-    "event_date": "Nov 3, 2023",
-    "event_time": "10:00 AM",
-    "org_club": "Saaz",
-    "duration": "3 hours",
-    "instructions": [
-      "Open to solo singers of all ages.",
-      "No duets or groups shall be entertained. Participants can, however, have a maximum of 2 instrumentalists if they do wish so.",
-      "Participants can choose any genre of music.",
-      "Pre-registration is required for participation. The contestants must qualify in the preliminary round to continue further.",
-      "After qualification, the participants need to pay a registration fees of Rs. 300/- to participate in the following rounds.",
-      "Each participant is allowed a maximum performance time of 3 minutes.",
-      "Time will be strictly enforced. Setup and soundcheck shall be done beforehand.",
-      "Participants are responsible for providing their own backing tracks or live accompaniment, if any.",
-      "Performances will be judged on vocal skill, stage presence, originality, and audience engagement.",
-      "The event schedule, including performance order, will be shared in advance."
-    ],
-    "coordinators": [
-      {
-        "name": "Divyanshi Dhiman",
-        "pno": "9717955760"
-      }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765556/saaz/header/frame-272-6522902de720d_euanar.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765567/saaz/header/frame-339-65229039d651d_zt7tbx.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765461/saaz/mian/frame-302-652290e971b61_usqo5s.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765482/saaz/mian/frame-314-652290f2d1140_ctgtwi.webp"
+    {
+        "name": "Showcase",
+        "tagline": "Saaz Ke Suro Ka Jashn",
+        "event_type": "Team",
+        "event_category": "Music",
+        "description": "Prepare to be serenaded by the melodious tunes and soulful harmonies of our talented musicians, as they showcase their exceptional skills and passion for music. From classical melodies to contemporary hits, Saaz promises a diverse repertoire that will captivate your senses. Don't miss this opportunity to witness the magic of Music Club Saaz at IIITDMJ. Mark your calendars, invite your friends and family, and join us for a musical journey like no other. Get ready to be moved by the power of music!",
+        "reg_fees": "0",
+        "max_participants": "40",
+        "min_participants": "10",
+        "event_date": "Nov 3, 2023",
+        "event_time": "6:00 PM",
+        "org_club": "Saaz",
+        "duration": "2 hours",
+        "instructions": ["It consists of performances of Saaz Club Members"],
+        "judging_criteria": [],
+        "coordinators": [
+            {
+                "name": "Kaustubh Upadhyay",
+                "pno": "6260595371"
+            }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765559/saaz/header/frame-274-65229031acceb_khcioa.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765543/saaz/header/frame-342-6522903c8e697_lxkbfa.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765456/saaz/mian/frame-297-652290e657d5c_ugqve9.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765478/saaz/mian/frame-309-652290f017058_dtc1nz.webp"
+        },
+        "prize_pool": "0"
     },
-    "prize_pool": "15000"
-  },
-  {
-    "name": "Showcase",
-    "tagline": "Saaz Ke Suro Ka Jashn",
-    "event_type": "Team",
-    "event_category": "Music",
-    "description": "Prepare to be serenaded by the melodious tunes and soulful harmonies of our talented musicians, as they showcase their exceptional skills and passion for music. From classical melodies to contemporary hits, Saaz promises a diverse repertoire that will captivate your senses. Don't miss this opportunity to witness the magic of Music Club Saaz at IIITDMJ. Mark your calendars, invite your friends and family, and join us for a musical journey like no other. Get ready to be moved by the power of music!",
-    "reg_fees": "0",
-    "max_participants": "40",
-    "min_participants": "10",
-    "event_date": "Nov 3, 2023",
-    "event_time": "6:00 PM",
-    "org_club": "Saaz",
-    "duration": "2 hours",
-    "instructions": ["It consists of performances of Saaz Club Members"],
-    "coordinators": [
-      {
-        "name": "Kaustubh Upadhyay",
-        "pno": "6260595371"
-      }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765559/saaz/header/frame-274-65229031acceb_khcioa.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765543/saaz/header/frame-342-6522903c8e697_lxkbfa.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765456/saaz/mian/frame-297-652290e657d5c_ugqve9.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765478/saaz/mian/frame-309-652290f017058_dtc1nz.webp"
+    {
+        "name": "Dard-e-disco",
+        "tagline": "Lights, Camera, Quizzing !",
+        "event_type": "Team",
+        "event_category": "Quizzing",
+        "description": "This event is all about celebrating the rich and vibrant world of Indian cinema and its music. We plan to engage our participants with a quiz that covers a broad spectrum of Bollywood. The quiz questions will challenge participants' knowledge of iconic movie songs, legendary musicians, and their glamorous music. They'll have to identify hit songs, match them to their respective movies, and relive the magic of these timeless tunes. Our goal is to make this event inclusive and entertaining for both avid Bollywood fans and music listeners. We have exciting prizes and Saaz merch in store for the participants!",
+        "reg_fees": "10",
+        "max_participants": "100",
+        "min_participants": "5",
+        "event_date": "Nov 3, 2023",
+        "event_time": "02:00 PM",
+        "org_club": "Saaz",
+        "duration": "Full day for 3 days",
+        "instructions": [
+            " No media will be used during the event to maintain a level playing field.",
+            "Participants will be organized into groups of four. The order of answering will be determined by a buzzer system. The first person to buzz in gets the opportunity to answer the question. If someone manages to answer all 20 questions correctly, they will receive a token or a prize of similar value. Additionally, a token or prize will also be awarded to participants who correctly answer at least 70% of the questions in their set.",
+            "Group formation will be totally random unless the contestants come with their own group of 4."
+        ],
+        "judging_criteria": [],
+        "coordinators": [
+            {
+                "name": "Aiman Aslam",
+                "pno": "9004934919"
+            }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765561/saaz/header/frame-275-652290346a8c1_piybn8.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765545/saaz/header/frame-343-6522903d15bc5_oitp3p.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765459/saaz/mian/frame-300-652290e96a868_kic0gj.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765481/saaz/mian/frame-312-652290f248814_e1ohaz.webp"
+        },
+        "prize_pool": "Tokens and Merch"
     },
-    "prize_pool": "0"
-  },
-  {
-    "name": "Dard-e-disco",
-    "tagline": "Lights, Camera, Quizzing !",
-    "event_type": "Team",
-    "event_category": "Quizzing",
-    "description": "This event is all about celebrating the rich and vibrant world of Indian cinema and its music. We plan to engage our participants with a quiz that covers a broad spectrum of Bollywood. The quiz questions will challenge participants' knowledge of iconic movie songs, legendary musicians, and their glamorous music. They'll have to identify hit songs, match them to their respective movies, and relive the magic of these timeless tunes. Our goal is to make this event inclusive and entertaining for both avid Bollywood fans and music listeners. We have exciting prizes and Saaz merch in store for the participants!",
-    "reg_fees": "10",
-    "max_participants": "100",
-    "min_participants": "5",
-    "event_date": "Nov 3, 2023",
-    "event_time": "02:00 PM",
-    "org_club": "Saaz",
-    "duration": "Full day for 3 days",
-    "instructions": [
-      " No media will be used during the event to maintain a level playing field.",
-      "Participants will be organized into groups of four. The order of answering will be determined by a buzzer system. The first person to buzz in gets the opportunity to answer the question. If someone manages to answer all 20 questions correctly, they will receive a token or a prize of similar value. Additionally, a token or prize will also be awarded to participants who correctly answer at least 70% of the questions in their set.",
-      "Group formation will be totally random unless the contestants come with their own group of 4."
-    ],
-    "coordinators": [
-      {
-        "name": "Aiman Aslam",
-        "pno": "9004934919"
-      }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765561/saaz/header/frame-275-652290346a8c1_piybn8.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765545/saaz/header/frame-343-6522903d15bc5_oitp3p.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765459/saaz/mian/frame-300-652290e96a868_kic0gj.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765481/saaz/mian/frame-312-652290f248814_e1ohaz.webp"
-    },
-    "prize_pool": "Tokens and Merch"
-  },
-  {
-    "name": "Symphony Cascade",
-    "tagline": "Where music speaks without words!",
-    "event_type": "Team",
-    "event_category": "Music",
-    "description": "Prepare to be mesmerised by the sheer artistry of musical instruments at Tarang! We proudly present Instrumental Harmony, where instrumentalists from near and far will converge to showcase their exceptional talent in an instrumental competition like no other",
-    "reg_fees": "300",
-    "max_participants": "35",
-    "min_participants": "25",
-    "event_date": "Nov 5, 2023",
-    "event_time": "10:00 AM",
-    "org_club": "Saaz",
-    "duration": "3 Hours ",
-    "instructions": [
-      "Every kind of musical instrument is allowed",
+    {
+        "name": "Symphony Cascade",
+        "tagline": "Where music speaks without words!",
+        "event_type": "Team",
+        "event_category": "Music",
+        "description": "Prepare to be mesmerised by the sheer artistry of musical instruments at Tarang! We proudly present Instrumental Harmony, where instrumentalists from near and far will converge to showcase their exceptional talent in an instrumental competition like no other",
+        "reg_fees": "300",
+        "max_participants": "35",
+        "min_participants": "25",
+        "event_date": "Nov 5, 2023",
+        "event_time": "10:00 AM",
+        "org_club": "Saaz",
+        "duration": "3 Hours ",
+        "instructions": [
+            "Every kind of musical instrument is allowed",
 
-      "You can either perform in a group or as an individual ",
-      "Groups can contain a maximum of 4 members",
-      "A preliminary round will be held, a video(2-3 min long) is to be submitted for judgement ",
-      "The registration fee is 300 Rs. / instrumentalist"
-    ],
-    "coordinators": [
-      {
-        "name": "Arnav Puri",
-        "pno": "9001989979"
-      }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765554/saaz/header/frame-271-6522902df1ebc_kf8aex.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765542/saaz/header/frame-341-6522903b720dc_jsvlcs.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765458/saaz/mian/frame-299-652290e686ac9_bcwxan.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765479/saaz/mian/frame-311-652290f16f601_lpqqyx.webp"
+            "You can either perform in a group or as an individual ",
+            "Groups can contain a maximum of 4 members",
+            "The performance duration for a solo performance is a maximum of 3 minutes whereas for a group performance it is 5 minutes ",
+            "A preliminary round will be held, a video(2-3 min long) is to be submitted for judgement ",
+            "The preliminary round is free of charges, After qualification, you will have to pay the registration fees to participate in the following rounds.",
+            "The selected participants will be called to perform on the stage in IIITDMJ Campus."
+        ],
+        "coordinators": [
+            {
+                "name": "Arnav Puri",
+                "pno": "9001989979"
+            }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765554/saaz/header/frame-271-6522902df1ebc_kf8aex.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765542/saaz/header/frame-341-6522903b720dc_jsvlcs.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765458/saaz/mian/frame-299-652290e686ac9_bcwxan.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765479/saaz/mian/frame-311-652290f16f601_lpqqyx.webp"
+        },
+        "prize_pool": "15000"
     },
-    "prize_pool": "15000"
-  },
-  {
-    "name": "KURUKSHETRA",
-    "tagline": "KURUKSHETRA-YE YUDHH HAI SURO KA",
-    "event_type": "Team",
-    "event_category": "Music",
-    "description": "The Mahabharata featured warriors with diverse skills and abilities, and so will our KURUKSHETRA. Bands of all genres – from rock to classical, folk to hip-hop – will converge on this grand arena to showcase their musical talent. Expect the clash of styles and the fusion of genres, just like the complex alliances and rivalries in the Mahabharata.",
-    "reg_fees": "2000",
-    "max_participants": "70",
-    "min_participants": "30",
-    "event_date": "Nov 5, 2023",
-    "event_time": "5:00 PM",
-    "org_club": "Saaz",
-    "duration": "3 hours Approx.",
-    "instructions": [
-      "You need at least one singer on stage.",
-      "Your performance video for the first round should be no longer than 3 minutes, and it must be a live recording.",
-      "You can't use backing tracks",
-      "team size should consist a minimum of 4 to a maximum of 10 participant.",
-      "If there are multiple singers on stage, they shouldn't outnumber the total participants.",
-      "You need at least one string player, one percussionist, and one keyboard player."
-    ],
-    "coordinators": [
-      {
-        "name": "Virag Jain",
-        "pno": "8421345464"
-      }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765553/saaz/header/image-7-652290416f123_geoy3i.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765566/saaz/header/frame-338-652290387e621_iltccv.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765456/saaz/mian/image-10-652290f8dfa43_v6spqa.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765454/saaz/mian/frame-308-652290f68a6cb_tegvdx.webp"
+    {
+        "name": "KURUKSHETRA",
+        "tagline": "KURUKSHETRA-YE YUDHH HAI SURO KA",
+        "event_type": "Team",
+        "event_category": "Music",
+        "description": "The Mahabharata featured warriors with diverse skills and abilities, and so will our KURUKSHETRA. Bands of all genres – from rock to classical, folk to hip-hop – will converge on this grand arena to showcase their musical talent. Expect the clash of styles and the fusion of genres, just like the complex alliances and rivalries in the Mahabharata.",
+        "reg_fees": "2000",
+        "max_participants": "70",
+        "min_participants": "30",
+        "event_date": "Nov 5, 2023",
+        "event_time": "5:00 PM",
+        "org_club": "Saaz",
+        "duration": "3 hours Approx.",
+        "instructions": [
+            "You need at least one singer on stage.",
+            "Your performance video for the first round should be no longer than 3 minutes, and it must be a live recording.",
+            "You can't use backing tracks",
+            "team size should consist a minimum of 4 to a maximum of 10 participant.",
+            "If there are multiple singers on stage, they shouldn't outnumber the total participants.",
+            "You need at least one string player, one percussionist, and one keyboard player.",
+            "Participants can bring their own instruments.",
+            "Participants can perform in any genre."
+        ],
+        "judging_criteria": [],
+        "coordinators": [
+            {
+                "name": "Virag Jain",
+                "pno": "8421345464"
+            }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765553/saaz/header/image-7-652290416f123_geoy3i.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765566/saaz/header/frame-338-652290387e621_iltccv.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765456/saaz/mian/image-10-652290f8dfa43_v6spqa.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765454/saaz/mian/frame-308-652290f68a6cb_tegvdx.webp"
+        },
+        "prize_pool": "60,000"
     },
-    "prize_pool": "60,000"
-  },
-  {
-    "name": "Drop The Mic",
-    "tagline": "It's an open mic, come and drop it!",
-    "event_type": "Team",
-    "event_category": "Informal",
-    "description": "If you've got killer poems and stories to share, mad rap skills, stand-up, oor just a burning desire to rock the stage, this is your moment! Raps? Stand Ups ? Stories ? Think you got it? ",
-    "reg_fees": 0,
-    "max_participants": 70,
-    "min_participants": 5,
-    "event_date": "Nov 4, 2023",
-    "event_time": "5:00 PM",
-    "org_club": "Samvaad",
-    "duration": "3 hours approx.",
-    "instructions": [
-      "As long as you are not singing..there are NO RULES!!(no profanity of course!)"
-    ],
-    "coordinators": [
-      {
-        "name": "Mettu Varun Aditya",
-        "pno": 7013584990
-      }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766031/samvad/header/Frame_205_p1k0fn.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766023/samvad/header/Frame_198_rrbair.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765290/samvad/main/frame-219-652292e3ac0d5_dijf0k.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765316/samvad/main/frame-219-1-652292e425a82_vrmoea.webp"
+    {
+        "name": "Drop The Mic",
+        "tagline": "It's an open mic, come and drop it!",
+        "event_type": "Team",
+        "event_category": "Informal",
+        "description": "If you've got killer poems and stories to share, mad rap skills, stand-up, oor just a burning desire to rock the stage, this is your moment! Raps? Stand Ups ? Stories ? Think you got it? ",
+        "reg_fees": 0,
+        "max_participants": 70,
+        "min_participants": 5,
+        "event_date": "Nov 4, 2023",
+        "event_time": "5:00 PM",
+        "org_club": "Samvaad",
+        "duration": "3 hours approx.",
+        "instructions": [
+            "As long as you are not singing..there are NO RULES!!(no profanity of course!)"
+        ],
+        "coordinators": [
+            {
+                "name": "Mettu Varun Aditya",
+                "pno": 7013584990
+            }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641460/Final%20Event%20images/banner/Drop_the_mic-banner_lt7zld.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641460/Final%20Event%20images/banner/Drop_the_mic-banner_lt7zld.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641423/Final%20Event%20images/card/Drop_the_mic_card_ks5f3n.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641423/Final%20Event%20images/card/Drop_the_mic_card_ks5f3n.webp"
+        },
+        "prize_pool": 0
     },
-    "prize_pool": 0
-  },
-  {
-    "name": "Quizzeria: General",
-    "tagline": "Quizzeria: General - Catch 'em All in the World of Words!",
-    "event_type": "Team",
-    "event_category": "Quizzing",
-    "description": "A fun event where we will ask the questions. Can you catch 'em all?",
-    "reg_fees": 200,
-    "max_participants": 70,
-    "min_participants": 5,
-    "event_date": "Nov 3, 2023",
-    "event_time": "10:30 AM",
-    "org_club": "Samvaad",
-    "duration": "1.5 hours approx.",
-    "instructions": [
-      "Teams of max 3 members will be allowed, based on prior registration and feepayment.",
-      "Multiple different phases of the quiz : Textual, Visual and maybe Auditory",
-      "Different phases can have different scoring system.",
-      "Quiz will follow standard rules of Direct, Pounce, Pass and will be explained at the start or whenever necessary"
-    ],
-    "coordinators": [
-      {
-        "name": "Advait Manke",
-        "pno": 9340614865
-      }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766034/samvad/header/Frame_207_a7ijvb.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766050/samvad/header/Frame_199_tuetvs.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765291/samvad/main/frame-220-652292e5dd490_mkytfs.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765298/samvad/main/frame-231-652292ecf0117_oa9jum.webp"
+    {
+        "name": "Quizzeria: General",
+        "tagline": "Quizzeria: General - Catch 'em All in the World of Words!",
+        "event_type": "Team",
+        "event_category": "Quizzing",
+        "description": "A fun event where we will ask the questions. Can you catch 'em all?",
+        "reg_fees": 200,
+        "max_participants": 70,
+        "min_participants": 5,
+        "event_date": "Nov 3, 2023",
+        "event_time": "10:30 AM",
+        "org_club": "Samvaad",
+        "duration": "1.5 hours approx.",
+        "instructions": [
+            "Teams of max 3 members will be allowed, based on prior registration and feepayment.",
+            "Multiple different phases of the quiz : Textual, Visual and maybe Auditory",
+            "Different phases can have different scoring system.",
+            "Quiz will follow standard rules of Direct, Pounce, Pass and will be explained at the start or whenever necessary"
+        ],
+        "coordinators": [
+            {
+                "name": "Advait Manke",
+                "pno": 9340614865
+            }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641457/Final%20Event%20images/banner/Quizzeria_General_banner_jswcoh.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641457/Final%20Event%20images/banner/Quizzeria_General_banner_jswcoh.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765291/samvad/main/frame-220-652292e5dd490_mkytfs.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765298/samvad/main/frame-231-652292ecf0117_oa9jum.webp"
+        },
+        "prize_pool": "11,500"
     },
-    "prize_pool": "11,500"
-  },
-  {
-    "name": "Quizzeria : SPENT",
-    "tagline": "Quizzeria: SPENT - Where Words Bridge the Gap Between Stadiums and Silver Screens!",
-    "event_type": "Team",
-    "event_category": "Quizzing",
-    "description": "Sports and entertainment quiz. Come and test your knowledge of best of worlds.",
-    "reg_fees": 200,
-    "max_participants": 50,
-    "min_participants": 5,
-    "event_date": "Nov 4, 2023",
-    "event_time": "11:00 AM",
-    "org_club": "Samvaad",
-    "duration": "2 hours approx.",
-    "instructions": [
-      "Teams of max 3 members will be allowed, based on prior registration and feepayment.",
-      " Multiple different phases of the quiz : Textual, Visual and maybe Auditory",
-      "Different phases can have different scoring system.",
-      "Quiz will follow standard rules of Direct, Pounce, Pass and will be explained at the start or whenever necessary"
-    ],
-    "coordinators": [
-      {
-        "name": "Advay Sagarkar",
-        "pno": 9152539747
-      }
-    ],
-    "images": {
-      "headerDesktop": "",
-      "headerPhone": "",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765291/samvad/main/frame-221-652292e6d3c3c_btoqal.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765291/samvad/main/frame-221-1-652292e7c545c_x5j95h.webp"
+    {
+        "name": "Quizzeria : SPENT",
+        "tagline": "Quizzeria: SPENT - Where Words Bridge the Gap Between Stadiums and Silver Screens!",
+        "event_type": "Team",
+        "event_category": "Quizzing",
+        "description": "Sports and entertainment quiz. Come and test your knowledge of best of worlds.",
+        "reg_fees": 200,
+        "max_participants": 50,
+        "min_participants": 5,
+        "event_date": "Nov 4, 2023",
+        "event_time": "11:00 AM",
+        "org_club": "Samvaad",
+        "duration": "2 hours approx.",
+        "instructions": [
+            "Teams of max 3 members will be allowed, based on prior registration and feepayment.",
+            " Multiple different phases of the quiz : Textual, Visual and maybe Auditory",
+            "Different phases can have different scoring system.",
+            "Quiz will follow standard rules of Direct, Pounce, Pass and will be explained at the start or whenever necessary"
+        ],
+        "coordinators": [
+            {
+                "name": "Advay Sagarkar",
+                "pno": 9152539747
+            }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641460/Final%20Event%20images/banner/Quizzing_Spent-banner_imkqr0.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641460/Final%20Event%20images/banner/Quizzing_Spent-banner_imkqr0.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765291/samvad/main/frame-221-652292e6d3c3c_btoqal.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765291/samvad/main/frame-221-1-652292e7c545c_x5j95h.webp"
+        },
+        "prize_pool": "11,500"
     },
-    "prize_pool": "11,500"
-  },
-  {
-    "name": "Kavyanchal",
-    "tagline": "Shabdon ke iss shehar mein apna bhi ghar banao!",
-    "event_type": "Solo",
-    "event_category": "Informal",
-    "description": "Kavyanchal is a Hindi Poetry competition where you are given a stand to present your best shayris and nazms in front of people that want to listen. ",
-    "reg_fees": 75,
-    "max_participants": 60,
-    "min_participants": 5,
-    "event_date": "Nov 4, 2023",
-    "event_time": "9:00 AM",
-    "org_club": "Samvaad",
-    "duration": "4 hours approx.",
-    "instructions": [
-      "Present your own Hindi poetry.",
-      "It should not be copied from anywhere else.",
-      "It should have a duration of minimum 1 minute and maximum 4 minutes."
-    ],
-    "coordinators": [
-      {
-        "name": "Kushagra Yadav",
-        "pno": 7509855423
-      }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766039/samvad/header/poetry_veinbu.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766037/samvad/header/Frame_251_uoltrz.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765304/samvad/main/frame-212-652292dd8f3d6_j7affa.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765293/samvad/main/frame-225-652292e9f0bd7_ohokwh.webp"
+    {
+        "name": "Kavyanchal",
+        "tagline": "Shabdon ke iss shehar mein apna bhi ghar banao!",
+        "event_type": "Solo",
+        "event_category": "Informal",
+        "description": "Kavyanchal is a Hindi Poetry competition where you are given a stand to present your best shayris and nazms in front of people that want to listen. ",
+        "reg_fees": 75,
+        "max_participants": 60,
+        "min_participants": 5,
+        "event_date": "Nov 4, 2023",
+        "event_time": "9:00 AM",
+        "org_club": "Samvaad",
+        "duration": "4 hours approx.",
+        "instructions": [
+            "Present your own Hindi poetry.",
+            "It should not be copied from anywhere else.",
+            "It should have a duration of minimum 1 minute and maximum 4 minutes."
+        ],
+        "judging_criteria": [],
+        "coordinators": [
+            {
+                "name": "Kushagra Yadav",
+                "pno": 7509855423
+            }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766039/samvad/header/poetry_veinbu.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766037/samvad/header/Frame_251_uoltrz.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641424/Final%20Event%20images/card/kavyanchal_card_obehua.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641424/Final%20Event%20images/card/kavyanchal_card_obehua.webp"
+        },
+        "prize_pool": 7000
     },
-    "prize_pool": 7000
-  },
-  {
-    "name": "Verses v/s Verses",
-    "tagline": "Verses v/s Verses: Weave the Fabric of Emotion Through Rhymes!",
-    "event_type": "Solo",
-    "event_category": "Informal",
-    "description": "Verses v/s Verses is an English Poetry competition where you can flex your rhymes and weave the fabric of your reality to tell tales that move the heart.",
-    "reg_fees": 75,
-    "max_participants": 60,
-    "min_participants": 5,
-    "event_date": "Nov 3, 2023",
-    "event_time": "02:00 PM",
-    "org_club": "Samvaad",
-    "duration": "4 hours approx.",
-    "instructions": [
-      "Present your own English poetry.",
-      "It should not be copied from anywhere else.",
-      "It should have a duration of minimum 1 minute and maximum 4 minutes."
-    ],
-    "coordinators": [
-      {
-        "name": "Kushagra Yadav",
-        "pno": 7509855423
-      }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766020/samvad/header/Frame_191_vcvikg.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766049/samvad/header/Frame_192_co8wjf.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765303/samvad/main/frame-209-652292dd15a75_lra6vu.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765292/samvad/main/frame-222-652292e9f0bd8_sopqde.webp"
+    {
+        "name": "Verses v/s Verses",
+        "tagline": "Verses v/s Verses: Weave the Fabric of Emotion Through Rhymes!",
+        "event_type": "Solo",
+        "event_category": "Informal",
+        "description": "Verses v/s Verses is an English Poetry competition where you can flex your rhymes and weave the fabric of your reality to tell tales that move the heart.",
+        "reg_fees": 75,
+        "max_participants": 60,
+        "min_participants": 5,
+        "event_date": "Nov 3, 2023",
+        "event_time": "02:00 PM",
+        "org_club": "Samvaad",
+        "duration": "4 hours approx.",
+        "instructions": [
+            "Present your own English poetry.",
+            "It should not be copied from anywhere else.",
+            "It should have a duration of minimum 1 minute and maximum 4 minutes."
+        ],
+        "judging_criteria": [],
+        "coordinators": [
+            {
+                "name": "Kushagra Yadav",
+                "pno": 7509855423
+            }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766020/samvad/header/Frame_191_vcvikg.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766049/samvad/header/Frame_192_co8wjf.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641425/Final%20Event%20images/card/Verses_vs_verses_card_qvrx8c.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641425/Final%20Event%20images/card/Verses_vs_verses_card_qvrx8c.webp"
+        },
+        "prize_pool": 7000
     },
-    "prize_pool": 7000
-  },
-  {
-    "name": "Pen It Down",
-    "tagline": "Write From Anywhere with Pen It Down!",
-    "event_type": "Team",
-    "event_category": "Literary",
-    "description": "Pen It Down is an ONLINE-only creative writing based event where you can unleash wrting skills(storyline) based on the prompts from a variety of different fields.",
-    "reg_fees": 50,
-    "max_participants": 60,
-    "min_participants": 5,
-    "event_date": "Nov 4, 2023",
-    "event_time": "02:00 PM",
-    "org_club": "Samvaad",
-    "duration": "1 hour approx.",
-    "instructions": [
-      "ONLINE only event. Participants need to register before the commencement of the event on an online platform. When the event begins, the topics for writing will be released to the participants. They will have 4 hours to construct a storyline on the given topic/theme.",
-      " They will have to submit their story in the given time frame in a pdf format only. Plagiarism and AI checks will be kept in place, and any offenders will be disqualified from the competition. The winners will be announced later based on the judges’ decision."
-    ],
-    "coordinators": [
-      {
-        "name": "Areeb Siddiqui ",
-        "pno": 8425999003
-      }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766043/samvad/header/Frame_204_u4xvuj.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766025/samvad/header/Frame_196_udly6h.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765301/samvad/main/pend-1-652292f251e4a_vh7v38.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765300/samvad/main/pend-1-1-652292f823541_rsgmvl.webp"
+    {
+        "name": "Pen It Down",
+        "tagline": "Write From Anywhere with Pen It Down!",
+        "event_type": "Team",
+        "event_category": "Literary",
+        "description": "Pen It Down is an ONLINE-only creative writing based event where you can unleash wrting skills(storyline) based on the prompts from a variety of different fields.",
+        "reg_fees": 50,
+        "max_participants": 60,
+        "min_participants": 5,
+        "event_date": "Nov 4, 2023",
+        "event_time": "02:00 PM",
+        "org_club": "Samvaad",
+        "duration": "1 hour approx.",
+        "instructions": [
+            "ONLINE only event. Participants need to register before the commencement of the event on an online platform. When the event begins, the topics for writing will be released to the participants. They will have 4 hours to construct a storyline on the given topic/theme.",
+            " They will have to submit their story in the given time frame in a pdf format only. Plagiarism and AI checks will be kept in place, and any offenders will be disqualified from the competition. The winners will be announced later based on the judges’ decision."
+        ],
+        "judging_criteria": [],
+        "coordinators": [
+            {
+                "name": "Areeb Siddiqui ",
+                "pno": 8425999003
+            }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766043/samvad/header/Frame_204_u4xvuj.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766025/samvad/header/Frame_196_udly6h.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641425/Final%20Event%20images/card/PenItDown_card_jdveco.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641425/Final%20Event%20images/card/PenItDown_card_jdveco.webp"
+        },
+        "prize_pool": 6000
     },
-    "prize_pool": 6000
-  },
-  {
-    "name": "Brain Rot Escape",
-    "tagline": "Get ready to exercise your brain and lose your sanity simultaneously with Brain Rot Escape – where literature meets lunacy!",
-    "event_type": "Solo",
-    "event_category": "Informal",
-    "description": "A series of 3 literary games.Each of them will follow an elimination method.Winners will be emerging in the third game.",
-    "reg_fees": 50,
-    "max_participants": 350,
-    "min_participants": 5,
-    "event_date": "Nov 5, 2023",
-    "event_time": "02:00 PM",
-    "org_club": "Samvaad",
-    "duration": "2 hours approx.",
-    "instructions": [
-      "Round 1-It will be an individual round.",
-      "Round 2-The group activity will take place.",
-      "Round 3-The remaining people will go for individual competition.        "
-    ],
-    "coordinators": [
-      {
-        "name": "Qassah",
-        "pno": 9971115820
-      }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766022/samvad/header/Frame_202_yoc1y0.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766045/samvad/header/Frame_194_azw3fe.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765305/samvad/main/frame-215-652292dfd6262_jdp8aw.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765298/samvad/main/frame-252-652292eea4a0d_ihfmex.webp"
+    {
+        "name": "Brain Rot Escape",
+        "tagline": "Get ready to exercise your brain and lose your sanity simultaneously with Brain Rot Escape – where literature meets lunacy!",
+        "event_type": "Solo",
+        "event_category": "Informal",
+        "description": "A series of 3 literary games.Each of them will follow an elimination method.Winners will be emerging in the third game.",
+        "reg_fees": 50,
+        "max_participants": 350,
+        "min_participants": 5,
+        "event_date": "Nov 5, 2023",
+        "event_time": "02:00 PM",
+        "org_club": "Samvaad",
+        "duration": "2 hours approx.",
+        "instructions": [
+            "Round 1-It will be an individual round.",
+            "Round 2-The group activity will take place.",
+            "Round 3-The remaining people will go for individual competition.        "
+        ],
+        "coordinators": [
+            {
+                "name": "Qassah",
+                "pno": 9971115820
+            }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766022/samvad/header/Frame_202_yoc1y0.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766045/samvad/header/Frame_194_azw3fe.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641426/Final%20Event%20images/card/BrainRotEscape_card_masgwu.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641426/Final%20Event%20images/card/BrainRotEscape_card_masgwu.webp"
+        },
+        "prize_pool": 3000
     },
-    "prize_pool": 3000
-  },
-  {
-    "name": "X-Calibre",
-    "tagline": "If you can't convince them, confuse them.",
-    "event_type": "Team",
-    "event_category": "Debate",
-    "description": "English oratory showcase, consisting of Oxford-style as well as parliamentary style of debate.",
-    "reg_fees": 150,
-    "max_participants": 20,
-    "min_participants": 2,
-    "event_date": "Nov 5, 2023",
-    "event_time": "09:00 AM",
-    "org_club": "Samvaad",
-    "duration": "7 hours approx.",
-    "instructions": [
-      "Round 1 - Extempore round, wherein one member from each team will speak spontaneously on a topic for two and a half minutes. Top 10 teams advance to the next round.",
-      "Round 2 - Oxford-style debating round, in which 2 teams, selected randomly, will go head-to-head against each other, arguing in favour of and against a given motion respectively. Each side(proposition and opposition) will consist of two members, with each speaker getting 3 minutes to present their arguments, followed by cross-questioning and rebuttals. Top 5 teams advance to the final round.",
-      "Round 3 - The final round comprises a parliamentary style of debate, wherein all the final teams will compete against each other, arguing on an open-ended question presented to the house. All the 3 members of a team will participate in this round together as a unit."
-    ],
-    "coordinators": [
-      {
-        "name": "Manoj Panjwani",
-        "pno": 6391919140
-      }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766029/samvad/header/Frame_203_oopnhv.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766020/samvad/header/Frame_195_r2b734.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765314/samvad/main/frame-216-652292e06c2f5_y0aonm.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765294/samvad/main/frame-226-652292eb2d76b_u3b3oc.webp"
+    {
+        "name": "X-Calibre",
+        "tagline": "If you can't convince them, confuse them.",
+        "event_type": "Team",
+        "event_category": "Debate",
+        "description": "English oratory showcase, consisting of Oxford-style as well as parliamentary style of debate.",
+        "reg_fees": 150,
+        "max_participants": 20,
+        "min_participants": 2,
+        "event_date": "Nov 5, 2023",
+        "event_time": "09:00 AM",
+        "org_club": "Samvaad",
+        "duration": "7 hours approx.",
+        "instructions": [
+            "Round 1 - Extempore round, wherein one member from each team will speak spontaneously on a topic for two and a half minutes. Top 10 teams advance to the next round.",
+            "Round 2 - Oxford-style debating round, in which 2 teams, selected randomly, will go head-to-head against each other, arguing in favour of and against a given motion respectively. Each side(proposition and opposition) will consist of two members, with each speaker getting 3 minutes to present their arguments, followed by cross-questioning and rebuttals. Top 5 teams advance to the final round.",
+            "Round 3 - The final round comprises a parliamentary style of debate, wherein all the final teams will compete against each other, arguing on an open-ended question presented to the house. All the 3 members of a team will participate in this round together as a unit."
+        ],
+        "coordinators": [
+            {
+                "name": "Manoj Panjwani",
+                "pno": 6391919140
+            }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766029/samvad/header/Frame_203_oopnhv.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766020/samvad/header/Frame_195_r2b734.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765314/samvad/main/frame-216-652292e06c2f5_y0aonm.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765294/samvad/main/frame-226-652292eb2d76b_u3b3oc.webp"
+        },
+        "prize_pool": "11,000"
     },
-    "prize_pool": "11,000"
-  },
-  {
-    "name": "Likhawat",
-    "tagline": "Your favorite poet/writer awaits to guide you.",
-    "event_type": "Solo",
-    "event_category": "Literary",
-    "description": "A workshop to help you weave your haziest of thoughts into simpler and profound strings.",
-    "reg_fees": 0,
-    "max_participants": 50,
-    "min_participants": 5,
-    "event_date": "Nov 4, 2023",
-    "event_time": "03:00 PM",
-    "org_club": "Samvaad",
-    "duration": "7 hours approx.",
-    "instructions": ["No such rules, you just have to be the audience."],
-    "coordinators": [
-      {
-        "name": "Bhakti",
-        "pno": 7058811442
-      }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766041/samvad/header/Frame_201_myadrk.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766047/samvad/header/Frame_193_lqpaqt.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765302/samvad/main/penit-2-65229300e2b7a_ykyo66.webp",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696765295/samvad/main/frame-228-652292eb5496f_ommpsu.webp"
+    {
+        "name": "Likhawat",
+        "tagline": "Your favorite poet/writer awaits to guide you.",
+        "event_type": "Solo",
+        "event_category": "Literary",
+        "description": "A workshop to help you weave your haziest of thoughts into simpler and profound strings.",
+        "reg_fees": 0,
+        "max_participants": 50,
+        "min_participants": 5,
+        "event_date": "Nov 4, 2023",
+        "event_time": "03:00 PM",
+        "org_club": "Samvaad",
+        "duration": "7 hours approx.",
+        "instructions": ["No such rules, you just have to be the audience."],
+        "coordinators": [
+            {
+                "name": "Bhakti",
+                "pno": 7058811442
+            }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766041/samvad/header/Frame_201_myadrk.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766047/samvad/header/Frame_193_lqpaqt.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641425/Final%20Event%20images/card/likhawat_card_ghcsm6.webp",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1697641425/Final%20Event%20images/card/likhawat_card_ghcsm6.webp"
+        },
+        "prize_pool": 0
     },
-    "prize_pool": 0
-  },
-  {
-    "name": "Vaad-Vivaad",
-    "tagline": "शब्दों का जाल बनेगा बवाल! आइये शुरू करते हैं शब्दों का महायुद्ध!",
-    "event_type": "Team",
-    "event_category": "Debate",
-    "description": "Join us and experience the thrill of our Hindi Debate as we embark on a journey of words and wit. Let your ideas take flight and voices ignite.",
-    "reg_fees": 200,
-    "max_participants": 25,
-    "min_participants": 2,
-    "event_date": "Nov 3, 2023",
-    "event_time": "09:00 AM",
-    "org_club": "Samvaad",
-    "duration": "4.5 hours approx.",
-    "instructions": [
-      "Round 1 (10 minutes) - 'Yeh toh bas shurwat hai.'",
-      "1. Each team will have a total of 5 minutes to present their arguments.",
-      "2. Teams will speak for 2 minutes alternately, two times.",
-      "3. The last 1 minute is reserved for each team to provide their conclusion.",
-      "Round 2 (14 minutes) - 'Jaldi karo nhi toh der ho jayegi'",
-      "1. Each team will have a total of 7 minutes to present their arguments.",
-      "2. Teams will speak for 1 minute alternately.",
-      "Round 3 (20 minutes) - 'Jungle ka khel'",
-      "1. There is no time restriction for this round.",
-      "2. The last 5 minutes of this round will be dedicated to audience questions."
-    ],
-    "coordinators": [
-      {
-        "name": "Swati Tiwari",
-        "pno": 7266074282
-      }
-    ],
-    "images": {
-      "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766052/samvad/header/Frame_206_esgx3f.webp",
-      "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766027/samvad/header/Frame_197_npu8df.webp",
-      "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696836490/samvad/main/15th_Aug_Act_28_1_lmwqqn.png",
-      "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696836489/samvad/main/15th_Aug_Act_28_1_1_ammbbc.png"
-    },
-    "prize_pool": "11,000"
-  }
+    {
+        "name": "Vaad-Vivaad",
+        "tagline": "शब्दों का जाल बनेगा बवाल! आइये शुरू करते हैं शब्दों का महायुद्ध!",
+        "event_type": "Team",
+        "event_category": "Debate",
+        "description": "Join us and experience the thrill of our Hindi Debate as we embark on a journey of words and wit. Let your ideas take flight and voices ignite.",
+        "reg_fees": 200,
+        "max_participants": 25,
+        "min_participants": 2,
+        "event_date": "Nov 3, 2023",
+        "event_time": "09:00 AM",
+        "org_club": "Samvaad",
+        "duration": "4.5 hours approx.",
+        "instructions": [
+            "Round 1 (10 minutes) - 'Yeh toh bas shurwat hai.'",
+            "1. Each team will have a total of 5 minutes to present their arguments.",
+            "2. Teams will speak for 2 minutes alternately, two times.",
+            "3. The last 1 minute is reserved for each team to provide their conclusion.",
+            "Round 2 (14 minutes) - 'Jaldi karo nhi toh der ho jayegi'",
+            "1. Each team will have a total of 7 minutes to present their arguments.",
+            "2. Teams will speak for 1 minute alternately.",
+            "Round 3 (20 minutes) - 'Jungle ka khel'",
+            "1. There is no time restriction for this round.",
+            "2. The last 5 minutes of this round will be dedicated to audience questions."
+        ],
+        "coordinators": [
+            {
+                "name": "Swati Tiwari",
+                "pno": 7266074282
+            }
+        ],
+        "images": {
+            "headerDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766052/samvad/header/Frame_206_esgx3f.webp",
+            "headerPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696766027/samvad/header/Frame_197_npu8df.webp",
+            "mainDesktop": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696836490/samvad/main/15th_Aug_Act_28_1_lmwqqn.png",
+            "mainPhone": "https://res.cloudinary.com/dxcjzquen/image/upload/v1696836489/samvad/main/15th_Aug_Act_28_1_1_ammbbc.png"
+        },
+        "prize_pool": "11,000"
+    }
 ]
