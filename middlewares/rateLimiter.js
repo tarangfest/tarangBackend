@@ -4,7 +4,7 @@ const { rateLimit } = require("express-rate-limit");
 
 exports.limiter = rateLimit({
   windowMs: 60 * 1000,
-  limit: 500,
+  limit: 250,
   standardHeaders: "draft-7", // draft-6: `RateLimit-*` headers; draft-7: combined `RateLimit` header
   legacyHeaders: false, // Disable the `X-RateLimit-*` headers
 });
