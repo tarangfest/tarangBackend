@@ -128,6 +128,9 @@ const UserSchema = new mongoose.Schema(
         },
         eventFee: {
           type: Number,
+        },
+        registerAs: {
+          type: String,
         }
       },
     ],

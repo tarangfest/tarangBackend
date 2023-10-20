@@ -65,6 +65,8 @@ exports.registerEvent = async (req, res, next) => {
     const { user } = req;
     const userDet = await User.findById(user.id);
     const event = await Event.findOne({ slug });
+    let reg_fees = event.reg_fees;
+
     if (!event) {
       return next({
         message: "Event not found",
@@ -78,34 +80,41 @@ exports.registerEvent = async (req, res, next) => {
       });
     }
     if (event.event_type == "Team") {
-      const { teamName, teamLeader } = req.body;
-      if (!teamName) {
-        return next({
-          message: "Team name required",
-          statusCode: 400,
-        });
-      }
-      if (!teamLeader) {
-        return next({
-            message: "Team Leader Name required",
+      let { teamName, teamLeader, registerAs } = req.body;
+      if(registerAs === "leader"){
+        if (!teamName) {
+          return next({
+            message: "Team name required",
             statusCode: 400,
-        });
+          });
+        }
+        teamLeader = userDet.tarang_id;
+      }
+      else{
+        if (!teamLeader) {
+          return next({
+              message: "Team Leader Id required",
+              statusCode: 400,
+          });
+        }
+        reg_fees=0;
       }
       userDet.events.push({
         slug: event.slug,
         eventId: event._id,
         teamleaderId: teamLeader,
         teamName,
-        eventFee: event.reg_fees,
+        registerAs,
+        eventFee: reg_fees,
       });
     } else {
       userDet.events.push({
         slug: event.slug,
         eventId: event._id,
-        eventFee: event.reg_fees,
+        eventFee: reg_fees,
       });
     }
-    userDet.totalCost += Number(event.reg_fees);
+    userDet.totalCost += Number(reg_fees);
     await userDet.save();
     res.status(200).json({
       success: true,
@@ -125,6 +134,8 @@ exports.removeEvent = async (req, res, next) => {
     const { user } = req;
     const userDet = await User.findById(user.id);
     const event = await Event.findOne({ slug });
+    const reg_fees = userDet.events.filter(usrEvent => usrEvent.slug === event.slug)[0]?.eventFee;
+
     if (!event) {
       return next({
         message: "Event not found",
@@ -138,7 +149,7 @@ exports.removeEvent = async (req, res, next) => {
       });
     }
     userDet.events = removeEvent(userDet.events, slug);
-    userDet.totalCost -= event.reg_fees;
+    userDet.totalCost -= reg_fees;
     await userDet.save();
     res.status(200).json({
       success: true,

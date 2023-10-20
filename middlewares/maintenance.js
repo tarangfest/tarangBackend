@@ -1,5 +1,5 @@
 function maintenanceMiddleware(req, res, next) {
-  const isMaintenanceEnabled = true; // Set this to true or false based on your maintenance mode status
+  const isMaintenanceEnabled = false; // Set this to true or false based on your maintenance mode status
 
   if (isMaintenanceEnabled) {
     return res.status(503).send({
