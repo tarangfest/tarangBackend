@@ -31,7 +31,6 @@ Router.route("/register").post(
   registerEvent
 );
 Router.route("/remove").delete(
-  maintenanceMiddleware,
   protectedRoute,
   eventGuard,
   removeEvent
