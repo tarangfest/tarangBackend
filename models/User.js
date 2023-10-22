@@ -107,6 +107,10 @@ const UserSchema = new mongoose.Schema(
       type: Boolean,
       default: false,
     },
+    hasEntryPass: {
+      type: Boolean,
+      default: false,
+    },
     totalCost: {
       type: Number,
       default: 0,

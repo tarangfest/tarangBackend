@@ -140,16 +140,18 @@ exports.formCallback = async (req, res, next) => {
       });
     }
     user.paymentFormFilled = true;
-    if (accomodation == "Yes") {
+    if (accomodation === "Yes") {
       user.hasAccomodation = true;
     } else {
       user.hasAccomodation = false;
     }
-    if (purchaseTarangCard == "Yes") {
+    if (purchaseTarangCard === "Yes") {
       user.purchaseTarangCard = true;
       user.totalCost = 1499;
     } else {
       user.purchaseTarangCard = false;
+      user.hasEntryPass = true;
+      user.totalCost = user.totalCost + 300;
     }
     await user.save();
     res.status(200).json({

@@ -43,7 +43,6 @@ exports.clearevents = async (req, res, next) => {
   try {
     const { user } = req;
     const userDet = await User.findById(user.id);
-    console.log(userDet.events);
     userDet.events = [];
     await userDet.save();
     res.status(200).json({
