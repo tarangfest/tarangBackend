@@ -6,7 +6,7 @@ const { sendPaymentStatus } = require("../utils/sendMail");
 // get all users
 exports.getUsers = async (req, res, next) => {
   try {
-    const users = await User.find({});
+    const users = await User.find({}).populate("events");
     res.status(200).json({
       success: true,
       users,
@@ -192,6 +192,40 @@ exports.getRejectedUsers = async (req, res, next) => {
     const users = await User.find({
       paymentRejected: true,
     });
+    res.status(200).json({
+      success: true,
+      users,
+    });
+  } catch (error) {
+    next(error);
+  }
+};
+
+
+// GET
+// get all verified users
+exports.getVerifiedUsers = async (req, res, next) => {
+  try {
+    const users = await User.find({
+      paymentVerified: true,
+      paymentFormFilled: true,
+      paymentRejected: false,
+    });
+    res.status(200).json({
+      success: true,
+      users,
+    });
+  } catch (error) {
+    next(error);
+  }
+};
+
+// GET
+// get user by tarangID
+exports.getUser = async (req, res, next) => {
+  try {
+    const { userID } = req.query;
+    const users = await User.find({tarang_id: {$regex: userID} }).populate("events");
     res.status(200).json({
       success: true,
       users,
